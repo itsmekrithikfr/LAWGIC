@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23",
+ "updated": "2026-11-24",
  "items": [
   {
    "id": "samsung",
@@ -227,6 +227,28 @@
    "url": "https://globalscholars.yale.edu/application-deadlines",
    "added": "2026-11-23",
    "seed": true
+  },
+  {
+   "id": "sumac",
+   "name": "Stanford University Mathematics Camp (SUMaC)",
+   "org": "Stanford Pre-Collegiate Studies",
+   "fields": [
+    "math",
+    "research"
+   ],
+   "kind": "Summer program",
+   "deadline": "2027-01-07",
+   "dlabel": "Jan 7, 2027 (11:59 pm PT)",
+   "status": "ask",
+   "tier": "B",
+   "prestige": 7,
+   "diff": "Very hard · 40 residential, 85 online seats",
+   "hours": "15–25 h",
+   "cost": "$65 app fee (waivers); need-based aid",
+   "note": "An intensive proof-based math program at Stanford (residential) or online, open to students in grades 10 and 11. The admissions page doesn't state a citizenship rule. Financial aid is due about a week after the application.",
+   "act": "Ask SUMaC whether non-citizens at U.S. schools can apply, then start the admission problems over winter break.",
+   "url": "https://sumac.spcs.stanford.edu/sumac-admissions",
+   "added": "2026-11-24"
   },
   {
    "id": "jfk",
@@ -728,6 +750,49 @@
    "added": "2026-11-23"
   },
   {
+   "id": "mathcamp",
+   "name": "Canada/USA Mathcamp",
+   "org": "Mathcamp",
+   "fields": [
+    "math"
+   ],
+   "kind": "Summer program",
+   "deadline": "2027-02-22",
+   "dlabel": "Feb 22, 2027 (confirm)",
+   "status": "ok",
+   "tier": "B",
+   "prestige": 8,
+   "diff": "Very hard · Qualifying Quiz",
+   "hours": "20–40 h",
+   "cost": "Tuition; aid for all, incl. full scholarships",
+   "note": "A five-week residential math program for ages 13–18, admitted mainly through a hard Qualifying Quiz. It explicitly welcomes students from around the world and gives international students financial aid. The 2027 deadline isn't posted yet; 2026's was Feb 23.",
+   "act": "Watch for the 2027 Qualifying Quiz and start working the problems as soon as it's posted.",
+   "url": "https://www.mathcamp.org/admission/deadlines/",
+   "added": "2026-11-24"
+  },
+  {
+   "id": "promys",
+   "name": "PROMYS (Program in Mathematics for Young Scientists)",
+   "org": "Boston University",
+   "fields": [
+    "math",
+    "research"
+   ],
+   "kind": "Summer program",
+   "deadline": "2027-02-26",
+   "dlabel": "End of Feb 2027 (confirm)",
+   "status": "ok",
+   "tier": "B",
+   "prestige": 8,
+   "diff": "Very hard · application problem set",
+   "hours": "20–40 h",
+   "cost": "Free under $80k income; up to $8,000; aid",
+   "note": "Six weeks of number theory at Boston University (June 27 – Aug 7, 2027) for ages 14–18. It selects students from the U.S. and around the world and considers aid for international students case by case. The application opens in January.",
+   "act": "Sign up on the PROMYS site to be notified when the 2027 application and problem set open in January.",
+   "url": "https://promys.org/programs/promys/for-students/",
+   "added": "2026-11-24"
+  },
+  {
    "id": "qb",
    "name": "QuestBridge College Prep Scholars",
    "org": "QuestBridge",
@@ -862,6 +927,28 @@
    "url": "https://www.legion.org/get-involved/youth-programs/oratorical-contest/how-to-participate",
    "added": "2026-11-23",
    "seed": true
+  },
+  {
+   "id": "bri-impact",
+   "name": "BRI Community Impact Contest",
+   "org": "Bill of Rights Institute",
+   "fields": [
+    "policy",
+    "writing"
+   ],
+   "kind": "Civic engagement contest",
+   "deadline": "2027-04-19",
+   "dlabel": "Apr 19, 2027 (11:59 pm PT)",
+   "status": "ok",
+   "tier": "B",
+   "prestige": 4,
+   "diff": "Moderate · national",
+   "hours": "15–30 h",
+   "cost": "Free · $10,000 grand prize",
+   "note": "Students 13–19 submit a project showing how they've addressed a community problem through civic values, alone or in groups of up to five. It's open to U.S. citizens and U.S.-based young people. Prizes run from $500 to $10,000.",
+   "act": "Pick a local issue you could act on this winter (a debate or robotics outreach project could count) and document it for the spring entry.",
+   "url": "https://billofrightsinstitute.org/community-impact-contest/",
+   "added": "2026-11-24"
   },
   {
    "id": "cac",
