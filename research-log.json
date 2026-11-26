@@ -1,6 +1,6 @@
 {
  "about": "Memory for the daily opportunity researcher. Programs already on the tracker live in data.json; this file records everything else that was checked, so later runs don't repeat the work.",
- "updated": "2026-11-25",
+ "updated": "2026-11-26",
  "rejected": [
   {
    "name": "Optimist International Oratorical Contest",
@@ -505,6 +505,321 @@
    "reason": "in-person event Nov 14, 2026 passed; online version added instead",
    "recheck_after": "2027-09-01",
    "date": "2026-11-25"
+  },
+  {
+   "name": "CyberPatriot 19 (2026-27)",
+   "url": "https://afaconnect.org/programs/cyberpatriot",
+   "reason": "Registration deadlines (Oct–Nov 5, 2026) passed; no citizenship rule stated",
+   "recheck_after": "2027-04-01",
+   "date": "2026-11-26"
+  },
+  {
+   "name": "US Cyber Games (Season VII)",
+   "url": "https://www.uscybergames.com/faq",
+   "reason": "Open CTF is ages 18-24 and team members must be US citizens",
+   "recheck_after": "2099-01-01",
+   "date": "2026-11-26"
+  },
+  {
+   "name": "Stanford AI4ALL 2027",
+   "url": "https://ai4all.spcs.stanford.edu/ai4all-admissions",
+   "reason": "Open only to current 9th graders",
+   "recheck_after": "2099-01-01",
+   "date": "2026-11-26"
+  },
+  {
+   "name": "NASA App Development Challenge",
+   "url": "https://www.nasa.gov/learning-resources/app-development-challenge/",
+   "reason": "Paused for 2026; NASA says check back Aug 2027",
+   "recheck_after": "2027-08-15",
+   "date": "2026-11-26"
+  },
+  {
+   "name": "picoCTF 2027",
+   "url": "https://www.cs.cmu.edu/outreach/programs/pico-ctf",
+   "reason": "2027 dates and prize eligibility not posted; picoctf.org would not load",
+   "recheck_after": "2026-12-26",
+   "date": "2026-11-26"
+  },
+  {
+   "name": "Lockheed Martin Code Quest / CYBERQUEST / AI Quest 2027",
+   "url": "https://www.lockheedmartin.com/en-us/who-we-are/communities/codequest.html",
+   "reason": "Official page failed to load; no 2027 dates",
+   "recheck_after": "2026-12-26",
+   "date": "2026-11-26"
+  },
+  {
+   "name": "Arkansas Governor's All-Region/All-State Coding Competition",
+   "url": "https://dese.ade.arkansas.gov/Offices/ar-comp-sci-initiative/contest-and-grant-opportunities/governors-all-region-all-state-coding-competition",
+   "reason": "DESE pages could not be fetched; likely strong local fit, recheck",
+   "recheck_after": "2026-12-26",
+   "date": "2026-11-26"
+  },
+  {
+   "name": "AAN Neuroscience Research Prize",
+   "url": "https://www.aan.com/research/neuroscience-research-prize",
+   "reason": "2026-27 window closed Oct 20, 2026; open to U.S. high schoolers with no citizenship rule — strong target next fall",
+   "recheck_after": "2027-07-29",
+   "date": "2026-11-26"
+  },
+  {
+   "name": "Garcia Summer Research Program (Stony Brook)",
+   "url": "https://www.stonybrook.edu/garcia/summer-program/apply.html",
+   "reason": "Fee-driven: $4,000 lab fee plus housing, no aid listed",
+   "recheck_after": "2099-01-01",
+   "date": "2026-11-26"
+  },
+  {
+   "name": "UF Student Science Training Program (SSTP)",
+   "url": "https://www.cpet.ufl.edu/students/uf-cpet-summer-programs/student-science-training-program/",
+   "reason": "Fee-driven: $5,500 fee, aid only for Florida students",
+   "recheck_after": "2099-01-01",
+   "date": "2026-11-26"
+  },
+  {
+   "name": "Jackson Laboratory Summer Student Program",
+   "url": "https://www.jax.org/education-and-learning/high-school-students-and-undergraduates/learn-earn-and-explore/admission",
+   "reason": "Now for undergraduates only",
+   "recheck_after": "2099-01-01",
+   "date": "2026-11-26"
+  },
+  {
+   "name": "OMRF Sir Alexander Fleming Scholar Program",
+   "url": "https://omrf.org/training-outreach/summer-scholars/",
+   "reason": "Oklahoma residents and graduating seniors only; excludes H-4",
+   "recheck_after": "2099-01-01",
+   "date": "2026-11-26"
+  },
+  {
+   "name": "Arkansas Children's Research Institute Summer Science Program",
+   "url": "https://www.archildrens.org/research/summer-science-program",
+   "reason": "College students only (and a paid job)",
+   "recheck_after": "2099-01-01",
+   "date": "2026-11-26"
+  },
+  {
+   "name": "Arkansas INBRE Student Summer Program",
+   "url": "https://inbre.uams.edu/outreach-programs/student-summer-progam/",
+   "reason": "Undergraduates only",
+   "recheck_after": "2099-01-01",
+   "date": "2026-11-26"
+  },
+  {
+   "name": "Arkansas High School Regional Science Bowl (DOE National Science Bowl)",
+   "url": "https://science.osti.gov/wdts/nsb/Regional-Competitions/High-School-Regionals/AR_Arkansas-High-School-Regional-Science-Bowl",
+   "reason": "School team registration closed Nov 23, 2026",
+   "recheck_after": "2027-10-05",
+   "date": "2026-11-26"
+  },
+  {
+   "name": "Michigan State HSHSP",
+   "url": "https://education.msu.edu/hshsp",
+   "reason": "Not held in 2025 or 2026; no 2027 information",
+   "recheck_after": "2026-12-26",
+   "date": "2026-11-26"
+  },
+  {
+   "name": "BioGENEius Challenge",
+   "url": "https://biotechinstitute.org/application-portal/",
+   "reason": "No 2027 dates, grade limits or eligibility posted",
+   "recheck_after": "2026-12-26",
+   "date": "2026-11-26"
+  },
+  {
+   "name": "AFRL Scholars Program",
+   "url": "https://afrlscholars.usra.edu/",
+   "reason": "Official page wouldn't load",
+   "recheck_after": "2026-12-26",
+   "date": "2026-11-26"
+  },
+  {
+   "name": "Hutton Junior Fisheries Biology Program",
+   "url": "https://hutton.fisheries.org/",
+   "reason": "Official page wouldn't load",
+   "recheck_after": "2026-12-26",
+   "date": "2026-11-26"
+  },
+  {
+   "name": "Arkansas Junior Academy of Science (ARASE)",
+   "url": "https://arase.org/home/index.php/junior-academy-of-science/",
+   "reason": "Official page blocked by a verification screen",
+   "recheck_after": "2026-12-26",
+   "date": "2026-11-26"
+  },
+  {
+   "name": "Spellman HV Clean Tech Competition",
+   "url": "https://www.competitionsciences.org/competitions/spellman-hv-clean-tech-competition/",
+   "reason": "Official site not found; only aggregator pages",
+   "recheck_after": "2026-12-26",
+   "date": "2026-11-26"
+  },
+  {
+   "name": "Future Doctors Global Pre-Med Challenge",
+   "url": "https://futuredoctorsprogram.com/competition",
+   "reason": "Fee-driven ($80-$100 entry), prizes are mostly its own courses",
+   "recheck_after": "2099-01-01",
+   "date": "2026-11-26"
+  },
+  {
+   "name": "Biodesign Challenge 2027",
+   "url": "https://biodesignchallenge.org/registration/biodesign-challenge-2027",
+   "reason": "School registration $1,750+; students cannot enter alone",
+   "recheck_after": "2099-01-01",
+   "date": "2026-11-26"
+  },
+  {
+   "name": "BCM Saturday Morning Science Summer Research Program",
+   "url": "https://www.bcm.edu/about-us/community-engagement-health-equity/programs/saturday-morning-science/saturday-morning-science-summer-research-program",
+   "reason": "Requires age 18, prior Houston participation and SSN/green card",
+   "recheck_after": "2099-01-01",
+   "date": "2026-11-26"
+  },
+  {
+   "name": "Rice360 Global Health Technologies Design Competition",
+   "url": "https://rice360.rice.edu/design-competition",
+   "reason": "Undergraduate teams only",
+   "recheck_after": "2099-01-01",
+   "date": "2026-11-26"
+  },
+  {
+   "name": "Lasker Foundation Essay Contest",
+   "url": "https://laskerfoundation.org/education/essay-contest/",
+   "reason": "For medical/graduate trainees only",
+   "recheck_after": "2099-01-01",
+   "date": "2026-11-26"
+  },
+  {
+   "name": "National Bioethics Bowl (ASU, Apr 3, 2027)",
+   "url": "https://nationalbioethicsbowl.com/registration/",
+   "reason": "Unclear whether high school teams can enter; appears college-level",
+   "recheck_after": "2026-12-26",
+   "date": "2026-11-26"
+  },
+  {
+   "name": "International Neuroethics Society Essay Contest (high school category)",
+   "url": "https://neuroethicssociety.org/essay-contest/",
+   "reason": "Contest detail site could not be fetched",
+   "recheck_after": "2026-12-26",
+   "date": "2026-11-26"
+  },
+  {
+   "name": "UAMS Find Your Future in Healthcare Virtual Camp",
+   "url": "https://regionalcampuses.uams.edu/health-careers/high-school-students/find-your-future-virtual-camp/",
+   "reason": "2026 event (Nov 10) is over; free for Arkansas grades 9-12",
+   "recheck_after": "2027-09-01",
+   "date": "2026-11-26"
+  },
+  {
+   "name": "Wharton Global High School Investment Competition 2026-27",
+   "url": "https://globalyouth.wharton.upenn.edu/competitions/investment-competition/",
+   "reason": "Registration closed Sep 11, 2026",
+   "recheck_after": "2027-08-10",
+   "date": "2026-11-26"
+  },
+  {
+   "name": "Harvard Crimson Global Case Competition",
+   "url": "https://www.casecomp.org/",
+   "reason": "Registration closed Oct 14, 2026; run by an admissions consultancy",
+   "recheck_after": "2027-07-14",
+   "date": "2026-11-26"
+  },
+  {
+   "name": "YEI EconBowl",
+   "url": "https://www.theyei.org/events/econbowl",
+   "reason": "Registration closed Nov 10, 2026",
+   "recheck_after": "2027-09-01",
+   "date": "2026-11-26"
+  },
+  {
+   "name": "World Economics Cup",
+   "url": "https://www.worldeconcup.org/",
+   "reason": "Pay-to-play qualification bundle; organizer not named",
+   "recheck_after": "2099-01-01",
+   "date": "2026-11-26"
+  },
+  {
+   "name": "JA Company of the Year",
+   "url": "https://jausa.ja.org/events/opportunity/ja-company-of-the-year",
+   "reason": "Only local JA Areas nominate; 2027 dates not posted",
+   "recheck_after": "2026-12-26",
+   "date": "2026-11-26"
+  },
+  {
+   "name": "USA Economics Olympiad (usaeo.org)",
+   "url": "https://usaeo.org/",
+   "reason": "No 2026-27 dates or eligibility; could not verify",
+   "recheck_after": "2026-12-26",
+   "date": "2026-11-26"
+  },
+  {
+   "name": "NFTE World Series of Innovation 2026-27",
+   "url": "https://nfte.com/resources/challenges-submission-timeline/",
+   "reason": "No submission deadline stated; launch page wouldn't load",
+   "recheck_after": "2026-12-26",
+   "date": "2026-11-26"
+  },
+  {
+   "name": "Arkansas DECA State CDC",
+   "url": "http://www.arkansasdeca.com/conferences.html",
+   "reason": "Official page would not load",
+   "recheck_after": "2026-12-26",
+   "date": "2026-11-26"
+  },
+  {
+   "name": "Carnegie Mellon CS Scholars",
+   "url": "https://www.cmu.edu/pre-college/academic-programs/computer-science-scholars.html",
+   "reason": "Only 10th graders may apply; also citizen/PR only",
+   "recheck_after": "2099-01-01",
+   "date": "2026-11-26"
+  },
+  {
+   "name": "WashU Summer Philosophy Academy",
+   "url": "https://philosophy.washu.edu/past-events/summer-philosophy-academy",
+   "reason": "Returning in 2027 but no dates/eligibility posted",
+   "recheck_after": "2026-12-26",
+   "date": "2026-11-26"
+  },
+  {
+   "name": "University of Utah Summer Mathematics Program for High School Students",
+   "url": "https://www.math.utah.edu/high-school-program/summerhsp.php",
+   "reason": "Non-residential in Salt Lake City; costs covered only for citizens/PRs",
+   "recheck_after": "2099-01-01",
+   "date": "2026-11-26"
+  },
+  {
+   "name": "Iowa Lyceum (University of Iowa philosophy)",
+   "url": "https://philosophy.uiowa.edu/outreach",
+   "reason": "Official page could not be loaded",
+   "recheck_after": "2026-12-26",
+   "date": "2026-11-26"
+  },
+  {
+   "name": "Yale Summer Program in Astrophysics (YSPA)",
+   "url": "https://yspa.yale.edu/fees-financial-aid",
+   "reason": "Fee-driven; aid at most 80%",
+   "recheck_after": "2099-01-01",
+   "date": "2026-11-26"
+  },
+  {
+   "name": "PACT (Program in Algorithmic and Combinatorial Thinking)",
+   "url": "https://algorithmicthinking.org/application",
+   "reason": "Fee-driven ($4,325 tuition + $6,500 residential), partial aid only",
+   "recheck_after": "2099-01-01",
+   "date": "2026-11-26"
+  },
+  {
+   "name": "Penn State Smeal BOSS",
+   "url": "https://www.smeal.psu.edu/diversity/boss-faq",
+   "reason": "$1,000 fee; outside student's fields; no 2027 deadline",
+   "recheck_after": "2099-01-01",
+   "date": "2026-11-26"
+  },
+  {
+   "name": "Hoover Institution Summer Policy Boot Camp",
+   "url": "https://www.hoover.org/hoover-institution-summer-policy-boot-camp",
+   "reason": "College students and graduates only",
+   "recheck_after": "2099-01-01",
+   "date": "2026-11-26"
   }
  ],
  "sources": [
@@ -677,6 +992,206 @@
    "url": "https://www.mathworks.com/academia/student-competitions/mathworks-math-modeling-challenge.html",
    "what": "MathWorks confirms 2027 M3 Challenge (no dates)",
    "date": "2026-11-25"
+  },
+  {
+   "url": "https://www.usaaio.org/usa-na-aio/2027",
+   "what": "USAAIO 2027 dates and eligibility",
+   "date": "2026-11-26"
+  },
+  {
+   "url": "https://naclo.org/",
+   "what": "NACLO 2027 dates",
+   "date": "2026-11-26"
+  },
+  {
+   "url": "https://www.naclo.org/2026/2026NACLOStudentHandbook.pdf",
+   "what": "NACLO eligibility",
+   "date": "2026-11-26"
+  },
+  {
+   "url": "https://wsb.wharton.upenn.edu/wharton-data-competition/faq/",
+   "what": "Wharton HS Data Science eligibility",
+   "date": "2026-11-26"
+  },
+  {
+   "url": "https://developer.apple.com/swift-student-challenge/eligibility/",
+   "what": "Swift Student Challenge eligibility",
+   "date": "2026-11-26"
+  },
+  {
+   "url": "https://battlecode.org/",
+   "what": "Battlecode 2027 schedule",
+   "date": "2026-11-26"
+  },
+  {
+   "url": "https://www.non-trivial.org/apply",
+   "what": "Non-Trivial deadlines",
+   "date": "2026-11-26"
+  },
+  {
+   "url": "https://www.acsl.org/Registration",
+   "what": "ACSL registration",
+   "date": "2026-11-26"
+  },
+  {
+   "url": "https://orise.orau.gov/si-challenge/documents/guidebook.pdf",
+   "what": "Presidential SI Challenge rules",
+   "date": "2026-11-26"
+  },
+  {
+   "url": "https://afaconnect.org/programs/cyberpatriot",
+   "what": "CyberPatriot deadlines",
+   "date": "2026-11-26"
+  },
+  {
+   "url": "https://www.uscybergames.com/faq",
+   "what": "US Cyber Games rules",
+   "date": "2026-11-26"
+  },
+  {
+   "url": "https://www.genesinspace.org/us-contest/",
+   "what": "Genes in Space eligibility",
+   "date": "2026-11-26"
+  },
+  {
+   "url": "https://aspirnaut.org/high-school-internships/",
+   "what": "Aspirnaut 2027",
+   "date": "2026-11-26"
+  },
+  {
+   "url": "https://belinblank.education.uiowa.edu/students/sstp/",
+   "what": "Iowa SSTP 2027",
+   "date": "2026-11-26"
+  },
+  {
+   "url": "https://education.wolfram.com/summer-research-high-school/admission/",
+   "what": "Wolfram 2027 admission",
+   "date": "2026-11-26"
+  },
+  {
+   "url": "https://www.arkansasffa.org/WFP",
+   "what": "WFP Arkansas Youth Institute 2027",
+   "date": "2026-11-26"
+  },
+  {
+   "url": "https://www.useso.org/resources/faq/",
+   "what": "USESO camp residency rule",
+   "date": "2026-11-26"
+  },
+  {
+   "url": "https://www.nesacs.org/2027-local-section-ashdown-exam-information/",
+   "what": "USNCO eligibility",
+   "date": "2026-11-26"
+  },
+  {
+   "url": "https://aeopinternships-fellowships.org/faq/",
+   "what": "AEOP citizenship rule",
+   "date": "2026-11-26"
+  },
+  {
+   "url": "https://www.yriscience.com/blog/summer-research-programs-high-school-2027-deadlines",
+   "what": "Aggregator: 2027 research deadlines",
+   "date": "2026-11-26"
+  },
+  {
+   "url": "https://highschoolopportunity.org/categories/research",
+   "what": "Aggregator: research programs",
+   "date": "2026-11-26"
+  },
+  {
+   "url": "https://www.cdc.gov/museum/camp/detective/faq.htm",
+   "what": "CDC camp FAQ",
+   "date": "2026-11-26"
+  },
+  {
+   "url": "https://www.ashg.org/dna-day/",
+   "what": "ASHG DNA Day essay",
+   "date": "2026-11-26"
+  },
+  {
+   "url": "https://www.mercy.net/practice/mercy-volunteer-services-northwest-arkansas/",
+   "what": "Mercy NWA VolunTeen",
+   "date": "2026-11-26"
+  },
+  {
+   "url": "https://sare.cellbio.jhmi.edu/",
+   "what": "JHU SARE",
+   "date": "2026-11-26"
+  },
+  {
+   "url": "https://regionalcampuses.uams.edu/health-careers/high-school-students/",
+   "what": "UAMS HS programs list",
+   "date": "2026-11-26"
+  },
+  {
+   "url": "https://www.nih.gov/challenges",
+   "what": "NIH challenges (no youth challenge)",
+   "date": "2026-11-26"
+  },
+  {
+   "url": "https://www.usaebo.org/2027-usaebo",
+   "what": "USAEBO 2027",
+   "date": "2026-11-26"
+  },
+  {
+   "url": "https://www.economicsarkansas.org/for_teachers/student-competitions.html",
+   "what": "Economics Arkansas competitions",
+   "date": "2026-11-26"
+  },
+  {
+   "url": "https://econchallenge.unl.edu/",
+   "what": "National Economics Challenge portal",
+   "date": "2026-11-26"
+  },
+  {
+   "url": "https://sifmafoundation.org/investwrite/official-rules",
+   "what": "InvestWrite residency rule",
+   "date": "2026-11-26"
+  },
+  {
+   "url": "https://yis.org/programs/stock-pitch-competition/",
+   "what": "YIS Stock Pitch 2027",
+   "date": "2026-11-26"
+  },
+  {
+   "url": "https://nfte.com/compete/",
+   "what": "NFTE competitions",
+   "date": "2026-11-26"
+  },
+  {
+   "url": "https://highschoolopportunity.org/categories/summer-programs/free",
+   "what": "Aggregator: free summer programs",
+   "date": "2026-11-26"
+  },
+  {
+   "url": "https://www.lumiere-education.com/post/free-summer-programs-for-international-high-school-students",
+   "what": "Aggregator: free programs for international students",
+   "date": "2026-11-26"
+  },
+  {
+   "url": "https://dailynous.com/2025/12/09/philosophy-summer-programs-for-high-school-students-2026/",
+   "what": "Philosophy summer program list",
+   "date": "2026-11-26"
+  },
+  {
+   "url": "https://mathroots.mit.edu/faq/",
+   "what": "Mathroots FAQ",
+   "date": "2026-11-26"
+  },
+  {
+   "url": "https://www.aaja.org/2026/11/02/applications-for-jcamp-2027-are-open/",
+   "what": "JCamp 2027 dates",
+   "date": "2026-11-26"
+  },
+  {
+   "url": "https://mathquantum.umd.edu/apply/",
+   "what": "MathQuantum deadline",
+   "date": "2026-11-26"
+  },
+  {
+   "url": "https://www.ncfl.org/",
+   "what": "NCFL 2026-27 league deadlines",
+   "date": "2026-11-26"
   }
  ],
  "queries": [
@@ -1363,6 +1878,382 @@
   {
    "q": "ASMSA math tournament high school Arkansas 2027",
    "date": "2026-11-25"
+  },
+  {
+   "q": "USA AI Olympiad USAAIO 2027 registration deadline eligibility",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "NACLO 2027 computational linguistics olympiad open round date registration",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "picoCTF 2027 high school capture the flag Carnegie Mellon dates",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "US Cyber Games Season VI 2027 Cyber Combine eligibility high school",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "Presidential AI Challenge 2026-2027 high school track deadline submission eligibility",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "CyberPatriot XIX registration deadline 2026 competition rounds",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "high school CTF competition 2027 registration open individual students free prizes",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "Swift Student Challenge 2027 eligibility dates Apple",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "Lockheed Martin CodeQuest 2027 registration high school",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "Arkansas high school cybersecurity competition 2027 OR Arkansas state coding competition 2026-2027",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "NASA App Development Challenge 2026-2027 high school eligibility deadline",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "GenCyber camp 2027 high school free application eligibility citizenship",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "free selective AI machine learning research program high school summer 2027 international students eligible",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "American Computer Science League ACSL 2026-2027 contest dates registration",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "Non-Trivial fellowship 2027 teenagers research application deadline",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "MIT Battlecode 2027 high school division eligibility January",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "Stanford AI4ALL high school summer 2027 application",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "AI governance policy challenge high school students 2027 competition submission deadline",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "high school hackathon 2027 in-person free travel stipend",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "ISTE AI Innovator Student Challenge 2027 guide eligibility",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "CALICO Spring 2027 Berkeley informatics competition date",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "U.S. National Chemistry Olympiad 2027 local section exam eligibility citizenship",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "USA Earth Science Olympiad 2027 USESO registration eligibility",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "Genes in Space 2027 contest deadline eligibility high school",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "Garcia Summer Research Program 2027 Stony Brook high school application",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "OMRF Fleming Scholar Program high school 2027 application eligibility",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "free summer research program high school juniors 2027 university lab stipend international students",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "Stockholm Junior Water Prize 2027 United States state competition eligibility Arkansas",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "USA Astronomy and Astrophysics Olympiad USAAAO 2027 registration eligibility",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "Army Educational Outreach Program REAP OR SEAP OR HSAP 2027 high school application deadline citizenship",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "national laboratory high school summer research internship 2027 Argonne OR Fermilab OR Oak Ridge OR Sandia",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "University of Iowa Secondary Student Training Program SSTP 2027 application deadline eligibility international",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "National Science Bowl 2027 Arkansas regional high school registration",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "Wolfram Summer Research Program high school 2027 application deadline financial aid",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "Aspirnaut Summer Research Internship 2027 high school rural application deadline eligibility",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "World Food Prize Arkansas Youth Institute 2027 research paper deadline",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "International Astronomical Search Collaboration asteroid search campaign high school 2027",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "Air Force Research Laboratory Scholars program high school 2027 application deadline citizenship",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "Arkansas Junior Academy of Science 2027 high school research paper competition",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "AAPT Physics Bowl 2027 dates registration high school",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "American Academy of Neurology Neuroscience Research Prize high school 2027 deadline",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "ASHG DNA Day Essay Contest 2027",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "BioGENEius Challenge 2027 high school biotechnology registration deadline",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "high school bioethics essay contest 2027 deadline",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "CDC Disease Detective Camp 2027 application high school",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "public health case competition high school students 2027",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "Jackson Laboratory Summer Student Program 2027 high school eligibility deadline",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "medical school pre-college summer program high school juniors free 2027 application deadline",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "iGEM high school team 2027 registration",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "Northwest Arkansas hospital teen volunteer program high school Mercy Washington Regional Arkansas Children's Northwest",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "Arkansas AHEC Northwest summer health careers camp high school 2027 Fayetteville",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "Baylor College of Medicine OR UT Southwestern high school summer research program 2027 deadline non-citizen",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "high school global health essay competition 2027 OR health policy essay contest high school students prize",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "UAMS College of Pharmacy summer camp high school 2027",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "Rice 360 global health design challenge high school 2027",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "Johns Hopkins OR Emory OR Vanderbilt high school summer medical research program free 2027",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "Society for Neuroscience Brain Awareness Video Contest 2027 high school",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "biotech challenge high school students 2027 national competition synthetic biology",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "Wharton Global High School Investment Competition 2026-2027 registration deadline",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "National Economics Challenge 2027 Council for Economic Education registration high school",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "NFTE World Series of Innovation 2026-2027 submission deadline challenges",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "Economics Challenge Arkansas 2027 high school Economics Arkansas state competition",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "USA economics olympiad 2027 International Economics Olympiad team selection United States",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "SIFMA Foundation InvestWrite 2027 spring essay competition high school deadline",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "National Personal Finance Challenge 2027 state rounds dates",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "high school business case competition 2027 free virtual deadline",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "Arkansas FBLA State Leadership Conference 2027 dates competitive events",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "Arkansas DECA career development conference 2027 dates",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "Northwest Arkansas high school student pitch competition 2027 entrepreneurship",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "high school stock pitch competition 2027 equity research registration",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "Junior Achievement Company of the Year competition 2027 high school national",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "Wharton High School Data Science Competition 2026-2027 registration deadline",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "MIT Mathroots 2027 application deadline eligibility",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "Caltech YESS Young Engineering and Science Scholars 2027 application eligibility",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "AAJA JCamp 2027 free journalism program high school application",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "free selective summer program high school juniors 2027 university fully funded humanities OR policy",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "USC Bovard Scholars 2027 application deadline eligibility",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "WashU Summer Philosophy Academy high school 2027 application",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "Carleton Liberal Arts Experience CLAE 2027 application deadline",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "Carnegie Mellon CS Scholars pre-college 2027 eligibility",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "Chuck Stone Program UNC 2027 application",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "Summer Academy of Actuarial and Mathematical Sciences SAAMS 2027",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "Penn LEAD summer business institute 2027",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "free residential summer public policy institute high school juniors 2027",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "University of Utah Summer Mathematics Program 2027",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "Dow Jones News Fund high school journalism workshops 2027",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "UMD MathQuantum high school fellowship 2027",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "Stanford SHTEM 2027 eligibility",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "tuition-free summer program rising seniors 2027 economics public policy",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "free engineering summer program rising seniors 2027 residential",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "Santa Clara Summer Engineering Seminar 2027",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "UNH Future Leaders Institute Governing AI",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "PACT algorithmic combinatorial thinking 2027",
+   "date": "2026-11-26"
+  },
+  {
+   "q": "Yale Summer Program in Astrophysics 2027",
+   "date": "2026-11-26"
   }
  ]
 }

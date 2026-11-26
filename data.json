@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25",
+ "updated": "2026-11-26",
  "items": [
   {
    "id": "samsung",
@@ -43,7 +43,7 @@
    "act": "Register on ContestDojo by Nov 27, 11:59 PM PT, get a parent to sign the UC Berkeley waiver in the portal, and use the Teammate Finder sheet to fill out a team of at least 4.",
    "url": "https://berkeley.mt/events/bmt-2026-online/",
    "added": "2026-11-25",
-   "checked": "2026-11-25"
+   "checked": "2026-11-26"
   },
   {
    "id": "lumiere-essay",
@@ -88,7 +88,30 @@
    "act": "Register at usamts.org/register and submit Round 2 solutions online by Nov 30, 10 PM ET, or at least join for Round 3 in the new year.",
    "url": "https://www.usamts.org/contest/problems/",
    "added": "2026-11-25",
-   "checked": "2026-11-25"
+   "checked": "2026-11-26"
+  },
+  {
+   "id": "hucp-invest-pitch-2026",
+   "name": "Harvard Undergraduate Capital Partners High School Investment Pitch Competition",
+   "org": "Harvard Undergraduate Capital Partners (student-run)",
+   "fields": [
+    "math",
+    "research"
+   ],
+   "kind": "competition",
+   "deadline": "2026-11-30",
+   "dlabel": "Nov 30, 2026 (registration closes)",
+   "status": "ask",
+   "tier": "C",
+   "prestige": 3,
+   "diff": "Medium",
+   "hours": "15-30",
+   "cost": "$80-$120 per team (2-4 students)",
+   "note": "A pitch competition run by Harvard undergraduates: Round 1 (pitch deck or memo) is due Dec 23, 2026, Round 2 (video) Jan 18, 2027, and virtual finals are in February, with $3,000 in prizes. Open to grades 8-12; the page states no citizenship rule.",
+   "act": "Decide by Nov 30, 2026 whether to register a team, since registration closes in 4 days.",
+   "url": "https://www.harvardcap.org/invest",
+   "added": "2026-11-26",
+   "checked": "2026-11-26"
   },
   {
    "id": "schol",
@@ -159,6 +182,28 @@
    "checked": "2026-11-25"
   },
   {
+   "id": "wiu-gencyber-2027",
+   "name": "WIU GenCyber Cybersecurity Camp 2027",
+   "org": "Western Illinois University (NSA GenCyber)",
+   "fields": [
+    "eng"
+   ],
+   "kind": "program",
+   "deadline": "2026-12-01",
+   "dlabel": "Dec 1, 2026, 11:59 pm CST",
+   "status": "ask",
+   "tier": "C",
+   "prestige": 3,
+   "diff": "selective (30 students)",
+   "hours": "6-day residential, June 6-11, 2027",
+   "cost": "Free (travel to Macomb, IL not stated)",
+   "note": "Free 6-day residential cybersecurity camp in Macomb, Illinois for 30 high school students with little or no prior cyber experience. The pages do not state grade, citizenship or state-residency rules.",
+   "act": "Email PI Tahir Khan (TM-Khan@wiu.edu) to ask about eligibility for an out-of-state H-4 student, then complete the one-sitting application by Dec 1.",
+   "url": "https://www.wiu.edu/news/newsrelease.php?release_id=21522",
+   "added": "2026-11-26",
+   "checked": "2026-11-26"
+  },
+  {
    "id": "stjude",
    "name": "St. Jude High School Research Immersion",
    "org": "St. Jude Children's Research Hospital · Memphis",
@@ -201,7 +246,7 @@
    "act": "Find at least two teammates and a school or club sponsor this week, then register the team and pay the $195 fee at apply.rocketrychallenge.org before Dec 6.",
    "url": "https://www.rocketrychallenge.org/how-to-compete/",
    "added": "2026-11-25",
-   "checked": "2026-11-25"
+   "checked": "2026-11-26"
   },
   {
    "id": "nasa-dwu-hs-27",
@@ -223,7 +268,7 @@
    "act": "Ask a teacher to act as team sponsor and register the team on the NASA challenge page by Dec 8. Have each member create a NASA Gateway account and get a signed parent permission form.",
    "url": "https://www.nasa.gov/aeronautics/aeronautics-stem/2026-2027-dwu-high-school-engineering-challenge/",
    "added": "2026-11-25",
-   "checked": "2026-11-25"
+   "checked": "2026-11-26"
   },
   {
    "id": "leda",
@@ -246,28 +291,6 @@
    "url": "https://ledascholars.org/our-program/leda-scholars-program/recruitment-admissions/apply/",
    "added": "2026-11-23",
    "seed": true
-  },
-  {
-   "id": "ncfl-grand-nationals",
-   "name": "NCFL Grand National Tournament",
-   "org": "National Catholic Forensic League",
-   "fields": [
-    "policy"
-   ],
-   "kind": "National tournament",
-   "deadline": "2026-12-10",
-   "dlabel": "Dec 10, 2026 (league/independent membership); tournament May 29–30, 2027",
-   "status": "ask",
-   "tier": "C",
-   "prestige": 7,
-   "diff": "Hard · league qualification",
-   "hours": "Season-long",
-   "cost": "$60 school league dues plus entry and travel",
-   "note": "This is a major national tournament in Minneapolis on May 29–30, 2027. Students qualify through an NCFL local league. No Arkansas league was found; a school far from a league can apply for individual membership by Dec 10, or enter as an independent school with one entry for one year.",
-   "act": "Ask the coach to check ncfl.org local leagues for one near Arkansas, or to email the NCFL President about independent entry before Dec 10, 2026.",
-   "url": "https://www.ncfl.org/nationals.html",
-   "added": "2026-11-25",
-   "checked": "2026-11-25"
   },
   {
    "id": "rsi",
@@ -386,6 +409,51 @@
    "checked": "2026-11-25"
   },
   {
+   "id": "presidential-si-challenge-2027",
+   "name": "Presidential SI (formerly AI) Challenge 2027",
+   "org": "White House / U.S. DOE via ORISE",
+   "fields": [
+    "eng",
+    "policy"
+   ],
+   "kind": "competition",
+   "deadline": "2026-12-18",
+   "dlabel": "Dec 18, 2026, 5 pm ET registration; project due Dec 23, 2026",
+   "status": "no",
+   "tier": "X",
+   "prestige": 7,
+   "diff": "medium",
+   "hours": "20-50",
+   "cost": "Free",
+   "note": "National K-12 team AI project challenge (renamed 'Super Intelligence') with state, regional and DC national championships; high school national champions win $10,000-$12,500 each. Every student and the Team Leader must be a US citizen, US national or lawful permanent resident.",
+   "act": "No action; ineligible without a green card. Recheck if the green card is approved before a future cycle.",
+   "url": "https://orise.orau.gov/si-challenge/documents/guidebook.pdf",
+   "added": "2026-11-26",
+   "checked": "2026-11-26"
+  },
+  {
+   "id": "ncfl-grand-nationals",
+   "name": "NCFL Grand National Tournament",
+   "org": "National Catholic Forensic League",
+   "fields": [
+    "policy"
+   ],
+   "kind": "National tournament",
+   "deadline": "2026-12-20",
+   "dlabel": "Dec 20, 2026 (diocesan league registration + dues; late Jan 15/Jan 31 with penalty); tournament May 29–30, 2027",
+   "status": "ask",
+   "tier": "C",
+   "prestige": 7,
+   "diff": "Hard · league qualification",
+   "hours": "Season-long",
+   "cost": "$60 school league dues plus entry and travel",
+   "note": "This is a major national tournament in Minneapolis on May 29–30, 2027. Students qualify through an NCFL local league. No Arkansas league was found; a school far from a league can apply for individual membership by Dec 20, or enter as an independent school with one entry for one year. Update Nov 26: NCFL now lists diocesan league registration and dues due Dec 20, 2026 (late until Jan 31 with penalties); individual school membership forms are no longer required.",
+   "act": "Ask the coach to check ncfl.org local leagues for one near Arkansas, or to email the NCFL President about independent entry before Dec 10, 2026.",
+   "url": "https://www.ncfl.org/nationals.html",
+   "added": "2026-11-25",
+   "checked": "2026-11-26"
+  },
+  {
    "id": "yip-policy-fellowship",
    "name": "YIP Institute Public Policy Fellowship (Winter 2027)",
    "org": "Youth Policy Institute (YIP Institute)",
@@ -432,6 +500,29 @@
    "checked": "2026-11-25"
   },
   {
+   "id": "acsl-2026-27",
+   "name": "American Computer Science League (ACSL) 2026-27",
+   "org": "American Computer Science League",
+   "fields": [
+    "eng",
+    "math"
+   ],
+   "kind": "competition",
+   "deadline": "2026-12-31",
+   "dlabel": "Dec 31, 2026 (advisor registers team); Contest 1 must start by Jan 10, 2027",
+   "status": "ask",
+   "tier": "C",
+   "prestige": 4,
+   "diff": "medium",
+   "hours": "2-4 per contest x4",
+   "cost": "$175 per team (school pays)",
+   "note": "School-based CS contest with four online rounds (through May 23, 2027) and invitational Finals on May 29, 2027. A teacher advisor must register the team; students cannot register themselves. The site does not state a citizenship rule.",
+   "act": "Ask a CS or math teacher to register a Senior-division team at acsl.org before Dec 31, 2026.",
+   "url": "https://www.acsl.org/get-started/schedule",
+   "added": "2026-11-26",
+   "checked": "2026-11-26"
+  },
+  {
    "id": "think",
    "name": "MIT THINK Scholars",
    "org": "MIT undergraduates (TechX)",
@@ -476,6 +567,74 @@
    "url": "https://www.rockefeller.edu/outreach/ssrp/faqs/",
    "added": "2026-11-23",
    "seed": true
+  },
+  {
+   "id": "mit-battlecode-2027",
+   "name": "MIT Battlecode 2027 (High School Tournament)",
+   "org": "MIT Battlecode",
+   "fields": [
+    "eng",
+    "math"
+   ],
+   "kind": "competition",
+   "deadline": "2027-01-04",
+   "dlabel": "Kickoff Jan 4, 2027 (registration opens Dec 1; finals Jan 31; confirm)",
+   "status": "ok",
+   "tier": "B",
+   "prestige": 5,
+   "diff": "hard",
+   "hours": "40-100 in January",
+   "cost": "Free",
+   "note": "Month-long AI programming game competition run by MIT, with a separate High School Tournament for teams made up only of high schoolers. The prize pool is over $40,000. The site says 'anyone is welcome to participate' and student teams, including non-MIT ones, can win prizes.",
+   "act": "Register a team at play.battlecode.org after Dec 1, 2026 and mark High School eligibility on the team profile before the kickoff on Jan 4.",
+   "url": "https://battlecode.org/about.html",
+   "added": "2026-11-26",
+   "checked": "2026-11-26"
+  },
+  {
+   "id": "non-trivial-2027",
+   "name": "Non-Trivial Research Fellowship 2027",
+   "org": "Non-Trivial",
+   "fields": [
+    "research",
+    "policy"
+   ],
+   "kind": "program",
+   "deadline": "2027-01-04",
+   "dlabel": "Jan 4, 2027 final (priority Dec 15, 2026; years inferred, confirm)",
+   "status": "ok",
+   "tier": "B",
+   "prestige": 5,
+   "diff": "selective",
+   "hours": "5/wk Foundations; 10-15/wk summer Fellowship",
+   "cost": "Free",
+   "note": "Free online research incubator on pressing global problems: a 5-week Foundations course, a 9-week summer Fellowship (June 7-Aug 13, 2027) with $1,000 project grants for about 200 Fellows, and up to 20 $10,000 scholarships. Ages 14-20 in June 2027, not yet at university, applicants anywhere in the world.",
+   "act": "Complete the free online application (about 1 hour: profile, brainteasers, logic puzzles) by the Dec 15 priority deadline.",
+   "url": "https://www.non-trivial.org/programs/overview",
+   "added": "2026-11-26",
+   "checked": "2026-11-26"
+  },
+  {
+   "id": "iasc-asteroid-search",
+   "name": "IASC Asteroid Search Campaign",
+   "org": "International Astronomical Search Collaboration (NASA citizen science)",
+   "fields": [
+    "research"
+   ],
+   "kind": "Citizen-science research campaign",
+   "deadline": "2027-01-04",
+   "dlabel": "Register before Jan 4, 2027 campaign start (confirm; later campaigns run too)",
+   "status": "ok",
+   "tier": "C",
+   "prestige": 2,
+   "diff": "Low",
+   "hours": "10-20 hrs over 4 weeks",
+   "cost": "Free",
+   "note": "Teams of 2 or more analyze telescope images to find asteroids; confirmed finds are credited to the team. Participants come from 100+ countries. Listed 2027 campaigns run Jan 4-28, 2027.",
+   "act": "Form a team of 2 or more, download the registration form and email it to IASC.",
+   "url": "https://iasc.cosmosearch.org/Home/Registration",
+   "added": "2026-11-26",
+   "checked": "2026-11-26"
   },
   {
    "id": "livemas",
@@ -590,6 +749,29 @@
    "checked": "2026-11-25"
   },
   {
+   "id": "aaja-jcamp",
+   "name": "AAJA JCamp 2027",
+   "org": "Asian American Journalists Association",
+   "fields": [
+    "writing",
+    "policy"
+   ],
+   "kind": "Journalism summer program (residential, free)",
+   "deadline": "2027-01-10",
+   "dlabel": "Jan 10, 2027 (11:59pm PT)",
+   "status": "ok",
+   "tier": "B",
+   "prestige": 6,
+   "diff": "Medium-High",
+   "hours": "1 week, July 10–16, 2027",
+   "cost": "Free, including domestic airfare, campus housing and meals",
+   "note": "A free, selective 6-day journalism training camp held alongside AAJA's national convention, open to high school sophomores and juniors (no need to be Asian or an AAJA member). International students may apply if they are physically in the U.S. before and after camp.",
+   "act": "Submit the JCamp application on AAJA's Submittable portal by Jan 10, 2027.",
+   "url": "https://www.aaja.org/programs-and-initiatives/jcamp/",
+   "added": "2026-11-26",
+   "checked": "2026-11-26"
+  },
+  {
    "id": "jfk",
    "name": "JFK Profile in Courage Essay Contest",
    "org": "John F. Kennedy Library Foundation",
@@ -678,6 +860,29 @@
    "url": "https://www.arkansastsa.org/state-conference",
    "added": "2026-11-25",
    "checked": "2026-11-25"
+  },
+  {
+   "id": "aspirnaut-vumc",
+   "name": "Aspirnaut Lu-Springer High School Summer Research Internship",
+   "org": "Aspirnaut / Vanderbilt University Medical Center",
+   "fields": [
+    "research",
+    "med"
+   ],
+   "kind": "Summer research program (residential)",
+   "deadline": "2027-01-13",
+   "dlabel": "Jan 13, 2027, 11:59 PM CST",
+   "status": "ok",
+   "tier": "B",
+   "prestige": 5,
+   "diff": "High",
+   "hours": "6 weeks full-time (Jun 6-Jul 17, 2027)",
+   "cost": "Free; housing on Vanderbilt campus; $2,000 salary",
+   "note": "Six-week biomedical lab research internship at VUMC in Nashville, with recruiting aimed at rural students. Applicants must be 15 or older, and international students may apply (no visa sponsorship). It pays a $2,000 salary, which is paid work H-4 status doesn't allow, so ask whether you can join unpaid.",
+   "act": "Email Aspirnaut to ask whether an H-4 student can take part without the salary; if yes, get transcripts and recommendation letters in by Jan 13.",
+   "url": "https://aspirnaut.org/high-school-internships/",
+   "added": "2026-11-26",
+   "checked": "2026-11-26"
   },
   {
    "id": "diamond",
@@ -769,6 +974,121 @@
    "checked": "2026-11-25"
   },
   {
+   "id": "jhu-sare",
+   "name": "Summer Academic Research Experience (SARE) at Johns Hopkins",
+   "org": "Johns Hopkins School of Medicine, Cell Biology",
+   "fields": [
+    "med",
+    "research"
+   ],
+   "kind": "summer research",
+   "deadline": "2027-01-15",
+   "dlabel": "Jan 15, 2027",
+   "status": "ask",
+   "tier": "C",
+   "prestige": 6,
+   "diff": "High",
+   "hours": "Full-time, Jun 21-Aug 13, 2027",
+   "cost": "Free; $3,000 stipend on completion; no housing",
+   "note": "Eight-week lab research program in Baltimore for rising 10th-12th graders. Household income must be at or below 200% of the federal poverty level, plus one more criterion such as first-generation college-bound. The page states no citizenship rule; the stipend may conflict with H-4 rules and the family must arrange housing.",
+   "act": "Check whether the family meets the income and first-gen criteria; if so, apply by Jan 15, 2027 and ask about stipend rules for H-4 students.",
+   "url": "https://sare.cellbio.jhmi.edu/",
+   "added": "2026-11-26",
+   "checked": "2026-11-26"
+  },
+  {
+   "id": "usc-bovard",
+   "name": "USC Bovard Scholars",
+   "org": "University of Southern California",
+   "fields": [
+    "policy",
+    "research"
+   ],
+   "kind": "Summer program + college access (residential, free)",
+   "deadline": "2027-01-15",
+   "dlabel": "Jan 15, 2027 (5pm PT)",
+   "status": "ask",
+   "tier": "B",
+   "prestige": 6,
+   "diff": "High",
+   "hours": "3 weeks July 12–31, 2027, plus fall coaching",
+   "cost": "Free; USC pays travel for students from outside Southern California",
+   "note": "A free 3-week residential leadership and college-access program at USC, followed by a year of admissions coaching, for juniors at a U.S. high school with financial need, a 4.0+ weighted GPA and Algebra II or higher. The page doesn't state a citizenship rule.",
+   "act": "Check whether the family meets the financial-need requirement, email the program to confirm H-4 eligibility, then apply by Jan 15.",
+   "url": "https://bovardscholars.usc.edu/our-program/how-to-apply/",
+   "added": "2026-11-26",
+   "checked": "2026-11-26"
+  },
+  {
+   "id": "stossel-ai-challenge-2027",
+   "name": "Stossel in the Classroom AI Challenge 2026-27",
+   "org": "Stossel in the Classroom",
+   "fields": [
+    "writing",
+    "policy"
+   ],
+   "kind": "contest",
+   "deadline": "2027-01-18",
+   "dlabel": "Jan 18, 2027, 11:59 pm ET",
+   "status": "ok",
+   "tier": "C",
+   "prestige": 3,
+   "diff": "easy-medium",
+   "hours": "5-8",
+   "cost": "Free",
+   "note": "Hold a conversation with ChatGPT or Gemini on one of four topics, then write a 500-750 word reflection. Prizes are $1,500, $1,000 and $500, plus ten $250 finalist awards. Open to grades 8-12 aged 13+ who live in the US, Canada or at a US military address.",
+   "act": "Pick a topic, save the chatbot conversation link and submit it with the reflection by Jan 18, 2027.",
+   "url": "https://stosselintheclassroom.org/ai-challenge/",
+   "added": "2026-11-26",
+   "checked": "2026-11-26"
+  },
+  {
+   "id": "wolfram-hs-research",
+   "name": "Wolfram High School Summer Research Program",
+   "org": "Wolfram Research",
+   "fields": [
+    "research",
+    "math"
+   ],
+   "kind": "Summer research program (residential)",
+   "deadline": "2027-01-18",
+   "dlabel": "Early Decision Jan 18, 2027; Regular Mar 15, 2027",
+   "status": "ok",
+   "tier": "B",
+   "prestige": 6,
+   "diff": "High",
+   "hours": "3 weeks (Jun 28-Jul 17, 2027, Bentley University, MA)",
+   "cost": "Tuition (amount not listed); need-based scholarships, need-blind admission",
+   "note": "About 80 students each do an original computational research project with a mentor. Students must be under 18 at the end of the program, and international students are accepted. Scholarship requests must go in with the application.",
+   "act": "Apply by Jan 18 for Early Decision and include the scholarship request with the application.",
+   "url": "https://education.wolfram.com/summer-research-high-school/admission/",
+   "added": "2026-11-26",
+   "checked": "2026-11-26"
+  },
+  {
+   "id": "stanford-kalanithi-contest",
+   "name": "Paul Kalanithi Writing Contest",
+   "org": "Stanford Medicine & the Muse (Girand Center for Biomedical Ethics)",
+   "fields": [
+    "writing",
+    "med"
+   ],
+   "kind": "writing contest",
+   "deadline": "2027-01-18",
+   "dlabel": "Jan 18, 2027",
+   "status": "ask",
+   "tier": "C",
+   "prestige": 4,
+   "diff": "High (open to adults)",
+   "hours": "10-20",
+   "cost": "Free for students",
+   "note": "Medicine-themed writing contest open to all, with fiction, essay/nonfiction and poetry categories; each winner gets $300 and publication in Stanford's journal Anastomosis. The page sets no age or grade limit, and winners need a U.S. bank account to receive the prize.",
+   "act": "Email the organizers to confirm high schoolers can enter, then submit a nonfiction essay by Jan 18, 2027.",
+   "url": "https://med.stanford.edu/medicineandthemuse/events/paul-kalanithi-essay-contest.html",
+   "added": "2026-11-26",
+   "checked": "2026-11-26"
+  },
+  {
    "id": "nd",
    "name": "Notre Dame Leadership Seminars",
    "org": "University of Notre Dame",
@@ -857,6 +1177,52 @@
    "checked": "2026-11-25"
   },
   {
+   "id": "utsw-stars-summer",
+   "name": "UT Southwestern STARS Summer Research Program",
+   "org": "UT Southwestern Medical Center",
+   "fields": [
+    "research",
+    "med"
+   ],
+   "kind": "Paid summer research program",
+   "deadline": "2027-01-22",
+   "dlabel": "Jan 22, 2027",
+   "status": "no",
+   "tier": "X",
+   "prestige": 5,
+   "diff": "High",
+   "hours": "Summer, full-time (Dallas)",
+   "cost": "Free; stipend",
+   "note": "Summer biomedical research in Dallas for juniors aged 16+ with no prior research experience, aimed at North Texas students. Only U.S. citizens and nationals or people eligible to work in the U.S. may apply, which rules out H-4.",
+   "act": "Not eligible; skip.",
+   "url": "https://www.utsouthwestern.edu/education/nondegree-programs/stars/programs/summer-research-opportunities.html",
+   "added": "2026-11-26",
+   "checked": "2026-11-26"
+  },
+  {
+   "id": "wharton-hs-data-sci-2027",
+   "name": "Wharton High School Data Science Competition 2027",
+   "org": "Wharton Sports Analytics and Business Initiative (UPenn)",
+   "fields": [
+    "math",
+    "research"
+   ],
+   "kind": "competition",
+   "deadline": "2027-01-26",
+   "dlabel": "Jan 26, 2027 (registration, 9:00 am ET)",
+   "status": "ok",
+   "tier": "A",
+   "prestige": 7,
+   "diff": "Hard",
+   "hours": "30-60",
+   "cost": "Free",
+   "note": "A free team data-analytics competition. Data comes out Feb 1, 2027. Phase 1 predictions are due Mar 1, the semifinal slide deck is due Mar 22, and the top 5 teams present live on Apr 14, 2027. It is open to high school students around the world in teams of 3-5, and each team needs a teacher advisor from the students' school.",
+   "act": "Recruit 2-4 teammates and a teacher advisor, and register the team before Jan 26, 2027.",
+   "url": "https://wsb.wharton.upenn.edu/wharton-data-competition/timeline-and-dates/",
+   "added": "2026-11-26",
+   "checked": "2026-11-26"
+  },
+  {
    "id": "exploravision",
    "name": "ExploraVision",
    "org": "NSTA",
@@ -878,6 +1244,29 @@
    "url": "https://www.yriscience.com/blog/science-fair-deadlines-2026-27",
    "added": "2026-11-23",
    "seed": true
+  },
+  {
+   "id": "naclo-2027",
+   "name": "NACLO 2027 (North American Computational Linguistics Open)",
+   "org": "NACLO",
+   "fields": [
+    "math",
+    "research"
+   ],
+   "kind": "competition",
+   "deadline": "2027-01-28",
+   "dlabel": "Open Round Jan 28, 2027 (register earlier at reg.naclo.org; confirm)",
+   "status": "ok",
+   "tier": "A",
+   "prestige": 7,
+   "diff": "medium-hard",
+   "hours": "10-30 prep",
+   "cost": "Free",
+   "note": "Free computational-linguistics olympiad: Open Round Jan 28, 2027, Invitational Mar 18, 2027, and top US scorers make the International Olympiad in Linguistics team. Students who are US/Canadian citizens OR enrolled in a US/Canadian secondary school are eligible, including for the US IOL team.",
+   "act": "Register at reg.naclo.org (open since Oct 12, 2026) and find the nearest university or high-school host site, or ask a teacher to host.",
+   "url": "https://naclo.org/",
+   "added": "2026-11-26",
+   "checked": "2026-11-26"
   },
   {
    "id": "ssp",
@@ -992,6 +1381,74 @@
    "url": "https://www.solarcarchallenge.org/challenge/calendar2027.shtml",
    "added": "2026-11-25",
    "checked": "2026-11-25"
+  },
+  {
+   "id": "usaaio-2027",
+   "name": "USA-North America AI Olympiad (USAAIO) 2027",
+   "org": "USA Artificial Intelligence Olympiad",
+   "fields": [
+    "math",
+    "eng"
+   ],
+   "kind": "competition",
+   "deadline": "2027-01-31",
+   "dlabel": "Jan 31, 2027 (registration, 11:59 pm ET); Round 1 exam Feb 19, 2027",
+   "status": "ok",
+   "tier": "A",
+   "prestige": 8,
+   "diff": "hard",
+   "hours": "30-80 prep",
+   "cost": "$50 Round 1 fee (hardship waiver available)",
+   "note": "National AI olympiad: Round 1 exam (Feb 19, 2027), invitation-only Round 2 (Mar/Apr), June camp that picks Team USA for IOAI/IAIO. Round 1 is open to US/Canadian citizens or permanent residents OR any full-time middle/high school student studying in the US or Canada, and Team USA explicitly includes international students at US schools.",
+   "act": "Register at portal.usaaio.org before Jan 31, 2027 and confirm with your school or an authorized test site for the Feb 19 exam.",
+   "url": "https://www.usaaio.org/usa-na-aio/2027",
+   "added": "2026-11-26",
+   "checked": "2026-11-26"
+  },
+  {
+   "id": "usaaao-2027",
+   "name": "USA Astronomy and Astrophysics Olympiad (USAAAO)",
+   "org": "USAAAO",
+   "fields": [
+    "research"
+   ],
+   "kind": "Olympiad exam",
+   "deadline": "2027-01-31",
+   "dlabel": "~Jan 31, 2027 registration (confirm; 2026 window Jan 1-31)",
+   "status": "no",
+   "tier": "X",
+   "prestige": 7,
+   "diff": "High",
+   "hours": "20+ hrs prep",
+   "cost": "$30 (2026 fee)",
+   "note": "Anyone can take the First Round exam and qualifying round. Only U.S. citizens or permanent residents can join the U.S. team for the International Olympiad on Astronomy and Astrophysics.",
+   "act": "You could take the first-round exam for practice, but the U.S. team requires a green card.",
+   "url": "https://usaaao.org/faqs/",
+   "added": "2026-11-26",
+   "checked": "2026-11-26"
+  },
+  {
+   "id": "eri-econ-comp-2027",
+   "name": "ERI Economics Competition 2027",
+   "org": "Economic Reasoning Initiative",
+   "fields": [
+    "policy",
+    "math"
+   ],
+   "kind": "competition",
+   "deadline": "2027-01-31",
+   "dlabel": "Jan 31, 2027 (registration, 11:59 pm ET)",
+   "status": "ok",
+   "tier": "C",
+   "prestige": 2,
+   "diff": "Medium",
+   "hours": "10-20",
+   "cost": "$25 per student",
+   "note": "An individual online economics and business case competition with Regionals on Feb 22, 2027 and Nationals on Mar 27, 2027; the prize pool is at least $2,000. Open to high school students living in the U.S., with no citizenship rule.",
+   "act": "Register and pay the $25 fee before Jan 31, 2027 if you want extra case-competition practice.",
+   "url": "https://economicreasoning.org/compete/details",
+   "added": "2026-11-26",
+   "checked": "2026-11-26"
   },
   {
    "id": "ags",
@@ -1221,6 +1678,29 @@
    "checked": "2026-11-25"
   },
   {
+   "id": "iste-ai-innovator-2027",
+   "name": "ISTE+ASCD AI Innovator Student Challenge 2027",
+   "org": "ISTE+ASCD",
+   "fields": [
+    "eng",
+    "policy"
+   ],
+   "kind": "competition",
+   "deadline": "2027-02-07",
+   "dlabel": "Feb 7, 2027, 11:59 pm ET",
+   "status": "ok",
+   "tier": "C",
+   "prestige": 3,
+   "diff": "medium",
+   "hours": "15-30",
+   "cost": "Free",
+   "note": "Teams pick a local problem tied to a UN Sustainable Development Goal and design an AI-powered solution, guided by an educator. Winning teams are invited to present at ISTELive. It invites students around the world; the earlier cycle allowed grade 9-12 teams of up to 3 with a teacher sponsor.",
+   "act": "Recruit up to 2 teammates and a teacher sponsor, then submit the project through the form on the ISTE+ASCD page by Feb 7, 2027.",
+   "url": "https://iste-ascd.org/ai-innovator",
+   "added": "2026-11-26",
+   "checked": "2026-11-26"
+  },
+  {
    "id": "harvard-nat-forensics",
    "name": "Harvard National Speech and Debate Tournament",
    "org": "Harvard Debate Council",
@@ -1289,6 +1769,29 @@
    "added": "2026-11-23"
   },
   {
+   "id": "umd-mathquantum-hs",
+   "name": "MathQuantum High School Fellowship",
+   "org": "University of Maryland (MathQuantum RTG)",
+   "fields": [
+    "math",
+    "research"
+   ],
+   "kind": "Online summer fellowship (free)",
+   "deadline": "2027-02-12",
+   "dlabel": "Feb 12, 2027",
+   "status": "ask",
+   "tier": "C",
+   "prestige": 4,
+   "diff": "Medium",
+   "hours": "About 2 weeks online in summer",
+   "cost": "Free (no stipend)",
+   "note": "A free online cohort program of about 2 weeks for around 10 high school students, covering the math of quantum information science. The page lists no grade or citizenship rules.",
+   "act": "Apply on mathquantum.umd.edu/apply by Feb 12, 2027 with a statement of interest, a transcript and 1–2 references.",
+   "url": "https://mathquantum.umd.edu/fellowship/",
+   "added": "2026-11-26",
+   "checked": "2026-11-26"
+  },
+  {
    "id": "clark",
    "name": "Clark Scholars Program",
    "org": "Texas Tech University",
@@ -1355,6 +1858,52 @@
    "url": "https://www.speechanddebate.org/student-leadership-council-nomination/",
    "added": "2026-11-25",
    "checked": "2026-11-25"
+  },
+  {
+   "id": "useso-2027",
+   "name": "USA Earth Science Olympiad (National Open Exam)",
+   "org": "United States Earth Science Organization",
+   "fields": [
+    "research"
+   ],
+   "kind": "Olympiad exam",
+   "deadline": "2027-02-15",
+   "dlabel": "Feb 15, 2027 registration (exam Feb 25, 2027)",
+   "status": "ask",
+   "tier": "C",
+   "prestige": 5,
+   "diff": "Medium",
+   "hours": "10-30 hrs prep",
+   "cost": "Fee (amount not listed)",
+   "note": "Any middle or high school student can take the online National Open Exam (registration Jan 1-Feb 15). The top 40 are invited to a June 12-20 training camp in Tulsa, but only students who 'permanently reside in the US' can attend it.",
+   "act": "Email USESO to ask whether an H-4 holder living in the U.S. counts as 'permanently residing' for camp, then register in January.",
+   "url": "https://www.useso.org/programs/calendar/",
+   "added": "2026-11-26",
+   "checked": "2026-11-26"
+  },
+  {
+   "id": "iowa-sstp",
+   "name": "University of Iowa Secondary Student Training Program (SSTP)",
+   "org": "Belin-Blank Center, University of Iowa",
+   "fields": [
+    "research",
+    "med",
+    "eng"
+   ],
+   "kind": "Summer research program (residential)",
+   "deadline": "2027-02-16",
+   "dlabel": "Feb 16, 2027, 11:59 PM CST (opens Dec 15, 2026)",
+   "status": "ok",
+   "tier": "B",
+   "prestige": 6,
+   "diff": "High",
+   "hours": "5.5 weeks full-time (Jun 16-Jul 23, 2027)",
+   "cost": "$7,500 program fee + $95 application fee; aid up to 95%, fee waiver by email",
+   "note": "Students in grades 10-11 do mentored research in a University of Iowa lab and earn 3 college credits. International students are explicitly eligible. Financial aid can cover up to 95% of the cost.",
+   "act": "Apply between Dec 15, 2026 and Feb 16, 2027, and email summer@belinblank.org about an application-fee waiver and aid.",
+   "url": "https://belinblank.education.uiowa.edu/students/sstp/",
+   "added": "2026-11-26",
+   "checked": "2026-11-26"
   },
   {
    "id": "davidson",
@@ -1426,6 +1975,29 @@
    "checked": "2026-11-25"
   },
   {
+   "id": "yis-stock-pitch-2027",
+   "name": "YIS Global Stock Pitch Competition 2027",
+   "org": "Young Investors Society",
+   "fields": [
+    "math",
+    "research"
+   ],
+   "kind": "competition",
+   "deadline": "2027-02-19",
+   "dlabel": "Feb 19, 2027 (registration and submission, 11:59 pm PST)",
+   "status": "ok",
+   "tier": "B",
+   "prestige": 4,
+   "diff": "Medium",
+   "hours": "15-30",
+   "cost": "$30 per person; travel to the NYC Summit is self-paid",
+   "note": "Individuals or pairs submit a stock pitch; registration opens Dec 15, 2026. The top 100 teams are invited to the Global Youth Investment Summit in New York City on May 25-26, 2027. U.S. and international high school students are eligible.",
+   "act": "Register on the MyYIS portal after Dec 15, 2026 and email the pitch before Feb 19, 2027.",
+   "url": "https://yis.org/programs/stock-pitch-competition/",
+   "added": "2026-11-26",
+   "checked": "2026-11-26"
+  },
+  {
    "id": "isef",
    "name": "Science fair → Regeneron ISEF",
    "org": "Society for Science · affiliated regional and state fairs",
@@ -1447,6 +2019,28 @@
    "url": "https://arksfa.org/find-a-fair/",
    "added": "2026-11-23",
    "seed": true
+  },
+  {
+   "id": "ar-pf-challenge-2027",
+   "name": "Arkansas Personal Finance Challenge 2027",
+   "org": "Economics Arkansas",
+   "fields": [
+    "math"
+   ],
+   "kind": "competition",
+   "deadline": "2027-02-20",
+   "dlabel": "About Feb 20, 2027 (online Round 1 close, based on 2026 dates; confirm)",
+   "status": "ok",
+   "tier": "C",
+   "prestige": 3,
+   "diff": "Medium",
+   "hours": "10-20",
+   "cost": "Free",
+   "note": "State qualifier for the National Personal Finance Challenge: a teacher registers a team of 3-4, the team takes an online round, and finalists compete at UCA in March; first place advances to nationals in Atlanta with $1,500 in travel support. Eligibility depends on enrollment at an Arkansas school.",
+   "act": "Ask a teacher to register a team in January, and confirm the 2027 dates with Economics Arkansas.",
+   "url": "https://www.economicsarkansas.org/for_teachers/arkansas-personal-finance-challenge.html",
+   "added": "2026-11-26",
+   "checked": "2026-11-26"
   },
   {
    "id": "simr",
@@ -1517,6 +2111,30 @@
    "checked": "2026-11-25"
   },
   {
+   "id": "stanford-shtem",
+   "name": "Stanford SHTEM Summer Internship",
+   "org": "Stanford Compression Forum",
+   "fields": [
+    "research",
+    "eng",
+    "math"
+   ],
+   "kind": "Summer research internship (non-residential)",
+   "deadline": "2027-02-21",
+   "dlabel": "Feb 21, 2027 (opens Dec 7)",
+   "status": "no",
+   "tier": "X",
+   "prestige": 6,
+   "diff": "High",
+   "hours": "7 weeks, Jun 21–Aug 6, 2027",
+   "cost": "$95 application fee + $2,500 tuition (aid available); no housing",
+   "note": "A 7-week research internship at Stanford for juniors and seniors. Applicants must be U.S. citizens or permanent residents, with no exceptions.",
+   "act": "Not eligible on H-4; revisit only if the green card arrives before applying.",
+   "url": "https://compression.stanford.edu/outreach/shtem-summer-internships-high-schoolers",
+   "added": "2026-11-26",
+   "checked": "2026-11-26"
+  },
+  {
    "id": "mathcamp",
    "name": "Canada/USA Mathcamp",
    "org": "Mathcamp",
@@ -1537,6 +2155,51 @@
    "url": "https://www.mathcamp.org/admission/deadlines/",
    "added": "2026-11-24",
    "checked": "2026-11-25"
+  },
+  {
+   "id": "ar-econ-challenge-2027",
+   "name": "Arkansas Economics Challenge 2027",
+   "org": "Economics Arkansas",
+   "fields": [
+    "policy",
+    "math"
+   ],
+   "kind": "competition",
+   "deadline": "2027-02-24",
+   "dlabel": "Feb 24, 2027 (online Round 1 closes)",
+   "status": "ok",
+   "tier": "B",
+   "prestige": 4,
+   "diff": "Medium",
+   "hours": "15-30",
+   "cost": "Free",
+   "note": "State qualifier for the National Economics Challenge. Teams of 3-4 from grades 9-12, rostered by a teacher, take an online test between Jan 1 and Feb 24, 2027; finalists compete at UCA on Mar 17, 2027 for $500/$300/$150 team prizes and a shot at nationals. Eligibility depends only on enrollment at an Arkansas school.",
+   "act": "Ask an economics or social studies teacher to register a team with Economics Arkansas before January.",
+   "url": "https://www.economicsarkansas.org/for_teachers/arkansas-economics-challenge.html",
+   "added": "2026-11-26",
+   "checked": "2026-11-26"
+  },
+  {
+   "id": "penn-med-summer-hs",
+   "name": "Penn Medicine Summer Program for High School Students",
+   "org": "Perelman School of Medicine (via ESF Pre-College)",
+   "fields": [
+    "med"
+   ],
+   "kind": "summer program",
+   "deadline": "2027-02-25",
+   "dlabel": "Feb 25, 2027",
+   "status": "ask",
+   "tier": "C",
+   "prestige": 3,
+   "diff": "Medium",
+   "hours": "3 weeks residential",
+   "cost": "Tuition not listed (paid pre-college program)",
+   "note": "Three-week residential medicine program at Penn's Perelman School of Medicine for rising juniors and seniors, run through ESF Pre-College. The application page does not list tuition, financial aid or whether international students may apply.",
+   "act": "Email ESF Pre-College for the 2027 tuition and aid before deciding whether to apply by Feb 25, 2027.",
+   "url": "https://esfprecollege.smapply.us/prog/2027_penn_medicine_summer_program_for_high_school_students/",
+   "added": "2026-11-26",
+   "checked": "2026-11-26"
   },
   {
    "id": "promys",
@@ -1562,6 +2225,29 @@
    "checked": "2026-11-25"
   },
   {
+   "id": "usaebo-2027",
+   "name": "USA Economics and Business Olympiad (USAEBO) 2027",
+   "org": "USA Economics and Business Olympiad",
+   "fields": [
+    "policy",
+    "math"
+   ],
+   "kind": "competition",
+   "deadline": "2027-02-27",
+   "dlabel": "Feb 27, 2027 (registration, 11:59 pm ET)",
+   "status": "ok",
+   "tier": "A",
+   "prestige": 8,
+   "diff": "Hard",
+   "hours": "20-60",
+   "cost": "Fee not stated on the page; check the registration portal",
+   "note": "The U.S. selection contest for the International Economics Olympiad. Round 1 (online multiple choice) is Mar 13, 2027 and Round 2 (free response) is Mar 27, 2027; five students are picked for Team USA. Students of any citizenship can compete, and full-time students studying in the U.S. are eligible for Team USA.",
+   "act": "Register through the USAEBO portal before Feb 27, 2027, then study the syllabus on usaebo.org.",
+   "url": "https://www.usaebo.org/2027-usaebo",
+   "added": "2026-11-26",
+   "checked": "2026-11-26"
+  },
+  {
    "id": "apo-philosophy",
    "name": "American Philosophy Olympiad (US selection for IPO)",
    "org": "American Philosophy Olympiad",
@@ -1582,6 +2268,28 @@
    "url": "https://www.americanphilosophyolympiad.org/",
    "added": "2026-11-25",
    "checked": "2026-11-25"
+  },
+  {
+   "id": "swift-student-challenge-2027",
+   "name": "Apple Swift Student Challenge 2027",
+   "org": "Apple",
+   "fields": [
+    "eng"
+   ],
+   "kind": "competition",
+   "deadline": "2027-02-28",
+   "dlabel": "Feb 28, 2027 (submissions Feb 8-28)",
+   "status": "ok",
+   "tier": "B",
+   "prestige": 6,
+   "diff": "medium",
+   "hours": "20-40",
+   "cost": "Free",
+   "note": "Build an app playground for any Apple platform. Winners get a year of Apple Developer Program membership and a gift, and Distinguished Winners are invited to Apple in Cupertino. Open to students 13+ (in the US) enrolled in an accredited school, with no citizenship rule.",
+   "act": "Register free as an Apple developer and start building the app now so it is ready when submissions open Feb 8, 2027.",
+   "url": "https://developer.apple.com/swift-student-challenge/",
+   "added": "2026-11-26",
+   "checked": "2026-11-26"
   },
   {
    "id": "horatio",
@@ -1605,6 +2313,76 @@
    "url": "https://horatioalger.org/undergraduate-applicant-faq/",
    "added": "2026-11-25",
    "checked": "2026-11-25"
+  },
+  {
+   "id": "cdc-disease-detective-camp",
+   "name": "CDC Museum Disease Detective Camp",
+   "org": "CDC David J. Sencer Museum",
+   "fields": [
+    "med",
+    "policy",
+    "research"
+   ],
+   "kind": "summer program",
+   "deadline": "2027-03-01",
+   "dlabel": "Early Mar 2027 (confirm; 2025 apps were due by postmark Mar 7)",
+   "status": "ok",
+   "tier": "A",
+   "prestige": 6,
+   "diff": "High (27 seats per week; 702 applicants in 2024)",
+   "hours": "1 week (June/July)",
+   "cost": "Free; family pays travel and housing in Atlanta",
+   "note": "Free week-long public-health and epidemiology camp at CDC headquarters in Atlanta for students in the summer before junior or senior year, who must be at least 16 on the first day. The FAQ says non-U.S. citizens may apply but must show documents and bring a passport every day.",
+   "act": "Line up a teacher recommendation now and check the CDC camp page in January 2027 for the 2027 application form.",
+   "url": "https://www.cdc.gov/museum/camp/detective/faq.htm",
+   "added": "2026-11-26",
+   "checked": "2026-11-26"
+  },
+  {
+   "id": "ashg-dna-day-essay",
+   "name": "ASHG DNA Day Essay Contest",
+   "org": "American Society of Human Genetics",
+   "fields": [
+    "med",
+    "writing",
+    "research"
+   ],
+   "kind": "essay contest",
+   "deadline": "2027-03-01",
+   "dlabel": "Early Mar 2027 (confirm; 2026 window was Jan 9-Mar 4)",
+   "status": "ok",
+   "tier": "B",
+   "prestige": 5,
+   "diff": "Medium",
+   "hours": "10-15",
+   "cost": "Free",
+   "note": "National essay contest on human genetics (up to 750 words) for grades 9-12 in the U.S. or internationally; no citizenship rule. A teacher, counselor or administrator must submit the essay, and each student may enter one.",
+   "act": "Ask a biology teacher in January 2027 to register and submit your essay once the 2027 prompt is posted.",
+   "url": "https://www.ashg.org/dna-day/",
+   "added": "2026-11-26",
+   "checked": "2026-11-26"
+  },
+  {
+   "id": "mit-mathroots",
+   "name": "√mathroots @ MIT",
+   "org": "MIT Mathematics (MIT PRIMES)",
+   "fields": [
+    "math"
+   ],
+   "kind": "Summer program (residential, free)",
+   "deadline": "2027-03-03",
+   "dlabel": "Early Mar 2027 (confirm; 2026 was Mar 3); opens early Jan",
+   "status": "ok",
+   "tier": "A",
+   "prestige": 7,
+   "diff": "High",
+   "hours": "2 weeks residential in July",
+   "cost": "Free tuition, housing, meals; family pays travel (hardship travel aid exists)",
+   "note": "A free 14-day summer program at MIT on creative math and problem solving that especially encourages students who have overcome barriers to learning. Open to students who are U.S. citizens or attend a U.S. high school and will still be in high school in fall 2027, so juniors qualify.",
+   "act": "Watch mathroots.mit.edu/apply for the early-January opening and prepare a personal statement and a math teacher recommendation.",
+   "url": "https://mathroots.mit.edu/apply/",
+   "added": "2026-11-26",
+   "checked": "2026-11-26"
   },
   {
    "id": "ar-mocktrial",
@@ -1671,6 +2449,28 @@
    "url": "https://rossprogram.org/participants/application/",
    "added": "2026-11-25",
    "checked": "2026-11-25"
+  },
+  {
+   "id": "scu-ses",
+   "name": "Santa Clara University Summer Engineering Seminar (SES)",
+   "org": "Santa Clara University School of Engineering",
+   "fields": [
+    "eng"
+   ],
+   "kind": "Summer program (residential, free)",
+   "deadline": "2027-03-08",
+   "dlabel": "Mar 8, 2027 (9pm PT); opens Dec 1",
+   "status": "ok",
+   "tier": "C",
+   "prestige": 4,
+   "diff": "Medium",
+   "hours": "5 days (July 11–15 or July 18–22, 2027)",
+   "cost": "Free housing, meals and fees; travel scholarships have been offered",
+   "note": "A free week-long residential engineering introduction for sophomores and juniors; international students may apply. Sophomores get priority and it targets students with little prior engineering exposure, so a VEX background makes this a long shot.",
+   "act": "If interested, apply after Dec 1 and before Mar 8, 2027, framing the essay around limited local engineering access.",
+   "url": "https://www.scu.edu/engineering/beyond-the-classroom/outreach/summer-engineering-seminar-ses/",
+   "added": "2026-11-26",
+   "checked": "2026-11-26"
   },
   {
    "id": "stossel-video-contest",
@@ -1741,6 +2541,28 @@
    "checked": "2026-11-25"
   },
   {
+   "id": "unc-chuck-stone",
+   "name": "Chuck Stone Program for Diversity in Education and Media",
+   "org": "UNC-Chapel Hill Hussman School of Journalism and Media",
+   "fields": [
+    "writing"
+   ],
+   "kind": "Journalism summer program (residential)",
+   "deadline": "2027-03-14",
+   "dlabel": "Mar 14, 2027 (midnight)",
+   "status": "ask",
+   "tier": "C",
+   "prestige": 4,
+   "diff": "Medium",
+   "hours": "4 days, June 20–23, 2027",
+   "cost": "Housing and all meals covered; travel not stated",
+   "note": "A short residential journalism program at UNC for students who will be seniors in 2027–28 and plan a career in journalism. The page doesn't state a citizenship rule.",
+   "act": "Apply on the program's application page by Mar 14, 2027 if journalism is a serious interest.",
+   "url": "https://chuckstone.web.unc.edu/application/",
+   "added": "2026-11-26",
+   "checked": "2026-11-26"
+  },
+  {
    "id": "mit-llrise-27",
    "name": "MIT Lincoln Laboratory LLRISE 2027",
    "org": "MIT Lincoln Laboratory",
@@ -1761,6 +2583,52 @@
    "url": "https://www.ll.mit.edu/outreach/llrise",
    "added": "2026-11-25",
    "checked": "2026-11-25"
+  },
+  {
+   "id": "wfp-arkansas-youth-institute",
+   "name": "World Food Prize Arkansas Youth Institute 2027",
+   "org": "World Food Prize Foundation / Arkansas FFA",
+   "fields": [
+    "policy",
+    "research",
+    "writing"
+   ],
+   "kind": "Research paper + state symposium",
+   "deadline": "2027-03-19",
+   "dlabel": "Mar 19, 2027 (paper + registration; event Mar 31, 2027)",
+   "status": "ask",
+   "tier": "B",
+   "prestige": 5,
+   "diff": "Medium",
+   "hours": "15-25 hrs",
+   "cost": "No fee listed",
+   "note": "With a teacher mentor, you write a 5-page research paper on a global food-security issue, then present it on Mar 31 at the U of A Don Tyson Center in Fayetteville. Top students go on to the Global Youth Institute in Des Moines. The page lists no eligibility or citizenship rules.",
+   "act": "Ask Arkansas FFA staff whether non-FFA students and non-citizens can enter, then pick a country and topic with a teacher mentor.",
+   "url": "https://www.arkansasffa.org/WFP",
+   "added": "2026-11-26",
+   "checked": "2026-11-26"
+  },
+  {
+   "id": "investwrite-spring-2027",
+   "name": "InvestWrite Spring 2027",
+   "org": "SIFMA Foundation",
+   "fields": [
+    "writing"
+   ],
+   "kind": "essay",
+   "deadline": "2027-03-19",
+   "dlabel": "Mar 19, 2027 (spring submissions)",
+   "status": "ok",
+   "tier": "C",
+   "prestige": 3,
+   "diff": "Easy",
+   "hours": "5-10",
+   "cost": "Free",
+   "note": "A national investing essay contest (500-1000 words for grades 9-12) for students playing The Stock Market Game through a teacher; the top 10 in each division are recognized nationally. Entrants must reside in the U.S.; there is no citizenship rule.",
+   "act": "Ask a teacher to enroll your class in the Arkansas Stock Market Game spring session so you can enter.",
+   "url": "https://sifmafoundation.org/investwrite/competition",
+   "added": "2026-11-26",
+   "checked": "2026-11-26"
   },
   {
    "id": "qb",
@@ -1810,6 +2678,51 @@
    "url": "https://cmimc.com/faq",
    "added": "2026-11-25",
    "checked": "2026-11-25"
+  },
+  {
+   "id": "unh-future-leaders",
+   "name": "UNH Future Leaders Institute",
+   "org": "University of New Hampshire, Responsible Governance and Sustainable Citizenship Project",
+   "fields": [
+    "policy"
+   ],
+   "kind": "Summer program (residential, full scholarship)",
+   "deadline": "2027-03-27",
+   "dlabel": "Late Mar 2027 (confirm; 2026 was Mar 27; opened Jan 15)",
+   "status": "ok",
+   "tier": "B",
+   "prestige": 4,
+   "diff": "Medium",
+   "hours": "About 1 week residential (2026: Jul 26–Aug 2)",
+   "cost": "Full academic scholarship for all accepted students; $200 deposit (hardship waiver by email)",
+   "note": "A residential camp at UNH on governance and ethics; the 2026 theme was 'Governing AI.' Every accepted student gets a full academic scholarship, and the applicant pool includes domestic and international students.",
+   "act": "Check the FLI page in mid-January 2027 for the new application, or email Prof. Nick Smith to confirm 2027 dates.",
+   "url": "https://cola.unh.edu/responsible-governance-sustainable-citizenship-project/rgscp-youth-programs/future-leaders-institute",
+   "added": "2026-11-26",
+   "checked": "2026-11-26"
+  },
+  {
+   "id": "fbla-ar-slc-2027",
+   "name": "Arkansas FBLA State Leadership Conference 2027",
+   "org": "Arkansas FBLA",
+   "fields": [
+    "policy",
+    "writing"
+   ],
+   "kind": "competition",
+   "deadline": "2027-03-30",
+   "dlabel": "State conference Mar 30-31, 2027; registration deadline not yet posted (confirm)",
+   "status": "ask",
+   "tier": "B",
+   "prestige": 5,
+   "diff": "Medium",
+   "hours": "20-50",
+   "cost": "Chapter dues and conference fees (amounts not yet posted)",
+   "note": "The high school state conference is in Little Rock on Mar 30-31, 2027, and top finishers qualify for the FBLA National Leadership Conference. Events include business, economics, public speaking and technology. Students compete through a school FBLA chapter; the 2027 eligibility packet is still 'coming soon'.",
+   "act": "Ask whether Bentonville High has an FBLA chapter and join it so you can pick events before district deadlines.",
+   "url": "https://www.arkansasfbla.org/state-leadership-conference",
+   "added": "2026-11-26",
+   "checked": "2026-11-26"
   },
   {
    "id": "bwsi",
@@ -1900,6 +2813,28 @@
    "url": "https://www.usna.edu/Admissions/Programs/NASS.php",
    "added": "2026-11-25",
    "checked": "2026-11-25"
+  },
+  {
+   "id": "mercy-nwa-volunteen",
+   "name": "Mercy Hospital Northwest Arkansas VolunTeen",
+   "org": "Mercy Hospital Northwest Arkansas (Rogers)",
+   "fields": [
+    "med"
+   ],
+   "kind": "hospital volunteer",
+   "deadline": "2027-03-31",
+   "dlabel": "Mar 31, 2027 (window Jan 1-Mar 31)",
+   "status": "ask",
+   "tier": "B",
+   "prestige": 2,
+   "diff": "Low-Medium (limited spots)",
+   "hours": "4 hrs/week, mid-June to late July + 3-hr orientation",
+   "cost": "Free (health screening at Mercy)",
+   "note": "Summer teen volunteer program for ages 15-17 at Mercy Hospital Northwest Arkansas in Rogers and nearby clinics, about 15 minutes from Bentonville. It requires one 4-hour shift a week plus a TB test, blood draw and drug screen. The page does not mention citizenship.",
+   "act": "Submit the online VolunTeen application between Jan 1 and Mar 31, 2027.",
+   "url": "https://www.mercy.net/practice/mercy-volunteer-services-northwest-arkansas/",
+   "added": "2026-11-26",
+   "checked": "2026-11-26"
   },
   {
    "id": "state",
@@ -2014,6 +2949,30 @@
    "checked": "2026-11-25"
   },
   {
+   "id": "genes-in-space",
+   "name": "Genes in Space 2027",
+   "org": "miniPCR bio / Boeing / ISS National Lab",
+   "fields": [
+    "research",
+    "med",
+    "eng"
+   ],
+   "kind": "Competition (research proposal)",
+   "deadline": "2027-04-10",
+   "dlabel": "~Apr 10, 2027 (confirm; 2027 rules announced Dec 31, 2026)",
+   "status": "ok",
+   "tier": "A",
+   "prestige": 7,
+   "diff": "High",
+   "hours": "20-40 hrs",
+   "cost": "Free",
+   "note": "National contest where you propose a DNA/biotech experiment to run in space; the winning experiment flies to the International Space Station, with 25 awards in all. Open to students in grades 7-12 enrolled in a U.S. public, private or home school, alone or in pairs, with an adult sponsor; no citizenship rule is stated.",
+   "act": "Check genesinspace.org on Dec 31, 2026 for the 2027 rules, then line up a science teacher as your adult sponsor.",
+   "url": "https://www.genesinspace.org/us-contest/",
+   "added": "2026-11-26",
+   "checked": "2026-11-26"
+  },
+  {
    "id": "mit-llcipher-27",
    "name": "MIT Lincoln Laboratory LLCipher 2027",
    "org": "MIT Lincoln Laboratory",
@@ -2058,6 +3017,51 @@
    "url": "https://barronprize.org/apply/",
    "added": "2026-11-25",
    "checked": "2026-11-25"
+  },
+  {
+   "id": "stockholm-jr-water-prize",
+   "name": "U.S. Stockholm Junior Water Prize",
+   "org": "Water Environment Federation",
+   "fields": [
+    "research",
+    "eng"
+   ],
+   "kind": "Research competition (state → national → international)",
+   "deadline": "2027-04-15",
+   "dlabel": "~Apr 15, 2027 state entry (confirm; 2026 date)",
+   "status": "ok",
+   "tier": "B",
+   "prestige": 6,
+   "diff": "High",
+   "hours": "40+ hrs (research project)",
+   "cost": "Free",
+   "note": "Water-related research project competition for grades 9-12 (age 15+ by Aug 1), entered alone or as a team of two. The U.S. winner gets $10,000 and goes to Stockholm. State competitions are open to residents of the 50 states, DC and Puerto Rico; no citizenship rule is stated.",
+   "act": "Turn a water-related science fair project into an SJWP paper and check sjwp.org for the 2027 Arkansas state deadline.",
+   "url": "https://www.wef.org/membership--community/students--young-professionals/sjwp/sjwp-eligibility-and-entry-requirements/",
+   "added": "2026-11-26",
+   "checked": "2026-11-26"
+  },
+  {
+   "id": "acnw-junior-volunteer",
+   "name": "Arkansas Children's Northwest Junior Volunteer Program",
+   "org": "Arkansas Children's Northwest (Springdale)",
+   "fields": [
+    "med"
+   ],
+   "kind": "hospital volunteer",
+   "deadline": "2027-04-15",
+   "dlabel": "Apr 15, 2027 for summer (confirm; 2026 deadline was Apr 15)",
+   "status": "ask",
+   "tier": "B",
+   "prestige": 2,
+   "diff": "Low-Medium (preference for age 16+)",
+   "hours": "Summer: 3 hrs/week for 10 weeks; year-round: 2-3 hrs/week for 6 months",
+   "cost": "Free",
+   "note": "Junior volunteer program for high schoolers aged 14-18 at the pediatric hospital in Springdale, with summer and year-round options. It requires references, an interview, orientation, immunizations and a drug test. No citizenship rule is stated.",
+   "act": "Apply online as a Junior Volunteer for summer 2027 before mid-April, or email volunteerACNW@archildrens.org about year-round shifts.",
+   "url": "https://www.archildrens.org/support-us/volunteer-engagement/volunteer-at-arkansas-childrens-northwest",
+   "added": "2026-11-26",
+   "checked": "2026-11-26"
   },
   {
    "id": "bri-impact",
@@ -2105,6 +3109,28 @@
    "checked": "2026-11-25"
   },
   {
+   "id": "carleton-clae",
+   "name": "Carleton Liberal Arts Experience (CLAE)",
+   "org": "Carleton College",
+   "fields": [
+    "writing"
+   ],
+   "kind": "Summer program (residential, free)",
+   "deadline": "2027-05-01",
+   "dlabel": "May 1, 2027 final (Apr 1 priority; opens Feb 1)",
+   "status": "no",
+   "tier": "X",
+   "prestige": 4,
+   "diff": "Medium",
+   "hours": "1 week, July 11–17, 2027",
+   "cost": "Free, including housing, food and transportation",
+   "note": "A free week at Carleton for juniors interested in the liberal arts and in African American history and culture. Limited to U.S. citizens, permanent residents, and undocumented or DACA students, which excludes H-4.",
+   "act": "Not eligible on H-4.",
+   "url": "https://www.carleton.edu/admissions/visit/clae/",
+   "added": "2026-11-26",
+   "checked": "2026-11-26"
+  },
+  {
    "id": "sar-rumbaugh-oration",
    "name": "SAR Joseph S. Rumbaugh Historical Oration Contest",
    "org": "National Society Sons of the American Revolution (Arkansas Society SAR)",
@@ -2126,6 +3152,29 @@
    "url": "https://www.sar.org/joseph-s-rumbaugh-historical-oration-contest/",
    "added": "2026-11-25",
    "checked": "2026-11-25"
+  },
+  {
+   "id": "yei-econolympiad-2027",
+   "name": "YEI EconOlympiad 2027",
+   "org": "Youth Economics Initiative",
+   "fields": [
+    "policy",
+    "research"
+   ],
+   "kind": "competition",
+   "deadline": "2027-05-15",
+   "dlabel": "About May 15, 2027 (based on 2026 dates; confirm)",
+   "status": "ok",
+   "tier": "C",
+   "prestige": 3,
+   "diff": "Medium",
+   "hours": "20-40",
+   "cost": "Free",
+   "note": "A free virtual team competition: teams of 3-4 make a video presentation on an economics prompt, then debate; the winning team gets YEI's endorsement to enter the International Economics Olympiad. Students from any country can enter; 2027 dates are not posted yet.",
+   "act": "Check theyei.org after the prompts are released (Feb 15 in 2026) and form a team.",
+   "url": "https://www.theyei.org/events/econolympiad",
+   "added": "2026-11-26",
+   "checked": "2026-11-26"
   },
   {
    "id": "ohio-u-summer-law-trial",
@@ -2238,6 +3287,29 @@
    "url": "https://www.speechanddebate.org/usa-debate/",
    "added": "2026-11-25",
    "checked": "2026-11-25"
+  },
+  {
+   "id": "sfn-brain-awareness-video",
+   "name": "Brain Awareness Video Contest",
+   "org": "Society for Neuroscience",
+   "fields": [
+    "med",
+    "research"
+   ],
+   "kind": "video contest",
+   "deadline": "2027-06-29",
+   "dlabel": "Late Jun 2027 (confirm; last window Mar 20-Jun 29, 2026)",
+   "status": "ask",
+   "tier": "C",
+   "prestige": 4,
+   "diff": "Medium",
+   "hours": "15-30",
+   "cost": "Free",
+   "note": "Short educational neuroscience video contest; first place is $4,000 plus a trip to the SfN annual meeting. Non-members such as students can enter if an SfN member sponsors and submits the entry. The page states no age or citizenship rule.",
+   "act": "Find an SfN-member sponsor (for example a University of Arkansas neuroscience professor) and check brainfacts.org in March 2027 for the new window.",
+   "url": "https://www.brainfacts.org/for-educators/programs-and-events/bavc-rules-and-guidelines",
+   "added": "2026-11-26",
+   "checked": "2026-11-26"
   },
   {
    "id": "sidgwick-prize",
@@ -2712,6 +3784,96 @@
    "url": "https://www.mathily.org/app.html",
    "added": "2026-11-25",
    "checked": "2026-11-25"
+  },
+  {
+   "id": "nyas-junior-academy",
+   "name": "NYAS Junior Academy Innovation Challenges",
+   "org": "New York Academy of Sciences",
+   "fields": [
+    "research",
+    "eng"
+   ],
+   "kind": "Online team research challenge",
+   "deadline": null,
+   "dlabel": "General applications open Apr 2027 (spring round is invitation-only)",
+   "status": "ask",
+   "tier": "C",
+   "prestige": 4,
+   "diff": "Medium",
+   "hours": "3-4 hrs/week for 10 weeks",
+   "cost": "Free",
+   "note": "Free online program for ages 13-17. Mentored international teams spend 10 weeks designing solutions to real-world STEM problems. The page states no citizenship rule.",
+   "act": "Apply when general applications open in April 2027 for the fall challenge.",
+   "url": "https://www.nyas.org/learning/high-school-research-programs/the-junior-academy/",
+   "added": "2026-11-26",
+   "checked": "2026-11-26"
+  },
+  {
+   "id": "usnco-2027",
+   "name": "U.S. National Chemistry Olympiad (USNCO)",
+   "org": "American Chemical Society",
+   "fields": [
+    "research"
+   ],
+   "kind": "Olympiad exam",
+   "deadline": null,
+   "dlabel": "Local exam set by ACS local section (national exam Apr 17, 2027)",
+   "status": "no",
+   "tier": "X",
+   "prestige": 8,
+   "diff": "High",
+   "hours": "30+ hrs prep",
+   "cost": "Free",
+   "note": "Local ACS section exams lead to the national exam and the IChO team. To qualify for USNCO you must be a U.S. citizen or green-card holder enrolled in a U.S. school for at least a year.",
+   "act": "Not eligible now; revisit once the green card comes through.",
+   "url": "https://www.nesacs.org/2027-local-section-ashdown-exam-information/",
+   "added": "2026-11-26",
+   "checked": "2026-11-26"
+  },
+  {
+   "id": "aeop-hs-internships",
+   "name": "AEOP High School Internships (Army research labs)",
+   "org": "U.S. Army Educational Outreach Program",
+   "fields": [
+    "research",
+    "eng"
+   ],
+   "kind": "Paid research internship",
+   "deadline": null,
+   "dlabel": "Varies by lab site",
+   "status": "no",
+   "tier": "X",
+   "prestige": 6,
+   "diff": "High",
+   "hours": "Summer, full-time",
+   "cost": "Free; stipend",
+   "note": "Commuter research internships at Army labs and partner universities for students 14 and older. Applicants must be U.S. citizens or permanent legal residents, and the stipend is paid work that H-4 status doesn't allow.",
+   "act": "Not eligible; skip.",
+   "url": "https://aeopinternships-fellowships.org/faq/",
+   "added": "2026-11-26",
+   "checked": "2026-11-26"
+  },
+  {
+   "id": "uams-pharmacy-camp",
+   "name": "UAMS College of Pharmacy Summer Camp",
+   "org": "UAMS College of Pharmacy",
+   "fields": [
+    "med"
+   ],
+   "kind": "summer camp",
+   "deadline": null,
+   "dlabel": "Registration opens Dec 1, 2026 (deadline not posted); camp Jun 7-9, 2027",
+   "status": "ask",
+   "tier": "C",
+   "prestige": 2,
+   "diff": "Low",
+   "hours": "3 days, 9am-3pm",
+   "cost": "$150; no housing (Little Rock)",
+   "note": "Three-day day camp in Little Rock on pharmacy careers for high school juniors and seniors. The page states no residency or citizenship rule. No housing is provided, so it is a long trip from Bentonville.",
+   "act": "Register after Dec 1, 2026 if the family can arrange a stay in Little Rock.",
+   "url": "https://pharmacy.uams.edu/future-students/pharmacy-summer-camp/",
+   "added": "2026-11-26",
+   "checked": "2026-11-26"
   }
  ],
  "coverage": {
@@ -2722,6 +3884,11 @@
   "Speech, debate and oratory contests and scholarships": "2026-11-25",
   "Essay and writing contests (policy, history, philosophy, economics, journalism)": "2026-11-25",
   "Engineering, robotics and technology competitions and programs": "2026-11-25",
-  "Math olympiads and competitions": "2026-11-25"
+  "Math olympiads and competitions": "2026-11-25",
+  "Computer science, AI, cybersecurity and app competitions": "2026-11-26",
+  "Science research competitions and summer research programs": "2026-11-26",
+  "Medicine, health and biology programs and competitions": "2026-11-26",
+  "Business, economics, finance and entrepreneurship competitions": "2026-11-26",
+  "Free and selective summer programs at universities": "2026-11-26"
  }
 }
