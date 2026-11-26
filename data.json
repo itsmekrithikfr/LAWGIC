@@ -44,7 +44,8 @@
    "act": "Next step: look up your region's deadline today. The countdown shows the earliest regional deadline.",
    "url": "https://www.artandwriting.org/awards/how-to-enter/calendar/",
    "added": "2026-11-23",
-   "seed": true
+   "seed": true,
+   "checked": "2026-11-25"
   },
   {
    "id": "coolidge",
@@ -67,6 +68,28 @@
    "url": "https://coolidgescholars.org/eligibilty/",
    "added": "2026-11-23",
    "seed": true
+  },
+  {
+   "id": "uark-esa",
+   "name": "U of A Engineering Summer Academy",
+   "org": "University of Arkansas College of Engineering",
+   "fields": [
+    "eng"
+   ],
+   "kind": "Summer camp (paid)",
+   "deadline": "2026-12-01",
+   "dlabel": "Registration opens Dec 1, 2026 (first come, 20 per track)",
+   "status": "ask",
+   "tier": "C",
+   "prestige": 2,
+   "diff": "Low · registration-based",
+   "hours": "1 h",
+   "cost": "$700 (room, board included); scholarships available",
+   "note": "A one-week residential engineering camp in Fayetteville (June 20–26, 2027). The page says both 'current 9th–11th graders' and 'entering 10th–12th grade in 2027–28', so rising seniors seem eligible. No citizenship rule is stated. Low weight with colleges, but close to home.",
+   "act": "Register on Dec 1 if you want it, and email engrcamp@uark.edu to confirm rising seniors can attend.",
+   "url": "https://engineering.uark.edu/summer-camps/engineering-summer-academy.php",
+   "added": "2026-11-25",
+   "checked": "2026-11-25"
   },
   {
    "id": "stjude",
@@ -153,11 +176,34 @@
    "diff": "Gold is hard; Platinum or camp is elite",
    "hours": "Ongoing practice",
    "cost": "Free",
-   "note": "Four online contests move you up from Bronze to Platinum, ending with the US Open in March or April. It's open to students worldwide. Exact 2026–27 dates aren't posted yet, and last season's first contest wasn't until Jan 9, so check usaco.org. Reaching Platinum is a strong signal for computer science.",
+   "note": "Four online contests move you up from Bronze to Platinum, ending with the US Open in March or April. It's open to students worldwide. Exact 2026–27 dates aren't posted yet, and last season's first contest wasn't until Jan 9, so check usaco.org. Reaching Platinum is a strong signal for computer science. The 2026–27 schedule isn't posted yet; last season's first contest was Jan 9–12.",
    "act": "Next step: create an account at usaco.org and check the contests page for the first 2026–27 window.",
    "url": "https://riseglobaleducation.com/blogs/usaco-contest-dates-2026-27-season",
    "added": "2026-11-23",
-   "seed": true
+   "seed": true,
+   "checked": "2026-11-25"
+  },
+  {
+   "id": "grodd",
+   "name": "Kenyon Review Patricia Grodd Poetry Prize",
+   "org": "The Kenyon Review",
+   "fields": [
+    "writing"
+   ],
+   "kind": "Poetry competition",
+   "deadline": "2026-12-15",
+   "dlabel": "Dec 15, 2026 (11:59 pm ET)",
+   "status": "ask",
+   "tier": "B",
+   "prestige": 6,
+   "diff": "Very hard · one winner nationally",
+   "hours": "5–10 h",
+   "cost": "Free · full scholarship to a Kenyon Young Writers workshop",
+   "note": "Open only to high school sophomores and juniors: submit one unpublished poem. The winner gets a full scholarship to the Kenyon Review Young Writers workshop, and the winner and runners-up are published in The Kenyon Review. The page doesn't state a citizenship rule.",
+   "act": "Polish one strong poem and submit it free through Submittable before Dec 15.",
+   "url": "https://kenyonreview.org/submit/patricia-grodd/",
+   "added": "2026-11-25",
+   "checked": "2026-11-25"
   },
   {
    "id": "think",
@@ -206,6 +252,28 @@
    "seed": true
   },
   {
+   "id": "livemas",
+   "name": "Taco Bell Live Más Scholarship",
+   "org": "Taco Bell Foundation",
+   "fields": [
+    "writing"
+   ],
+   "kind": "Video scholarship",
+   "deadline": "2027-01-05",
+   "dlabel": "Jan 5, 2027 (5 pm PT)",
+   "status": "ask",
+   "tier": "B",
+   "prestige": 4,
+   "diff": "Hard · large national pool",
+   "hours": "8–15 h",
+   "cost": "Free · awards up to $25,000",
+   "note": "A passion-based scholarship judged on a short video about your goals, not on grades or test scores. Open to ages 16–26 who are on track to finish high school. Applicants must be a 'legal resident of the 50 United States', which may or may not include H-4 status.",
+   "act": "Email the Taco Bell Foundation to ask whether a dependent visa holder counts as a legal resident, then script a 2-minute video.",
+   "url": "https://tacobellfoundation.org/live-mas-scholarship/eligibilityfaq/",
+   "added": "2026-11-25",
+   "checked": "2026-11-25"
+  },
+  {
    "id": "yygs",
    "name": "Yale Young Global Scholars",
    "org": "Yale University",
@@ -249,6 +317,28 @@
    "act": "Ask SUMaC whether non-citizens at U.S. schools can apply, then start the admission problems over winter break.",
    "url": "https://sumac.spcs.stanford.edu/sumac-admissions",
    "added": "2026-11-24"
+  },
+  {
+   "id": "nra-yes",
+   "name": "NRA Youth Education Summit (Y.E.S.)",
+   "org": "NRA Foundation",
+   "fields": [
+    "policy"
+   ],
+   "kind": "Leadership program + scholarship",
+   "deadline": "2027-01-10",
+   "dlabel": "Jan 10, 2027",
+   "status": "ask",
+   "tier": "C",
+   "prestige": 4,
+   "diff": "Selective",
+   "hours": "15–20 h",
+   "cost": "Free (all expenses paid) · up to $40,000 in scholarships",
+   "note": "A six-day leadership and government program in Washington, D.C. (July 27 – Aug 1, 2027) for rising juniors and seniors, with competition for college scholarships. Requires a three-page Second Amendment essay, personal statement, transcript, three recommendations and an interview. No citizenship rule is stated on the announcement.",
+   "act": "Decide whether the Second Amendment essay topic fits you; if so, ask the NRA Foundation whether non-citizens are eligible.",
+   "url": "https://www.nra.org/news/nra-youth-education-summit-applications-now-open-for-2027",
+   "added": "2026-11-25",
+   "checked": "2026-11-25"
   },
   {
    "id": "jfk",
@@ -437,7 +527,7 @@
    ],
    "kind": "Summer research",
    "deadline": "2027-01-29",
-   "dlabel": "Late Jan 2027 (confirm)",
+   "dlabel": "Late Jan 2027 (confirm; dates announced early Dec)",
    "status": "ok",
    "tier": "B",
    "prestige": 7,
@@ -448,7 +538,8 @@
    "act": "Next step: the application opens Jan 4. Ask SSP whether your U.S. transcript replaces the English test.",
    "url": "https://ssp.org/application/",
    "added": "2026-11-23",
-   "seed": true
+   "seed": true,
+   "checked": "2026-11-25"
   },
   {
    "id": "nasa",
@@ -813,7 +904,8 @@
    "note": "A five-week residential math program for ages 13–18, admitted mainly through a hard Qualifying Quiz. It explicitly welcomes students from around the world and gives international students financial aid. The 2027 deadline isn't posted yet; 2026's was Feb 23.",
    "act": "Watch for the 2027 Qualifying Quiz and start working the problems as soon as it's posted.",
    "url": "https://www.mathcamp.org/admission/deadlines/",
-   "added": "2026-11-24"
+   "added": "2026-11-24",
+   "checked": "2026-11-25"
   },
   {
    "id": "promys",
@@ -835,7 +927,75 @@
    "note": "Six weeks of number theory at Boston University (June 27 – Aug 7, 2027) for ages 14–18. It selects students from the U.S. and around the world and considers aid for international students case by case. The application opens in January.",
    "act": "Sign up on the PROMYS site to be notified when the 2027 application and problem set open in January.",
    "url": "https://promys.org/programs/promys/for-students/",
-   "added": "2026-11-24"
+   "added": "2026-11-24",
+   "checked": "2026-11-25"
+  },
+  {
+   "id": "horatio",
+   "name": "Horatio Alger National Scholarship",
+   "org": "Horatio Alger Association",
+   "fields": [
+    "policy",
+    "research"
+   ],
+   "kind": "Need-based scholarship",
+   "deadline": "2027-03-01",
+   "dlabel": "Mar 1, 2027 (noon ET, juniors)",
+   "status": "no",
+   "tier": "X",
+   "prestige": 7,
+   "diff": "Very hard · 105 national awards",
+   "hours": "10–15 h",
+   "cost": "$25,000",
+   "note": "105 need-based $25,000 scholarships for high school juniors with family income of $100,000 or less. Applicants must be U.S. citizens; the FAQ says permanent residents do not qualify.",
+   "act": "Not possible unless you become a U.S. citizen; a green card alone won't qualify.",
+   "url": "https://horatioalger.org/undergraduate-applicant-faq/",
+   "added": "2026-11-25",
+   "checked": "2026-11-25"
+  },
+  {
+   "id": "ar-mocktrial",
+   "name": "Arkansas High School Mock Trial Competition",
+   "org": "Arkansas Bar Association · U.S. District Court (E.D. Ark.)",
+   "fields": [
+    "policy"
+   ],
+   "kind": "Law competition (state)",
+   "deadline": "2027-03-05",
+   "dlabel": "State competition Mar 5–6, 2027 (team registration: confirm)",
+   "status": "ask",
+   "tier": "B",
+   "prestige": 5,
+   "diff": "Moderate · school teams",
+   "hours": "Ongoing (Jan–Mar)",
+   "cost": "Team-based; low",
+   "note": "School teams try a mock case at the federal courthouse in Little Rock; the state champion goes to the National High School Mock Trial Championship (May 13–15, 2027, St. Louis). A training workshop is set for Jan 9. No citizenship rule is stated; registration is by team through Tabroom.",
+   "act": "Ask your debate coach or a social studies teacher whether your school fields a mock trial team and when it registers.",
+   "url": "https://www.arkbar.com/?pg=mocktrial",
+   "added": "2026-11-25",
+   "checked": "2026-11-25"
+  },
+  {
+   "id": "fleischer",
+   "name": "Walton College Fleischer Scholars Program",
+   "org": "University of Arkansas · Walton College of Business",
+   "fields": [
+    "policy"
+   ],
+   "kind": "Summer program (state)",
+   "deadline": "2027-03-14",
+   "dlabel": "Mar 14, 2027 (confirm)",
+   "status": "ask",
+   "tier": "C",
+   "prestige": 3,
+   "diff": "Moderate",
+   "hours": "3–5 h",
+   "cost": "Free",
+   "note": "A free six-day business program on the Fayetteville campus for students who will be seniors in fall 2027, aimed at first-generation college students graduating from an Arkansas high school. The page lists March 14 as the deadline without a year and states no citizenship rule.",
+   "act": "Check whether you count as first-generation; if so, apply between now and March 14.",
+   "url": "https://walton.uark.edu/future-students/summer-programs.php",
+   "added": "2026-11-25",
+   "checked": "2026-11-25"
   },
   {
    "id": "qb",
@@ -860,7 +1020,8 @@
    "act": "Next step: apply only if your family's income is in that range.",
    "url": "https://www.questbridge.org/apply-to-college/programs/college-prep-scholars-program/apply",
    "added": "2026-11-23",
-   "seed": true
+   "seed": true,
+   "checked": "2026-11-25"
   },
   {
    "id": "bwsi",
@@ -949,7 +1110,8 @@
    "act": "Next step: ask your counselor or local Legion post how they pick delegates and whether non-citizens are eligible.",
    "url": "https://arboysstate.org/faq-2/",
    "added": "2026-11-23",
-   "seed": true
+   "seed": true,
+   "checked": "2026-11-25"
   },
   {
    "id": "oratorical",
@@ -974,6 +1136,29 @@
    "seed": true
   },
   {
+   "id": "barron",
+   "name": "Gloria Barron Prize for Young Heroes",
+   "org": "Barron Prize",
+   "fields": [
+    "policy",
+    "research"
+   ],
+   "kind": "Service award",
+   "deadline": "2027-04-15",
+   "dlabel": "Pre-app Mar 15 · full app Apr 15, 2027",
+   "status": "no",
+   "tier": "X",
+   "prestige": 6,
+   "diff": "Hard · 25 winners",
+   "hours": "10–15 h",
+   "cost": "$10,000",
+   "note": "$10,000 for 25 young people ages 8–18 who lead a significant service or environmental project. Applicants must be a 'permanent, legal resident of the U.S. or Canada' with an SSN or tax ID.",
+   "act": "Possible only if the green card arrives before March 15; you're eligible through age 18.",
+   "url": "https://barronprize.org/apply/",
+   "added": "2026-11-25",
+   "checked": "2026-11-25"
+  },
+  {
    "id": "bri-impact",
    "name": "BRI Community Impact Contest",
    "org": "Bill of Rights Institute",
@@ -994,6 +1179,29 @@
    "act": "Pick a local issue you could act on this winter (a debate or robotics outreach project could count) and document it for the spring entry.",
    "url": "https://billofrightsinstitute.org/community-impact-contest/",
    "added": "2026-11-24"
+  },
+  {
+   "id": "bowseat",
+   "name": "Bow Seat Blue Planet Awareness Contest",
+   "org": "Bow Seat Creative Action for Conservation",
+   "fields": [
+    "writing",
+    "research"
+   ],
+   "kind": "Art & writing contest",
+   "deadline": "2027-06-07",
+   "dlabel": "Jun 7, 2027 (11:59 pm ET)",
+   "status": "ok",
+   "tier": "C",
+   "prestige": 4,
+   "diff": "Moderate",
+   "hours": "10–20 h",
+   "cost": "Free · up to $1,000",
+   "note": "Formerly the Ocean Awareness Contest: creative entries (writing, art, film, poetry and more) on the 2027 theme 'Nature of Truth'. Open to students ages 11–18 from around the world; Senior Division is ages 15–18. Awards range from $50 to $1,000.",
+   "act": "Read the 2027 prompt and pick one category, such as an essay or short film.",
+   "url": "https://bowseat.org/programs/blue-planet-awareness-contest/contest-overview/",
+   "added": "2026-11-25",
+   "checked": "2026-11-25"
   },
   {
    "id": "cac",
@@ -1017,7 +1225,8 @@
    "act": "Next step: check that your district takes part, and plan to build the app over summer 2027.",
    "url": "https://www.congressionalappchallenge.us/students/rules/",
    "added": "2026-11-23",
-   "seed": true
+   "seed": true,
+   "checked": "2026-11-25"
   },
   {
    "id": "nmsc",
@@ -1334,6 +1543,33 @@
    "url": "https://www.jshs.org/wp-content/uploads/2026/08/JSHS-Core-Rules-of-Competition-2026-27.pdf",
    "added": "2026-11-23",
    "seed": true
+  },
+  {
+   "id": "bville-myc",
+   "name": "Bentonville Mayor's Youth Council",
+   "org": "City of Bentonville",
+   "fields": [
+    "policy"
+   ],
+   "kind": "Local government program",
+   "deadline": null,
+   "dlabel": "Principal recommendation · calendar-year term",
+   "status": "ask",
+   "tier": "C",
+   "prestige": 2,
+   "diff": "Low · principal-recommended",
+   "hours": "1 h/month",
+   "cost": "Free",
+   "note": "A year-long youth council that meets monthly with the mayor, for grades 9–11 who live inside Bentonville city limits (not just a Bentonville mailing address). Members are recommended by school principals. No citizenship rule is stated.",
+   "act": "Ask your principal whether a spot is open for the coming calendar year and confirm you live inside city limits.",
+   "url": "https://www.bentonville.ar.gov/1475/Mayors-Youth-Council",
+   "added": "2026-11-25",
+   "checked": "2026-11-25"
   }
- ]
+ ],
+ "coverage": {
+  "National merit and leadership scholarships": "2026-11-25",
+  "Scholarships open to juniors (essay, speech, video, art)": "2026-11-25",
+  "Arkansas and Northwest Arkansas": "2026-11-25"
+ }
 }

@@ -1,0 +1,317 @@
+{
+ "about": "Memory for the daily opportunity researcher. Programs already on the tracker live in data.json; this file records everything else that was checked, so later runs don't repeat the work.",
+ "updated": "2026-11-25",
+ "rejected": [
+  {
+   "name": "Optimist International Oratorical Contest",
+   "url": "https://www.optimist.org/",
+   "reason": "unverified: official guidelines PDF failed to load; club-level contest, check local Optimist club",
+   "date": "2026-11-23",
+   "recheck_after": "2026-12-23"
+  },
+  {
+   "name": "Ayn Rand Institute Fountainhead Essay Contest",
+   "url": "https://aynrand.org/students/essay-contests/the-fountainhead",
+   "reason": "unverified: official page did not show eligibility or 2027 deadline",
+   "date": "2026-11-23",
+   "recheck_after": "2026-12-23"
+  },
+  {
+   "name": "Paragon Policy Fellowship",
+   "url": "https://www.paragonfellowship.org/",
+   "reason": "unverified: could not confirm high school eligibility or 2027 dates",
+   "date": "2026-11-23",
+   "recheck_after": "2026-12-23"
+  },
+  {
+   "name": "Coca-Cola Scholars Program",
+   "url": "https://www.coca-colascholarsfoundation.org/",
+   "reason": "seniors only; 2026 deadline Sep 30 passed; H-4 likely ineligible",
+   "date": "2026-11-23",
+   "recheck_after": "2027-08-01"
+  },
+  {
+   "name": "Conrad Challenge",
+   "url": "https://www.conradchallenge.org/",
+   "reason": "Stage 1 deadline Oct 29, 2026 passed; next cycle opens fall 2027",
+   "date": "2026-11-23",
+   "recheck_after": "2027-08-01"
+  },
+  {
+   "name": "Breakthrough Junior Challenge",
+   "url": "https://breakthroughjuniorchallenge.org/",
+   "reason": "2026 cycle closed; next cycle opens spring 2027",
+   "date": "2026-11-23",
+   "recheck_after": "2027-03-01"
+  },
+  {
+   "name": "Congressional App Challenge 2026",
+   "url": "https://www.congressionalappchallenge.us/",
+   "reason": "2026 cycle closed Oct 26; 2027 cycle already tracked as congressional app challenge item",
+   "date": "2026-11-23",
+   "recheck_after": "2027-05-01"
+  },
+  {
+   "name": "USA Biology Olympiad (USABO)",
+   "url": "https://www.usabo-trc.org/",
+   "reason": "registration closed Nov 22, 2026",
+   "date": "2026-11-23",
+   "recheck_after": "2027-09-01"
+  },
+  {
+   "name": "NCWIT Aspirations in Computing Award",
+   "url": "https://www.aspirations.org/",
+   "reason": "deadline Nov 1 passed; open to women, genderqueer and non-binary students only",
+   "date": "2026-11-23",
+   "recheck_after": "2027-09-01"
+  },
+  {
+   "name": "Technovation Girls",
+   "url": "https://technovationchallenge.org/",
+   "reason": "girls-only program",
+   "date": "2026-11-23",
+   "recheck_after": "2099-01-01"
+  },
+  {
+   "name": "Texas Aerospace Scholars",
+   "url": "https://www.texasaerospacescholars.org/",
+   "reason": "Texas residents only",
+   "date": "2026-11-23",
+   "recheck_after": "2099-01-01"
+  },
+  {
+   "name": "NSLI-Y / Kennedy-Lugar YES Abroad",
+   "url": "https://www.nsliforyouth.org/",
+   "reason": "U.S. citizens only (State Department programs)",
+   "date": "2026-11-23",
+   "recheck_after": "2099-01-01"
+  },
+  {
+   "name": "Regeneron Science Talent Search",
+   "url": "https://www.societyforscience.org/regeneron-sts/",
+   "reason": "seniors only; consider in fall 2027",
+   "date": "2026-11-23",
+   "recheck_after": "2027-06-01"
+  },
+  {
+   "name": "VFW Voice of Democracy",
+   "url": "https://www.vfw.org/community/youth-and-education/youth-scholarships",
+   "reason": "2026 deadline Oct 31 passed",
+   "date": "2026-11-23",
+   "recheck_after": "2027-08-01"
+  },
+  {
+   "name": "Bank of America Student Leaders",
+   "url": "https://about.bankofamerica.com/en/making-an-impact/student-leaders-program-faq",
+   "reason": "already on tracker; now college-only",
+   "date": "2026-11-23",
+   "recheck_after": "2099-01-01"
+  },
+  {
+   "name": "Princeton Prize in Race Relations",
+   "url": "https://pprize.princeton.edu/apply",
+   "reason": "unverified: official site returned errors",
+   "date": "2026-11-25",
+   "recheck_after": "2026-12-25"
+  },
+  {
+   "name": "Prudential Emerging Visionaries",
+   "url": "https://www.changemakers.com/en/challenge/emergingvisionaries",
+   "reason": "no current cycle posted; last applications closed Nov 2023",
+   "date": "2026-11-25",
+   "recheck_after": "2027-09-01"
+  },
+  {
+   "name": "AFSA National High School Essay Contest",
+   "url": "https://afsa.org/essay-contest",
+   "reason": "on hiatus for 2026-27",
+   "date": "2026-11-25",
+   "recheck_after": "2027-08-01"
+  },
+  {
+   "name": "Princeton Ten-Minute Play Contest and High School Poetry Prize",
+   "url": "https://arts.princeton.edu/about/opportunities/high-school-contests",
+   "reason": "unverified: Lewis Center pages returned errors",
+   "date": "2026-11-25",
+   "recheck_after": "2026-12-25"
+  },
+  {
+   "name": "Holland & Knight Holocaust Remembrance Project",
+   "url": "https://holocaust.hklaw.com/",
+   "reason": "unverified: official page could not be fetched",
+   "date": "2026-11-25",
+   "recheck_after": "2026-12-25"
+  },
+  {
+   "name": "Arkansas YMCA Youth and Government",
+   "url": "https://www.ymcayag.org/ar/",
+   "reason": "official page stale (TBA 2024); no 2026-27 dates",
+   "date": "2026-11-25",
+   "recheck_after": "2026-12-25"
+  },
+  {
+   "name": "University of Arkansas Jump Start",
+   "url": "https://multicultural.uark.edu/Prepare/programs/jumpstart.php",
+   "reason": "2027 cycle not posted (2026 closed Mar 22)",
+   "date": "2026-11-25",
+   "recheck_after": "2027-01-15"
+  },
+  {
+   "name": "Arkansas Community Foundation scholarships",
+   "url": "https://www.arcf.org/apply/scholarships/",
+   "reason": "portal opens Feb 1; mostly for graduating seniors; check eligibility quiz then",
+   "date": "2026-11-25",
+   "recheck_after": "2027-02-01"
+  },
+  {
+   "name": "Congressional Youth Cabinet (Sen. Boozman)",
+   "url": "https://adecm.ade.arkansas.gov/ViewApprovedMemo.aspx?Id=5871",
+   "reason": "current juniors only; 2026-27 deadline Sep 18, 2026 passed",
+   "date": "2026-11-25",
+   "recheck_after": "2099-01-01"
+  },
+  {
+   "name": "Signet Classics Essay Contest",
+   "url": "https://www.penguinrandomhouse.com/signet-essay-contest/",
+   "reason": "unverified: official page shows no current rules or dates",
+   "date": "2026-11-25",
+   "recheck_after": "2026-12-25"
+  },
+  {
+   "name": "Crystal Bridges Teen Council",
+   "url": "https://crystalbridges.org/families/teen-council/",
+   "reason": "unverified: official page failed to load",
+   "date": "2026-11-25",
+   "recheck_after": "2026-12-25"
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://www.yriscience.com/blog/science-fair-deadlines-2026-27",
+   "what": "25 science competitions with 2026-27 deadlines",
+   "date": "2026-11-23"
+  },
+  {
+   "url": "https://www.learnstem.org/blog/medical-research-internships-for-high-school-students",
+   "what": "medical research internships for high schoolers",
+   "date": "2026-11-23"
+  },
+  {
+   "url": "https://www.standoutconnect.org/post/nasa-high-school-internships",
+   "what": "NASA high school programs",
+   "date": "2026-11-23"
+  },
+  {
+   "url": "https://www.aralia.com/helpful-information/the-new-york-times-student-contest-calendar-2026-2027/",
+   "what": "NYT Learning Network contests 2026-27",
+   "date": "2026-11-23"
+  },
+  {
+   "url": "https://arkansashistoryday.org/contest-info/regional-contests/",
+   "what": "NHD Arkansas regional dates",
+   "date": "2026-11-23"
+  }
+ ],
+ "queries": [
+  {
+   "q": "summer programs eligibility citizenship (RSI, SSP, MITES, SAMS, Simons, Clark, BWSI, YYGS, TASS)",
+   "date": "2026-11-23"
+  },
+  {
+   "q": "policy/government programs (Coolidge, USSYP, Boys/Girls State, Bezos, Notre Dame Leadership, Senate Page, LEDA, Reagan Foundation)",
+   "date": "2026-11-23"
+  },
+  {
+   "q": "math/CS olympiads (AMC/AIME/USAMO, USACO, F=ma/USAPhO)",
+   "date": "2026-11-23"
+  },
+  {
+   "q": "medical programs (Stanford SIMR, AIMI, Rockefeller SSRP, St. Jude, NIH SIP, Fred Hutch, BU RISE, HOSA, Brain Bee, UAMS MASH)",
+   "date": "2026-11-23"
+  },
+  {
+   "q": "writing/video contests (JFK Profile in Courage, Scholastic, John Locke, NYT contests, C-SPAN StudentCam)",
+   "date": "2026-11-23"
+  },
+  {
+   "q": "scholarship open to high school juniors 2027 deadline essay leadership national",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Princeton Prize in Race Relations 2027 deadline",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Kenyon Review Patricia Grodd Poetry Prize 2026 deadline",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "AFSA National High School Essay Contest 2027",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Arkansas high school juniors summer program 2027 University of Arkansas free",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Horatio Alger National Scholarship juniors citizenship deadline",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Princeton Ten-Minute Play Contest 2027",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Holocaust Remembrance Project essay contest 2027 Holland & Knight",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Bill of Rights Institute We the Students essay contest 2027",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Arkansas Youth and Government YMCA 2027",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Prudential Emerging Visionaries 2027",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Gloria Barron Prize for Young Heroes 2027",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Bow Seat Ocean Awareness Contest 2027",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Arkansas Community Foundation Benton County scholarship juniors 2027",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Signet Classics essay contest 2027",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Doodle for Google 2027",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "University of Arkansas engineering summer program high school 2027",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Crystal Bridges teen council 2027",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Arkansas Bar mock trial / law essay contest 2027",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Live Mas Scholarship 2027 eligibility",
+   "date": "2026-11-25"
+  }
+ ]
+}
