@@ -183,6 +183,328 @@
    "reason": "unverified: official page failed to load",
    "date": "2026-11-25",
    "recheck_after": "2026-12-25"
+  },
+  {
+   "name": "Arkansas Model United Nations (AMUN) at UCA",
+   "url": "https://uca.edu/politicalscience/home/experiential-learning-activities/model-united-nations/amun/",
+   "reason": "2026 conference (Nov 20–21) passed; schools sign up through a teacher",
+   "recheck_after": "2027-08-01",
+   "date": "2026-11-25"
+  },
+  {
+   "name": "Clinton Presidential Center Ideas Matter Scholarship Essay Contest (2027)",
+   "url": "https://www.clintonfoundation.org/clinton-presidential-center/educational-programs-9th-12th-grades/ideas-matter-essay-contest/",
+   "reason": "unverified: official page blocked; search shows 2027 contest for Arkansas juniors/seniors ($8,500) — recheck soon",
+   "recheck_after": "2026-12-25",
+   "date": "2026-11-25"
+  },
+  {
+   "name": "Harvard Undergraduate International Relations Scholars Program",
+   "url": "https://sites.harvard.edu/foreign-policy/ir-scholars-program/",
+   "reason": "2027 application and tuition not posted; tuition-based program",
+   "recheck_after": "2026-12-25",
+   "date": "2026-11-25"
+  },
+  {
+   "name": "Harvard College High School Ethics Bowl",
+   "url": "https://harvardundergraduateethics.org/hchseb",
+   "reason": "registration opens January 2027; details not posted",
+   "recheck_after": "2027-01-15",
+   "date": "2026-11-25"
+  },
+  {
+   "name": "Junior State of America Stern Civics Immersion Program",
+   "url": "https://jsa.org/programs/civics-immersion",
+   "reason": "unverified: official page would not load",
+   "recheck_after": "2026-12-25",
+   "date": "2026-11-25"
+  },
+  {
+   "name": "Lincoln Forum student essay contest",
+   "url": "https://www.thelincolnforum.org/",
+   "reason": "no rules, eligibility or deadline on official site",
+   "recheck_after": "2026-12-25",
+   "date": "2026-11-25"
+  },
+  {
+   "name": "DAR American History / Christopher Columbus Essay Contest",
+   "url": "https://www.dar.org/outreach/education/essay-contests",
+   "reason": "unverified: official page would not load",
+   "recheck_after": "2026-12-25",
+   "date": "2026-11-25"
+  },
+  {
+   "name": "Arkansas Civic Leadership Institute",
+   "url": "https://senate.arkansas.gov/senate-news/posts/2026/05/acli/",
+   "reason": "girls only (for those denied Girls State admission)",
+   "recheck_after": "2099-01-01",
+   "date": "2026-11-25"
+  },
+  {
+   "name": "Texas Public Policy Foundation Texas Scholars Program",
+   "url": "https://www.texaspolicy.com/tsp/",
+   "reason": "Texas students only",
+   "recheck_after": "2099-01-01",
+   "date": "2026-11-25"
+  },
+  {
+   "name": "International Public Policy Forum (IPPF)",
+   "url": "https://www.ippfdebate.com/2026-27-contest",
+   "reason": "2026-27 qualifying essays due Oct 13, 2026 (passed); strong fit next cycle, $10,000 grand prize",
+   "recheck_after": "2027-08-01",
+   "date": "2026-11-25"
+  },
+  {
+   "name": "J.W. Patterson Tournament of Champions (Univ. of Kentucky)",
+   "url": "https://ci.uky.edu/debate/toc",
+   "reason": "unverified: official page blocked; bid-based entry, Apr 17–19, 2027 per search listing",
+   "recheck_after": "2026-12-25",
+   "date": "2026-11-25"
+  },
+  {
+   "name": "NIETOC (National Individual Events Tournament of Champions)",
+   "url": "https://nietoc.org/",
+   "reason": "2027 dates and deadlines not posted; needs 2 bids per event",
+   "recheck_after": "2026-12-25",
+   "date": "2026-11-25"
+  },
+  {
+   "name": "ACTAA Jennifer Akers Memorial Scholarship",
+   "url": "https://www.actaa.net/scholarships",
+   "reason": "graduating Arkansas seniors only (3 x $500, due Feb 21, 2027)",
+   "recheck_after": "2027-12-01",
+   "date": "2026-11-25"
+  },
+  {
+   "name": "Camp ACTAA (free Arkansas speech & debate camp)",
+   "url": "https://actaa.org/camp",
+   "reason": "only 2026 details posted; 2027 registration opens Apr/May",
+   "recheck_after": "2027-04-01",
+   "date": "2026-11-25"
+  },
+  {
+   "name": "National Civics Bee",
+   "url": "https://civics.uschamberfoundation.org/ncb-how-it-works/",
+   "reason": "grades 6–8 only",
+   "recheck_after": "2099-01-01",
+   "date": "2026-11-25"
+  },
+  {
+   "name": "Courageous Persuaders Video Contest",
+   "url": "https://courageouspersuaders.com/official-rules/",
+   "reason": "30-second safe-driving commercial; weak fit",
+   "recheck_after": "2099-01-01",
+   "date": "2026-11-25"
+  },
+  {
+   "name": "NSD (National Symposium for Debate) need-based scholarships",
+   "url": "https://www.nsdebatecamp.com/scholarships",
+   "reason": "2026 aid closed; 2027 cycle not posted",
+   "recheck_after": "2027-01-15",
+   "date": "2026-11-25"
+  },
+  {
+   "name": "Elie Wiesel Prize in Ethics Essay Contest",
+   "url": "https://eliewieselfoundation.org/prize-in-ethics/",
+   "reason": "college undergraduates only",
+   "recheck_after": "2099-01-01",
+   "date": "2026-11-25"
+  },
+  {
+   "name": "Bennington Young Writers Awards",
+   "url": "https://www.bennington.edu/events/bennington-young-creators-awards/bennington-young-writers-awards",
+   "reason": "2026 contest closed Nov 1, 2026 (open worldwide, free); next cycle opens Sep 1",
+   "recheck_after": "2027-09-01",
+   "date": "2026-11-25"
+  },
+  {
+   "name": "Trinity College Cambridge essay prizes (R.A. Butler Politics, Robson History, etc.)",
+   "url": "https://www.trin.cam.ac.uk/undergraduate/essay-prizes/",
+   "reason": "all closed; 2027 information posted Feb 2027",
+   "recheck_after": "2027-02-15",
+   "date": "2026-11-25"
+  },
+  {
+   "name": "Marshall Society Essay Competition (Cambridge economics)",
+   "url": "https://marshallsoc.org/marshall-society-essay-competition-2026/",
+   "reason": "2026 competition closed; no 2027 dates posted",
+   "recheck_after": "2027-02-01",
+   "date": "2026-11-25"
+  },
+  {
+   "name": "Columbia Undergraduate Law Review High School Essay Contest",
+   "url": "https://www.culawreview.org/high-school-essay-contest",
+   "reason": "2026 deadline (Jun 26, 2026) passed; next prompt likely spring 2027",
+   "recheck_after": "2027-03-01",
+   "date": "2026-11-25"
+  },
+  {
+   "name": "Georgetown Journal of International Affairs High School Essay Contest",
+   "url": "https://gjia.georgetown.edu/homepage/high-school-essay-contest/",
+   "reason": "no 2026-27 deadline, prize or nationality rule on page",
+   "recheck_after": "2026-12-25",
+   "date": "2026-11-25"
+  },
+  {
+   "name": "Harvard International Review Academic Writing Contest",
+   "url": "https://harvardinternationalreview.com/contest",
+   "reason": "fee-driven: paid registration with medals for top 20%/10%/3%",
+   "recheck_after": "2099-01-01",
+   "date": "2026-11-25"
+  },
+  {
+   "name": "Fraser Institute Student Essay Contest",
+   "url": "https://www.fraserinstitute.org/education-programs/student-essay-contest",
+   "reason": "unverified: page and rules PDF would not load",
+   "recheck_after": "2026-12-25",
+   "date": "2026-11-25"
+  },
+  {
+   "name": "Carlow University Atkins Center Ethics Essay Contest",
+   "url": "https://www.carlow.edu/mission-service/mercy-justice/essay-contest/",
+   "reason": "page shows only a past deadline (Jan 17, 2025)",
+   "recheck_after": "2026-12-25",
+   "date": "2026-11-25"
+  },
+  {
+   "name": "Herzog Foundation Bill of Rights Essay Contest",
+   "url": "https://herzogfoundation.com/bill-of-rights-essay-contest/",
+   "reason": "Christian school/homeschool students only; deadline Nov 23, 2026 passed",
+   "recheck_after": "2099-01-01",
+   "date": "2026-11-25"
+  },
+  {
+   "name": "U.S. Courts Bill of Rights Day Student Contest (7th & 8th Circuits)",
+   "url": "https://www.are.uscourts.gov/bill-rights-day-student-contest",
+   "reason": "covers Arkansas, grades 5-12, but no current deadline or rules posted",
+   "recheck_after": "2026-12-25",
+   "date": "2026-11-25"
+  },
+  {
+   "name": "VMI Cold War Essay Contest",
+   "url": "https://www.vmi.edu/academics/departments/history/adamscenter/cold-war-essay-contest/",
+   "reason": "PhD candidates and early-career faculty only",
+   "recheck_after": "2099-01-01",
+   "date": "2026-11-25"
+  },
+  {
+   "name": "Princeton Summer Journalism Program",
+   "url": "https://psjp.princeton.edu/",
+   "reason": "unverified: eligibility/application pages would not load",
+   "recheck_after": "2026-12-25",
+   "date": "2026-11-25"
+  },
+  {
+   "name": "Harvard Political Review Journalism/Essay Competition",
+   "url": "https://theharvardpoliticalreview.com/harvard-political-review-journalism-competition/",
+   "reason": "no deadline, fee, prize or eligibility on the official page",
+   "recheck_after": "2026-12-25",
+   "date": "2026-11-25"
+  },
+  {
+   "name": "Lemelson-MIT InvenTeams grant",
+   "url": "https://lemelson.mit.edu/inventeams",
+   "reason": "2026–27 application cycle closed; teams announced Dec 2, 2026",
+   "recheck_after": "2027-03-01",
+   "date": "2026-11-25"
+  },
+  {
+   "name": "NAI Genspiration Prize (9–12 Young Inventors)",
+   "url": "https://academyofinventors.org/genspiration-prize/",
+   "reason": "requires prior finalist placement with same invention plus local affiliate letter",
+   "recheck_after": "2027-10-27",
+   "date": "2026-11-25"
+  },
+  {
+   "name": "USNA Summer STEM",
+   "url": "https://www.usna.edu/Admissions/Programs/STEM.php",
+   "reason": "only students entering grades 9–11; he will be a rising senior",
+   "recheck_after": "2099-01-01",
+   "date": "2026-11-25"
+  },
+  {
+   "name": "Princeton Laboratory Learning Program",
+   "url": "https://scienceoutreach.princeton.edu/laboratory-learning-program",
+   "reason": "unverified: official and application pages would not load",
+   "recheck_after": "2026-12-25",
+   "date": "2026-11-25"
+  },
+  {
+   "name": "National Robotics Challenge 2027",
+   "url": "https://www.thenrc.org/",
+   "reason": "event Apr 15–17, 2027 but no registration deadline or contest list posted yet",
+   "recheck_after": "2026-12-25",
+   "date": "2026-11-25"
+  },
+  {
+   "name": "HMMT February 2027",
+   "url": "https://www.hmmt.org/rg/deadlines",
+   "reason": "registration deadline passed Sep 20, 2026",
+   "recheck_after": "2027-08-01",
+   "date": "2026-11-25"
+  },
+  {
+   "name": "MIT PRIMES-USA",
+   "url": "https://math.mit.edu/research/highschool/primes/usa/apply-usa.html",
+   "reason": "deadline passed Nov 2, 2026; only sophomores and juniors may apply, so he'll be ineligible next cycle",
+   "recheck_after": "2099-01-01",
+   "date": "2026-11-25"
+  },
+  {
+   "name": "MathWorks Math Modeling Challenge (M3) 2027",
+   "url": "https://m3challenge.siam.org/the-challenge/important-dates/",
+   "reason": "unverified: official SIAM pages blocked; likely US juniors/seniors, registration late Feb 2027 — strong fit if confirmed",
+   "recheck_after": "2026-12-25",
+   "date": "2026-11-25"
+  },
+  {
+   "name": "COMAP HiMCM 2026",
+   "url": "https://www.comap.org/contests/himcm-midmcm",
+   "reason": "2026 contest window (Nov 4–17) passed",
+   "recheck_after": "2027-09-01",
+   "date": "2026-11-25"
+  },
+  {
+   "name": "Caltech Math Meet (formerly CHMMC) 2027",
+   "url": "https://www.caltechmathmeet.org/registration",
+   "reason": "registration closed for Jan 23, 2027 event",
+   "recheck_after": "2027-09-01",
+   "date": "2026-11-25"
+  },
+  {
+   "name": "ARML 2027 / ARML Local 2027",
+   "url": "https://arml3.com/",
+   "reason": "no 2027 dates or registration info posted",
+   "recheck_after": "2026-12-25",
+   "date": "2026-11-25"
+  },
+  {
+   "name": "HCSSiM 2027",
+   "url": "https://hcssim.org/",
+   "reason": "no 2027 dates; program relocating after Hampshire College closure",
+   "recheck_after": "2026-12-25",
+   "date": "2026-11-25"
+  },
+  {
+   "name": "Duke Math Meet",
+   "url": "https://dukemathmeet.org/",
+   "reason": "held each fall; 2026 event past",
+   "recheck_after": "2027-08-01",
+   "date": "2026-11-25"
+  },
+  {
+   "name": "PUMaC (Princeton University Mathematics Competition)",
+   "url": "https://pumac.princeton.edu/",
+   "reason": "page wouldn't load; November contest, this cycle almost certainly past",
+   "recheck_after": "2026-12-25",
+   "date": "2026-11-25"
+  },
+  {
+   "name": "Berkeley Math Tournament 2026 (in person)",
+   "url": "https://berkeley.mt/news/bmt-2026-and-online-registration-open/",
+   "reason": "in-person event Nov 14, 2026 passed; online version added instead",
+   "recheck_after": "2027-09-01",
+   "date": "2026-11-25"
   }
  ],
  "sources": [
@@ -210,6 +532,151 @@
    "url": "https://arkansashistoryday.org/contest-info/regional-contests/",
    "what": "NHD Arkansas regional dates",
    "date": "2026-11-23"
+  },
+  {
+   "url": "https://nhseb.org/season",
+   "what": "NHSEB 2026-27 registration deadline (Jan 15, 2027) and fees",
+   "date": "2026-11-25"
+  },
+  {
+   "url": "https://nhseb.org/teams",
+   "what": "NHSEB team size, accredited U.S. high school requirement",
+   "date": "2026-11-25"
+  },
+  {
+   "url": "https://sarhouston.org/Education/Orations-Contest/orations-contest.html",
+   "what": "SAR chapter page: no stated citizenship rule for oration",
+   "date": "2026-11-25"
+  },
+  {
+   "url": "https://fte.org/students/international-students/",
+   "what": "FTE welcomes international students",
+   "date": "2026-11-25"
+  },
+  {
+   "url": "https://fte.org/students/costs-scholarships/",
+   "what": "EFL costs and scholarship rule",
+   "date": "2026-11-25"
+  },
+  {
+   "url": "https://members.sar.org/media/uploads/pages/3/pUVCQXiOVbUE.pdf",
+   "what": "SAR chapter entry form (grades 9–12, no citizenship rule)",
+   "date": "2026-11-25"
+  },
+  {
+   "url": "https://arssar.org/grants-and-contests/",
+   "what": "Arkansas SAR contest contact",
+   "date": "2026-11-25"
+  },
+  {
+   "url": "https://www.rotarydistrict6110.org/D6110%20Manual%20for%20the%20Four%20Way%20Test%20Speech%20Contest%202026-2027.pdf",
+   "what": "Rotary D6110 2026-27 Four-Way Test manual",
+   "date": "2026-11-25"
+  },
+  {
+   "url": "https://ualr.edu/philosophy/hs-ethics-bowl/",
+   "what": "Arkansas HS Ethics Bowl Feb 6, 2027",
+   "date": "2026-11-25"
+  },
+  {
+   "url": "https://www.speechanddebate.org/academic-all-american-nomination-form/",
+   "what": "Academic All American criteria",
+   "date": "2026-11-25"
+  },
+  {
+   "url": "https://debatecamp.utdallas.edu/",
+   "what": "Mean Green Comet 2027 dates and costs",
+   "date": "2026-11-25"
+  },
+  {
+   "url": "https://nietoc.org/fees-deadlines/",
+   "what": "NIETOC fees (2026 only)",
+   "date": "2026-11-25"
+  },
+  {
+   "url": "https://www.johnlockeinstitute.com/essay-competition",
+   "what": "Official John Locke Global Essay Prize page (2026 cycle only; 2027 not posted)",
+   "date": "2026-11-25"
+  },
+  {
+   "url": "https://files.ieo-official.org/2026/Essay_Challenge_26_27_Regulations.pdf",
+   "what": "IEOx Essay Challenge 2026/27 regulations",
+   "date": "2026-11-25"
+  },
+  {
+   "url": "https://eliewieselfoundation.org/prize-in-ethics/",
+   "what": "Wiesel prize eligibility (college only)",
+   "date": "2026-11-25"
+  },
+  {
+   "url": "https://www.trin.cam.ac.uk/undergraduate/essay-prizes/",
+   "what": "Trinity College Cambridge essay prizes",
+   "date": "2026-11-25"
+  },
+  {
+   "url": "https://www.culawreview.org/high-school-essay-contest",
+   "what": "Columbia Undergraduate Law Review HS contest",
+   "date": "2026-11-25"
+  },
+  {
+   "url": "https://www.rocketrychallenge.org/faq/",
+   "what": "ARC eligibility, fee, team size",
+   "date": "2026-11-25"
+  },
+  {
+   "url": "https://tsaweb.org/teams/national-competition",
+   "what": "2027 National TEAMS dates and qualification",
+   "date": "2026-11-25"
+  },
+  {
+   "url": "https://www.arkansastsa.org/competitions-hs",
+   "what": "Arkansas TSA high school event list",
+   "date": "2026-11-25"
+  },
+  {
+   "url": "https://www.nasa.gov/aeronautics/aeronautics-stem/2026-2027-dwu-high-school-engineering-challenge/",
+   "what": "Dream With Us HS challenge",
+   "date": "2026-11-25"
+  },
+  {
+   "url": "https://zerorobotics.mit.edu/announcements/87/",
+   "what": "Zero Robotics 2027 registration",
+   "date": "2026-11-25"
+  },
+  {
+   "url": "https://hspc.uark.edu/",
+   "what": "UA HS Programming Contest 2027",
+   "date": "2026-11-25"
+  },
+  {
+   "url": "https://berkeley.mt/faqs/",
+   "what": "BMT eligibility: grade 12 or below, international OK",
+   "date": "2026-11-25"
+  },
+  {
+   "url": "https://www.usamts.org/register/",
+   "what": "USAMTS eligibility: US citizens or residents",
+   "date": "2026-11-25"
+  },
+  {
+   "url": "https://arkansasctm.org/Regional-Contests",
+   "what": "ACTM 2027 regional sites",
+   "date": "2026-11-25"
+  },
+  {
+   "url": "https://uca.edu/actm/",
+   "what": "ACTM subjects, fees, eligibility",
+   "date": "2026-11-25"
+  },
+  {
+   "url": "https://rossprogram.org/participants/faq/",
+   "what": "Ross accepts international students",
+   "date": "2026-11-25"
+  },
+  {
+   "url": "https://www.mathworks.com/academia/student-competitions/mathworks-math-modeling-challenge.html",
+   "what": "MathWorks confirms 2027 M3 Challenge (no dates)",
+   "date": "2026-11-25"
   }
  ],
  "queries": [
@@ -311,6 +778,590 @@
   },
   {
    "q": "Live Mas Scholarship 2027 eligibility",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "International Public Policy Forum 2026-2027 written round deadline high school",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Sons of the American Revolution Rumbaugh Oration Contest 2027 eligibility",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "National High School Ethics Bowl 2027 regional Arkansas",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Arkansas Sons of the American Revolution oration contest 2027 chapter deadline",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Constituting America We the Future contest 2026 2027 high school essay deadline",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "high school moot court competition 2027 national registration deadline",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Eighth Circuit civics contest 2027 high school students Arkansas federal court",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "free summer law institute high school juniors 2027 application deadline selective",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Bill of Rights Day student contest 2026 Seventh Eighth Circuit high school deadline",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Stanford Law civics OR constitutional high school summer program free 2027",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Harvard Kennedy School high school program OR Ash Center youth policy 2027 apply",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Junior State of America Stern Civics Immersion Program 2027 free application deadline",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "high school constitution essay contest 2027 national prize deadline February OR March",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Federal Reserve Bank of St. Louis high school essay contest OR Herzog Foundation Bill of Rights essay contest 2027 eligibility",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Clinton Presidential Center high school students program 2027 application",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Arkansas high school students civics essay contest 2027 state legislature OR secretary of state OR bar",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "think tank high school fellowship 2027 policy research virtual apply juniors free",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "clintonfoundation.org essay contest scholarship high school juniors seniors Arkansas 2027",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Arkansas Civic Leadership Institute high school",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Texas Scholars Program high school fellowship 2027 eligibility",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Ideas Matter Clinton essay contest 2027 deadline",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Ashbrook Center high school students program 2027 OR Lincoln Forum essay contest high school 2027",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Washington DC summer government program high school juniors full scholarship 2027 application deadline January",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Supreme Court Historical Society OR American Bar Association high school essay contest 2027 law day",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "thelincolnforum.org scholarship essay contest 2027 deadline",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "model UN OR model congress high school free scholarship conference 2027 selective full scholarship delegates",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Economics for Leaders 2027 OR Foundation for Teaching Economics summer program application",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Arkansas Society Sons of the American Revolution youth contests oration essay deadline",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Rumbaugh oration contest rules citizen OR legal resident national rules PDF",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "National Civics Bee 2027 high school grades eligibility",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "high school moot court national competition constitutional 2027 Marshall-Brennan OR First Amendment students",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Columbia Ethics Bowl Online high school OR Harvard policy case competition high school 2027",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Harvard Political Review OR Yale Model Government OR Princeton Model Congress high school 2027 financial aid",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Arkansas high school students model united nations OR mock congress OR youth legislature 2027 University of Arkansas OR UCA conference",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "law school pipeline program high school juniors free residential 2027 apply rising seniors law",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "high school international relations OR diplomacy OR public policy competition 2027 deadline national United States students essay policy proposal",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Harvard College High School Ethics Bowl 2027",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "judiciallearningcenter.org Bill of Rights Day contest 2026 entries due",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "DAR American History Essay Contest OR Christopher Columbus Essay high school 2027 eligibility citizenship",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "high school policy summer institute 2027 university free public policy juniors apply international students OR regardless of citizenship",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "International Public Policy Forum 2026-2027 registration deadline high school debate",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Sons of the American Revolution Rumbaugh Historical Oration Contest 2027 rules eligibility",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "NSDA Academic All American award eligibility juniors application",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Arkansas Society Sons of the American Revolution oration contest 2027 deadline",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "speechanddebate.org scholarships high school students NSDA scholarship deadline 2027",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "NCFL Grand National Tournament 2027 location dates qualification diocesan league",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Arkansas Activities Association speech and debate state tournament 2027 dates",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "National High School Ethics Bowl 2026-2027 regional bowl Arkansas Oklahoma Missouri registration",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "high school oratorical contest scholarship 2027 national foundation speech contest juniors",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "oratorical OR speech contest scholarship high school Arkansas 2027 Lions Rotary Elks",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "free debate summer institute financial aid high school 2027 Public Forum scholarship need-based",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Kandi King Scholars Mean Green Comet Debate Institute UT Dallas scholarship application deadline",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Tournament of Champions speech debate University of Kentucky 2027 bids Public Forum Original Oratory",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Bill of Rights Institute OR National Constitution Center OR Lincoln Forum high school speech contest 2027 deadline",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "NIETOC 2027 dates location qualification",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Harvard National Forensics Tournament 2027 high school dates registration",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "high school persuasive speech contest scholarship 2027 video submission national deadline",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Rotary District 6110 Four-Way Test speech contest high school 2027",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "NSDA Student Leadership Council application 2026-2027 deadline",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "World Schools debate US national team tryouts 2027 high school USA Debate selection",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Arkansas high school speech and debate summer camp 2027 university scholarship",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Lions Club student speaker contest Arkansas OR Missouri OR Oklahoma 2027 scholarship high school",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "high school economics essay competition 2027 deadline international students",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "high school philosophy ethics essay contest 2027 deadline",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Concord Review Emerson Prize history essay high school",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Constitution essay contest high school 2027 deadline national",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "foreign policy international relations essay competition high school students 2027",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "high school journalism award 2027 national student journalist contest deadline",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "essay competition high school students 2027 university political review prize deadline",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "FEE essay contest high school students economics 2026-2027",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Bennington Young Writers Awards 2027 deadline nonfiction",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Harvard Political Review high school essay competition 2027",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "IEOx essay challenge specific regulations fee",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Harvard International Review academic writing contest high school 2027 deadline",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Cambridge Oxford college essay prize 2027 overseas students eligible history politics",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Trinity College Cambridge essay prize OR Peterhouse Kingsley essay OR Newnham essay prize 2027 international students",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "history essay contest high school students 2027 national prize deadline",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Fraser Institute student essay contest 2027 high school",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Marshall Society Cambridge economics essay competition 2027 international",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "high school essay contest technology ethics AI policy 2027 prize students grades 9-12",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Fraser Institute student essay contest deadline June eligibility high school students any country",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "National WWII Museum OR Gilder Lehrman OR Hagley high school essay contest 2027 deadline",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Lumiere Scholars Essay Award OR Horizon Academic Essay Prize 2027 deadline eligibility",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Federal Reserve OR economics essay contest high school 2027 open to students U.S. prize",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "law review high school essay competition 2027 constitutional law students deadline",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Wharton Global Youth essay OR Penn high school economics writing competition 2027",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "high school essay contest 2027 democracy civic January OR February OR March 2027 deadline prize foundation",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Arkansas high school essay contest 2027 bar association OR district court OR civics",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Civic Trust US Chamber Foundation 2027 student essay contest",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Bill of Rights Day student contest Seventh Eighth Circuit 2026 deadline essay",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Eighth Circuit civics essay contest 2027 high school students Arkansas federal courts",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Quill and Scroll writing photo contest 2027 deadline eligibility",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "International Philosophy Olympiad USA selection essay high school 2027",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Princeton Summer Journalism Program 2027 application deadline eligibility juniors",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "think tank essay contest high school students 2027 policy prize",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "national security OR military history essay contest high school 2027 deadline",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "American Rocketry Challenge 2027 registration deadline",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Lemelson-MIT InvenTeams 2027 application high school",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Real World Design Challenge 2026-2027 registration high school",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "high school engineering competition 2027 deadline international students eligible U.S. school",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Arkansas TSA state conference 2027 Technology Student Association",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "MathWorks Math Modeling Challenge 2027 registration deadline",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Carnegie Mellon AI Scholars 2027 summer program application deadline eligibility",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Solar Car Challenge 2027 high school registration deadline",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "high school drone competition 2027 national registration deadline",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "free engineering summer program rising seniors 2027 application deadline selective",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Naval Academy Summer Seminar 2027 application opens juniors STEM engineering",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "picoCTF 2027 competition dates high school eligibility",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "TSA TEAMS competition 2027 high school registration deadline",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "NASA HUNCH high school 2026-2027 design and prototype students how to join",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "SeaPerch Challenge 2027 international competition registration high school",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Arkansas high school engineering design competition 2027",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "invention contest high school 2027 deadline national",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "AI robotics competition high school 2027 open registration students",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "IEEE high school student competition 2027 pre-university",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "NSBE SHPE SWE high school pre-college competition 2027 open to all students",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "MIT Lincoln Laboratory LLRISE 2027 application deadline eligibility",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "2027 high school engineering summer program free tuition permanent resident OR international students juniors robotics",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Princeton Laboratory Learning Program 2027 high school application deadline",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Arkansas Space Grant Consortium high school students 2027 rocketry or engineering competition",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "HMMT February 2027 registration deadline",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "MathWorks Math Modeling Challenge 2027 registration deadline eligibility",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Ross Mathematics Program 2027 application deadline",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "M3 Challenge 2027 registration deadline February 2027 challenge weekend",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "mathworks.com M3 Challenge 2027 high school juniors seniors register",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Purple Comet Math Meet 2027 date registration",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Stanford Math Tournament SMT 2027 registration",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "CMIMC 2027 registration",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "ARML 2027 local Arkansas team or ARML Local 2027 date",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "HCSSiM 2027 application deadline",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "MathILy 2027 application",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "University of Arkansas high school mathematics contest 2027 Fayetteville",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Arkansas Council of Teachers of Mathematics state math contest high school 2027",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "MIT PRIMES-USA 2027 application deadline eligibility",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Texas State Honors Summer Math Camp 2027 application deadline",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Duke Math Meet 2026 2027 date registration online",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "online math olympiad high school 2027 free individual registration (OMMC OR Online Math Open OR USEMO)",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "MathILy 2027 dates cost Bryn Mawr summer 2027",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "PUMaC 2026 date registration",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Berkeley Math Tournament BMT 2026 date",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "COMAP HiMCM 2026 contest dates registration deadline",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "BMT 2026 Online berkeley.mt",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "USAMTS 2026-2027 round deadlines eligibility",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "CHMMC Caltech Harvey Mudd Math Competition 2026 online date registration",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "SMT 2027 Online Stanford Math Tournament online competition date",
+   "date": "2026-11-25"
+  },
+  {
+   "q": "ASMSA math tournament high school Arkansas 2027",
    "date": "2026-11-25"
   }
  ]
