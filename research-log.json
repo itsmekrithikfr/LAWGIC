@@ -1,6 +1,6 @@
 {
  "about": "Memory for the daily opportunity researcher. Programs already on the tracker live in data.json; this file records everything else that was checked, so later runs don't repeat the work.",
- "updated": "2026-11-26",
+ "updated": "2026-11-27",
  "rejected": [
   {
    "name": "Optimist International Oratorical Contest",
@@ -820,6 +820,384 @@
    "reason": "College students and graduates only",
    "recheck_after": "2099-01-01",
    "date": "2026-11-26"
+  },
+  {
+   "name": "Cameron Impact Scholarship",
+   "url": "https://www.bryancameroneducationfoundation.org/scholarship",
+   "reason": "The official site failed to load. College Board's BigFuture listing says applicants must be U.S. citizens, and the class of 2027 juniors' deadline was May 1, 2026. Recheck the official page when the class of 2028 round opens (about Feb 1, 2027).",
+   "recheck_after": "2026-12-27",
+   "date": "2026-11-27"
+  },
+  {
+   "name": "Rise (Schmidt Futures / Rhodes Trust)",
+   "url": "https://www.risefortheworld.org/",
+   "reason": "No 2027 application cycle has been announced on the official site. Rise is open to ages 15-17 worldwide when it runs.",
+   "recheck_after": "2026-12-27",
+   "date": "2026-11-27"
+  },
+  {
+   "name": "Congress-Bundestag Youth Exchange (CBYX) 2027-28",
+   "url": "https://yfuusa.org/cbyx/",
+   "reason": "The deadline passed (Nov 10, 2026), and applicants must be U.S. citizens.",
+   "recheck_after": "2099-01-01",
+   "date": "2026-11-27"
+  },
+  {
+   "name": "Elks Most Valuable Student Scholarship",
+   "url": "https://www.elks.org/scholars/scholarships/mvs.cfm",
+   "reason": "Open to seniors only, and applicants must be U.S. citizens; permanent residents aren't eligible.",
+   "recheck_after": "2099-01-01",
+   "date": "2026-11-27"
+  },
+  {
+   "name": "Stephen J. Brady Stop Hunger Scholarship",
+   "url": "https://www.us.stop-hunger.org/grants/youth-scholarships",
+   "reason": "The 2026-27 application window (Aug 20 - Oct 20) has closed.",
+   "recheck_after": "2027-08-20",
+   "date": "2026-11-27"
+  },
+  {
+   "name": "Rotary District 6110 RYLA",
+   "url": "https://www.rotarydistrict6110.org/ryla.php",
+   "reason": "For current juniors only. The next camp (Oct 14-17, 2027) falls in Krithik's senior year.",
+   "recheck_after": "2099-01-01",
+   "date": "2026-11-27"
+  },
+  {
+   "name": "T-Mobile Changemaker Challenge",
+   "url": "https://www.changemakers.com/en/challenge/tmobile-changemaker/eligibility-criteria-awards",
+   "reason": "The official page only shows the 2023 cycle. No current cycle was found.",
+   "recheck_after": "2026-12-27",
+   "date": "2026-11-27"
+  },
+  {
+   "name": "Peace First Grants",
+   "url": "https://peacefirst.org/grants/",
+   "reason": "No open call or deadline is posted. Calls are announced once a year on social media.",
+   "recheck_after": "2026-12-27",
+   "date": "2026-11-27"
+  },
+  {
+   "name": "Project Yellow Light Scholarship (video/billboard/radio)",
+   "url": "https://www.projectyellowlight.com/",
+   "reason": "Can't verify: the official site and its rules and FAQ pages returned errors.",
+   "recheck_after": "2026-12-27",
+   "date": "2026-11-27"
+  },
+  {
+   "name": "EngineerTeen Writing Contest 2027",
+   "url": "https://www.engineerteen.org/4586",
+   "reason": "Can't verify: the official page loads no readable content. An aggregator lists a Feb 1, 2027 deadline and grades 3–12, but the prizes and sponsor couldn't be confirmed on an official page.",
+   "recheck_after": "2026-12-27",
+   "date": "2026-11-27"
+  },
+  {
+   "name": "Swackhamer Disarmament Video Contest",
+   "url": "https://www.wagingpeace.org/awards-and-contests/",
+   "reason": "Can't verify the current cycle: the NAPF page lists only a general Feb 1 topic release and an Apr 1 deadline, with no eligibility or prize details.",
+   "recheck_after": "2027-02-01",
+   "date": "2026-11-27"
+  },
+  {
+   "name": "Ayn Rand Institute Anthem Essay Contest",
+   "url": "https://aynrand.org/students/essay-contests",
+   "reason": "International students are allowed, but the 2026-27 deadline is listed as 'TBD'.",
+   "recheck_after": "2026-12-27",
+   "date": "2026-11-27"
+  },
+  {
+   "name": "Penguin Random House Creative Writing Awards",
+   "url": "https://scholarshipamerica.org/scholarship/penguinrandomhouse/",
+   "reason": "Seniors only (graduating spring 2027); Krithik can apply next cycle as a senior.",
+   "recheck_after": "2027-09-01",
+   "date": "2026-11-27"
+  },
+  {
+   "name": "Niche $2,000 No Essay Scholarship",
+   "url": "https://www.niche.com/about/scholarship-rules/no-essay-scholarship/",
+   "reason": "A sweepstakes run to collect data: the winner is drawn at random from survey entries, marketing is opt-out, and a U.S. Social Security Number is required.",
+   "recheck_after": "2099-01-01",
+   "date": "2026-11-27"
+  },
+  {
+   "name": "Knights of Columbus Catholic Citizenship Essay Contest",
+   "url": "https://www.kofc.org/what-we-do/programs/community/catholic-essay-contest/",
+   "reason": "Limited to Catholic students.",
+   "recheck_after": "2099-01-01",
+   "date": "2026-11-27"
+  },
+  {
+   "name": "Arkansas Governor's Distinguished Scholarship (Governor's Scholars – Distinguished)",
+   "url": "https://sams.adhe.edu/Scholarship",
+   "reason": "For high school seniors only (March 1 deadline; needs a 32 ACT or 1410 SAT and a 3.5 GPA). Krithik applies as a senior by Mar 1, 2028.",
+   "recheck_after": "2027-10-01",
+   "date": "2026-11-27"
+  },
+  {
+   "name": "My Natural State Story Essay Contest (Governor Sanders / AGFC)",
+   "url": "https://adecm.ade.arkansas.gov/ViewApprovedMemo.aspx?Id=5875",
+   "reason": "The 2026 deadline (Oct 12, 2026) has passed. Ages 14-17 division; outdoor-experience essay of up to 500 words.",
+   "recheck_after": "2027-08-15",
+   "date": "2026-11-27"
+  },
+  {
+   "name": "Arkansas Farm Bureau Ag Youth Leadership Summit",
+   "url": "https://www.arfb.com/pages/education/ag-youth-leadership-summit/",
+   "reason": "The page shows only the 2026 summit (May 31-June 3, 2026) with no deadline. The 2027 cycle is not posted, and the program is agriculture-focused.",
+   "recheck_after": "2026-12-27",
+   "date": "2026-11-27"
+  },
+  {
+   "name": "Hendrix College Programming Contest (HCPC)",
+   "url": "https://hendrix-cs.github.io/hcpc/",
+   "reason": "Not held in 2026, and no 2027 contest has been announced.",
+   "recheck_after": "2026-12-27",
+   "date": "2026-11-27"
+  },
+  {
+   "name": "Arkansas School for Mathematics, Sciences and the Arts (ASMSA) admission 2027-28",
+   "url": "https://www.asmsa.org/admissions/application/",
+   "reason": "Admission for 2027-28 is only for the Classes of 2029 and 2030, so a current junior (Class of 2028) cannot apply.",
+   "recheck_after": "2099-01-01",
+   "date": "2026-11-27"
+  },
+  {
+   "name": "Arkansas Electric Cooperatives Washington Youth Tour (Carroll Electric)",
+   "url": "https://www.aecc.com/community/youth-tour/",
+   "reason": "Juniors are chosen by their local electric co-op, and the Carroll Electric (Arkansas) page gives no 2027 details. Eligibility depends on being in a co-op service area (Bentonville's city utility is not a co-op). Could not verify.",
+   "recheck_after": "2026-12-27",
+   "date": "2026-11-27"
+  },
+  {
+   "name": "Economics Arkansas Y.E.S. (Youth Entrepreneurship Showcase)",
+   "url": "https://www.economicsarkansas.org/for_teachers/yes-competition.html",
+   "reason": "Grades 5-8 only.",
+   "recheck_after": "2099-01-01",
+   "date": "2026-11-27"
+  },
+  {
+   "name": "RazorHack Cyber Challenge (IEEE Ozark / U of A)",
+   "url": "https://razorhack.org/",
+   "reason": "The 2026 event (Nov 6-8, 2026) has passed, and 2027 dates are not posted. It mainly targets college students and professionals, at $75 per player for students.",
+   "recheck_after": "2027-08-01",
+   "date": "2026-11-27"
+  },
+  {
+   "name": "Arkansas Supreme Court Law Day Art & Essay Contest",
+   "url": "https://arcourts.gov/announcements/lawday",
+   "reason": "The only official page is from 2019, and there is no current contest. Could not verify a 2027 cycle (contact: PublicEd@arcourts.gov).",
+   "recheck_after": "2026-12-27",
+   "date": "2026-11-27"
+  },
+  {
+   "name": "Arkansas Space Grant Consortium student awards",
+   "url": "https://www.arkansasspacegrant.org/studentopportunities",
+   "reason": "Only for college students at member universities and requires U.S. citizenship. Nothing for high school students.",
+   "recheck_after": "2099-01-01",
+   "date": "2026-11-27"
+  },
+  {
+   "name": "UA Little Rock Summer Laureate University for Youth (SLUFY)",
+   "url": "https://ualr.edu/slufy/",
+   "reason": "Only for students who have completed grades K-6.",
+   "recheck_after": "2099-01-01",
+   "date": "2026-11-27"
+  },
+  {
+   "name": "U of A Discover Engineering camp",
+   "url": "https://engineering.uark.edu/summer-camps/discover-engineering.php",
+   "reason": "Middle school camp (entering grades 6-7).",
+   "recheck_after": "2099-01-01",
+   "date": "2026-11-27"
+  },
+  {
+   "name": "Arkansas Senate Youth Program / Clinton Center Student Presidential Leaders Series",
+   "url": "https://www.clintonfoundation.org/clinton-presidential-center/education/student-presidential-leaders-series/",
+   "reason": "The official page would not load (client error), so it could not be verified.",
+   "recheck_after": "2026-12-27",
+   "date": "2026-11-27"
+  },
+  {
+   "name": "Congress-Bundestag Youth Exchange (CBYX) 2027-28 high school",
+   "url": "https://usagermanyscholarship.org/2027-28-cbyx-high-school-application-now-open/",
+   "reason": "The extended deadline passed on Nov 3, 2026.",
+   "recheck_after": "2027-09-01",
+   "date": "2026-11-27"
+  },
+  {
+   "name": "Rogers Mayor's Youth Academy",
+   "url": "https://www.rogersar.gov/1489/Apply-for-the-Mayors-Youth-Academy",
+   "reason": "The 2026-27 class deadline passed on Sep 11, 2026. It is open to juniors and seniors; the page doesn't say whether Rogers residency is required.",
+   "recheck_after": "2027-08-01",
+   "date": "2026-11-27"
+  },
+  {
+   "name": "Bentonville Public Library Teen Advisory Board",
+   "url": "https://bentonvillelibrary.org/teens/teen-advisory-board",
+   "reason": "Applications are closed for this year. It is open to juniors and seniors, so Krithik could apply next cycle.",
+   "recheck_after": "2027-07-01",
+   "date": "2026-11-27"
+  },
+  {
+   "name": "Fayetteville Youth Advisory Council",
+   "url": "https://fayetteville-ar.gov/4314/Fayetteville-Youth-Advisory-Council",
+   "reason": "Limited to City of Fayetteville residents.",
+   "recheck_after": "2099-01-01",
+   "date": "2026-11-27"
+  },
+  {
+   "name": "President's Volunteer Service Award",
+   "url": "https://www.presidentialserviceawards.org/eligibility",
+   "reason": "AmeriCorps paused the award on May 27, 2025, and the official site could not be loaded. Before the pause it required citizenship or permanent residency.",
+   "recheck_after": "2027-03-01",
+   "date": "2026-11-27"
+  },
+  {
+   "name": "FBINAA Arkansas Youth Leadership Program",
+   "url": "https://arfbinaa.org/youth-leadership-program/",
+   "reason": "Limited to rising sophomores and juniors aged 14-16, so Krithik will be too old by summer 2027.",
+   "recheck_after": "2099-01-01",
+   "date": "2026-11-27"
+  },
+  {
+   "name": "Diller Teen Tikkun Olam Awards",
+   "url": "https://dillerteenawards.org/apply/",
+   "reason": "Applicants must identify as Jewish. It is otherwise open to U.S. residents aged 15-19 with a Jan 7, 2027 deadline, so it applies only if Krithik identifies as Jewish.",
+   "recheck_after": "2099-01-01",
+   "date": "2026-11-27"
+  },
+  {
+   "name": "American Red Cross National Youth Council",
+   "url": "https://www.redcross.org/red-cross-youth/national-youth-council/apply-to-the-national-youth-council.html",
+   "reason": "Requires two years of active Red Cross volunteering and a past Red Cross leadership role. Applications run Mar 23-Apr 26.",
+   "recheck_after": "2099-01-01",
+   "date": "2026-11-27"
+  },
+  {
+   "name": "Boys & Girls Clubs Youth of the Year",
+   "url": "https://bgca-yoy.secure-platform.com/a/page/resources/Eligibility",
+   "reason": "Requires at least one year of continuous Boys & Girls Club membership before Jan 31, 2027. Citizenship is not required.",
+   "recheck_after": "2099-01-01",
+   "date": "2026-11-27"
+  },
+  {
+   "name": "Rep. Steve Womack internships (Rogers/Fort Smith district offices and D.C.)",
+   "url": "https://womack.house.gov/constituentservices/internships.htm",
+   "reason": "For college students and recent graduates only (summer applicants must be enrolled in a university). Also paid. Spring 2027 district deadline is Dec 4, 2026.",
+   "recheck_after": "2099-01-01",
+   "date": "2026-11-27"
+  },
+  {
+   "name": "Civics Unplugged Civic Innovators Fellowship",
+   "url": "https://www.civicsunplugged.org/fellowship",
+   "reason": "Could not verify: the official site blocks automated fetching. Secondary sources mention a Jan 31 deadline and a free virtual fellowship.",
+   "recheck_after": "2026-12-27",
+   "date": "2026-11-27"
+  },
+  {
+   "name": "Heritage Foundation Lloyd and Bea Smith High School Fellowship",
+   "url": "https://www.heritage.org/high-school-fellowship",
+   "reason": "Could not verify: the official page and FAQ would not load (bot challenge).",
+   "recheck_after": "2026-12-27",
+   "date": "2026-11-27"
+  },
+  {
+   "name": "Johns Hopkins Internship in Brain Sciences (JHIBS)",
+   "url": "https://www.hopkinsmedicine.org/neurology-neurosurgery/research/jhu-nimh/jhibs/how-to-apply",
+   "reason": "Could not verify: the official page is blocked by Cloudflare.",
+   "recheck_after": "2026-12-27",
+   "date": "2026-11-27"
+  },
+  {
+   "name": "Smithsonian NMNH High School Internship Program",
+   "url": "https://naturalhistory.si.edu/education/youth-programs/high-school-internship-program",
+   "reason": "Could not verify: both the NMNH page and internships.si.edu returned errors. It is an in-person D.C. program.",
+   "recheck_after": "2026-12-27",
+   "date": "2026-11-27"
+  },
+  {
+   "name": "NSA High School Work Study",
+   "url": "https://www.usajobs.gov/job/883242000",
+   "reason": "Deadline passed (Sep 30, 2026). Requires U.S. citizenship and a Top Secret clearance, is limited to commuting distance of NSA sites (none in Arkansas), and is paid.",
+   "recheck_after": "2099-01-01",
+   "date": "2026-11-27"
+  },
+  {
+   "name": "NIST Summer High School Intern Program (SHIP)",
+   "url": "https://www.usajobs.gov/job/891154500",
+   "reason": "U.S. citizens only, and applicants must live within 50 miles of Gaithersburg, MD (Boulder, CO has a separate posting). Unpaid volunteer.",
+   "recheck_after": "2099-01-01",
+   "date": "2026-11-27"
+  },
+  {
+   "name": "Lockheed Martin Space High School Internship (Summer 2027)",
+   "url": "https://www.lockheedmartin.com/en-us/careers/candidates/students-early-careers/high-school.html",
+   "reason": "On-site only in CO, CA, FL, PA, AL and VA, and paid. Applications are open Nov 2, 2026 to Jan 3, 2027.",
+   "recheck_after": "2099-01-01",
+   "date": "2026-11-27"
+  },
+  {
+   "name": "FDA NCTR Summer Student Research Program (Jefferson, AR)",
+   "url": "https://www.fda.gov/about-fda/scientific-internships-fellowships-trainees-and-non-us-citizens/summer-student-research-program-nctr",
+   "reason": "College or graduate students 18+ only, and U.S. citizenship is required.",
+   "recheck_after": "2099-01-01",
+   "date": "2026-11-27"
+  },
+  {
+   "name": "St. Louis Fed Student Board of Directors",
+   "url": "https://www.stlouisfed.org/careers/yourcareer/opportunities/student-board-of-directors",
+   "reason": "Limited to rising seniors at St. Louis-area high schools. The 2026-27 cohort is closed.",
+   "recheck_after": "2099-01-01",
+   "date": "2026-11-27"
+  },
+  {
+   "name": "Teen Think Tank Project Social Action Lab Fellowship",
+   "url": "https://teenthinktankproject.com/fellowship/",
+   "reason": "Limited to Monmouth and Ocean County, NJ students.",
+   "recheck_after": "2099-01-01",
+   "date": "2026-11-27"
+  },
+  {
+   "name": "Mercatus Center Exploring Complex Solutions for a Complex World Fellowship",
+   "url": "https://www.mercatus.org/students/exploring-complex-solutions-complex-world-fellowship",
+   "reason": "The spring 2027 deadline (Sep 30, 2026) has passed. Open to any nationality at any U.S. or foreign high school, age 16+, online, with up to $750 in honoraria (H-4 pay question). Recheck for the fall 2027 cycle.",
+   "recheck_after": "2027-03-01",
+   "date": "2026-11-27"
+  },
+  {
+   "name": "Stanford e-Entrepreneurship U.S. (SEUS)",
+   "url": "https://spice.fsi.stanford.edu/fellowship/stanford-e-entrepreneurship-us",
+   "reason": "Spring 2027 applications are closed. The fall 2027 cohort is for sophomores and juniors only, and Krithik will be a senior then.",
+   "recheck_after": "2099-01-01",
+   "date": "2026-11-27"
+  },
+  {
+   "name": "ACC Young Scholars Program",
+   "url": "https://www.acc.org/Membership/Sections-and-Councils/Academic-Cardiology-Section/Young-Scholars-Program",
+   "reason": "The application period is closed (Sept 2026), and the next cycle is for grades 9-11 only.",
+   "recheck_after": "2099-01-01",
+   "date": "2026-11-27"
+  },
+  {
+   "name": "Village Virtual Impact Lab Fellowship (Global Nomads Group)",
+   "url": "https://content.gng.org/village",
+   "reason": "Fee-driven program costing $3,500, with aid only for eligible applicants.",
+   "recheck_after": "2099-01-01",
+   "date": "2026-11-27"
+  },
+  {
+   "name": "Leaf online fellowships (Power, Policy and Progress; Dilemmas and Dangers in AI)",
+   "url": "https://leaf.courses/",
+   "reason": "No 2027 cohort or deadline posted, and the autumn 2026 cohort is closed. Sliding-scale fee, with free places available.",
+   "recheck_after": "2026-12-27",
+   "date": "2026-11-27"
+  },
+  {
+   "name": "Atlas Fellowship",
+   "url": "https://www.atlasfellowship.org/",
+   "reason": "Discontinued: the official site says no future programs will run.",
+   "recheck_after": "2099-01-01",
+   "date": "2026-11-27"
   }
  ],
  "sources": [
@@ -1192,6 +1570,791 @@
    "url": "https://www.ncfl.org/",
    "what": "NCFL 2026-27 league deadlines",
    "date": "2026-11-26"
+  },
+  {
+   "url": "https://financialaid.rpi.edu/types-aid/scholarships/rensselaer-medal",
+   "what": "Rensselaer Medal: junior nomination, $40k/yr, May 1 deadline, contact",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://admissions.rochester.edu/high-school-awards/",
+   "what": "U of Rochester HS awards: juniors, international schools allowed, 2026 deadline Jun 15",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://www.rit.edu/admissions/hsawards",
+   "what": "RIT HS Awards: six categories, $29k/yr, 3.75 GPA, contact",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://join.rit.edu/register/em_hsaward",
+   "what": "RIT nomination form: April 15 deadline, no citizenship field",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://www.clarkson.edu/admissions-aid/undergraduate/tuition-costs/scholarships-grants-loans",
+   "what": "Clarkson Leadership/Achievement awards $30k/yr",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://undergrad.clarkson.edu/register/leadershipaward",
+   "what": "Clarkson nomination form: Jun 1, 2026 deadline, contact",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://bigfuture.collegeboard.org/pay-for-college/bigfuture-scholarships/official-rules-class-2028",
+   "what": "BigFuture Class of 2028 official rules",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://bigfuture.collegeboard.org/scholarships/cameron-impact-scholarship",
+   "what": "BigFuture listing for Cameron Impact (U.S. citizen, May 1)",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://www.projectparadigm.org/rules",
+   "what": "Paradigm Challenge 2027 rules, May 1 deadline, worldwide",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://mercatus.tfaforms.net/5099527",
+   "what": "Emergent Ventures application: 13+, worldwide, rolling",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://www.genkellyscholarship.com/scholarship-details",
+   "what": "Tanabe scholarship eligibility (legal U.S. resident)",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://www.genkellyscholarship.com/faqs",
+   "what": "Tanabe deadlines Jul 31 / Dec 31",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://www.risefortheworld.org/",
+   "what": "Rise homepage: no 2027 cycle listed",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://questd.ai/fellowships/rise-schmidt-futures",
+   "what": "Rise aggregator: next cycle TBA",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://usagermanyscholarship.org/",
+   "what": "CBYX: U.S. citizens only",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://yfuusa.org/cbyx/",
+   "what": "CBYX 2027-28 deadline Nov 10, 2026",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://www.elks.org/scholars/scholarships/mvs.cfm",
+   "what": "Elks MVS: seniors, U.S. citizens only",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://www.us.stop-hunger.org/grants/youth-scholarships",
+   "what": "Stop Hunger scholarship window Aug 20-Oct 20",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://www.rotarydistrict6110.org/ryla.php",
+   "what": "RYLA D6110 2027 dates, juniors",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://www.changemakers.com/en/challenge/tmobile-changemaker/eligibility-criteria-awards",
+   "what": "T-Mobile Changemaker (2023 cycle only)",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://peacefirst.org/grants/",
+   "what": "Peace First grants (no open call)",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://scholarships360.org/scholarships/top-scholarships-for-high-school-juniors/",
+   "what": "Aggregator: junior scholarship list",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://hcarkansas.clubs.harvard.edu/",
+   "what": "Harvard Club of Arkansas (book prizes, no details)",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://www.reaganfoundation.org/education/ronald-reagan-oratory-competition",
+   "what": "Reagan Oratory Competition: deadline Apr 28, 2027, grades 9–12 format, prizes",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://www.reaganfoundation.org/about-us/contact-us",
+   "what": "Reagan Foundation education contact emails",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://www.optimist.org/essay",
+   "what": "Optimist Essay Contest 2026-27 topic, eligibility, $2,500 district scholarship",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://www.optimist.org/member/scholarships3.cfm",
+   "what": "Optimist essay rules (no citizenship rule stated)",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://www.optimist.org/member/clubdirectory/city.cfm?country=US&state=AR",
+   "what": "Arkansas Optimist clubs (Rogers is the only NWA club)",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://www.narrativemagazine.com/narrative-for-schools/eleventh-annual-high-school-contest",
+   "what": "Narrative HS contest: grades 9–12, US or international, opens Jan 2027",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://jasna.org/programs/essay-contest/",
+   "what": "JASNA essay contest: worldwide HS division, prizes, 2026 deadline Jun 1",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://womack.house.gov/constituentservices/artscompetition.htm",
+   "what": "AR-3 Congressional Art Competition (2026 deadline Mar 31)",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://titus.house.gov/uploadedfiles/2026_rules_and_regulations_for_students_and_teachers.pdf",
+   "what": "2026 national Congressional Art rules (residence-based, no citizenship rule)",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://www.house.gov/educators-and-students/congressional-art-competition",
+   "what": "Congressional Art Competition overview",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://www.christophers.org/youth",
+   "what": "Christophers youth contests list",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://www.christophers.org/poster-contest-old",
+   "what": "Christophers HS Poster Contest: Feb 11, 2027, US residents, prizes",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://www.livingoceansfoundation.org/science-without-borders-challenge/",
+   "what": "Science without Borders: Mar 1, 2027 deadline, age groups, prizes",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://www.livingoceansfoundation.org/everything-you-need-to-know-about-the-2027-science-without-borders-challenge/",
+   "what": "Science without Borders 2027 theme and worldwide eligibility",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://www.createrealimpact.com/",
+   "what": "Create Real Impact 2026-27 dates, legal-resident rule, prizes",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://vfwauxiliary.org/wp-content/uploads/2026/06/26-27-YACPAC-approved.pdf",
+   "what": "VFW Auxiliary patriotic art rules: PR or pending PR application required, prizes, Mar 31",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://vfwauxiliary.org/scholarships/young-american-creative-patriotic-art-contest/",
+   "what": "VFW Auxiliary contact and sponsor locator",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://www.fra.org/FRA/Web/FRA_Docs/EssayContest/EssayRules.pdf",
+   "what": "FRA Americanism essay rules (Dec 1, sponsor required)",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://fra-ecregion.org/americanism-essay-contest",
+   "what": "FRA 2026-27 deadline Dec 1, 2026 and national prizes",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://fra182.org/essay-contest.html",
+   "what": "FRA branch essay page (grades 7–12)",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://www.genkellyscholarship.com/scholarship-details",
+   "what": "Gen and Kelly Tanabe eligibility (legal U.S. residents, grades 9+)",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://www.genkellyscholarship.com/faqs",
+   "what": "Gen and Kelly Tanabe deadlines Jul 31 / Dec 31",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://www.gallerycollection.com/ScholarshipOfficialRules.pdf",
+   "what": "Create-A-Greeting-Card official rules (student visa holders eligible, Mar 8, 2027)",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://couragetogrowscholarship.com/",
+   "what": "Courage to Grow: U.S. citizens only",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://aynrand.org/students/essay-contests",
+   "what": "ARI essay contests: international OK, 2026-27 deadline TBD",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://www.wagingpeace.org/awards-and-contests/",
+   "what": "NAPF Swackhamer contest general timing",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://scholarshipamerica.org/scholarship/penguinrandomhouse/",
+   "what": "PRH Creative Writing Awards: seniors only",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://www.niche.com/about/scholarship-rules/no-essay-scholarship/",
+   "what": "Niche No Essay sweepstakes rules (random drawing, SSN, marketing)",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://www.kofc.org/what-we-do/programs/community/catholic-essay-contest/",
+   "what": "KofC essay contest limited to Catholic students",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://www.aralia.com/helpful-information/visual-art-competitions/",
+   "what": "Aggregator: visual art competitions 2026-27",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://scholarships360.org/scholarships/top-scholarships-for-high-school-juniors/",
+   "what": "Aggregator: scholarships for juniors",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://uca.edu/politicalscience/home/experiential-learning-activities/model-united-nations/arkansas-and-the-world/",
+   "what": "UCA International Affairs Summer Camp: grades 10-12, application window Jan 15 to May 15, AEGIS-funded free registration, contacts",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://faculty.uca.edu/wvslaton/AEGIS-Camp/",
+   "what": "UCA AI Robotics & Ethics camp: free, entering grades 10-12, Apr 15 deadline (2026 cycle)",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://www.arkansasadvancedenergyfoundation.org/power-players",
+   "what": "Power Players eligibility (classes of 2027 and 2028), $5,000 in awards, contact email",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://www.arkansasadvancedenergyfoundation.org/news/arkansas-students-earn-5000-in-scholarships-through-energy-leadership-program",
+   "what": "Power Players 2027 cohort applications open in spring",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://ualr.edu/cstem/summer-programs/",
+   "what": "UA Little Rock STEM summer programs (2026 only): Engineering Scholars, AI Hackathon, VEX camp",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://sams.adhe.edu/Scholarship/Details/A2A",
+   "what": "A2A scholarship eligibility and amount",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://sams.adhe.edu/Scholarship/Page/A2A/FAQ",
+   "what": "A2A: the college applies for the student; no citizenship rule stated",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://sams.adhe.edu/Scholarship",
+   "what": "ADHE scholarship list and deadlines (Governor's Distinguished due Mar 1, seniors)",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://adhe.edu/about/scholarships",
+   "what": "ADHE scholarships overview; finaid@adhe.edu",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://www.arkansasheritage.com/teacher-resources/poetry-out-loud",
+   "what": "Arkansas Poetry Out Loud prizes and eligibility (grades 9-12)",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://poetryoutloud.org/wp-content/uploads/2026/08/POL_2026-27-TG_4Access.pdf",
+   "what": "POL 2026-27 teacher's guide: eligibility (no citizenship rule), prizes, W-9/W-8BEN",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://poetryoutloud.org/key-dates/",
+   "what": "POL 2027 state contest deadline (Mar 7) and national finals (Apr 26-28)",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://registration.iacompetitions.com/tournaments/northwest-arkansas-2027-4jma",
+   "what": "IAC NWA regional Jan 23, 2027; register by Jan 11; high schoolers take NQEs",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://iacompetitions.com/national-qualifying-exams-nqes/",
+   "what": "IAC NQE rules, fees and 2027 nationals dates",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://www.arfb.com/pages/education/ag-youth-leadership-summit/",
+   "what": "Farm Bureau Ag Youth Leadership Summit (2026 only)",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://hendrix-cs.github.io/hcpc/",
+   "what": "Hendrix Programming Contest not held in 2026",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://www.hendrix.edu/summerprograms/highschool/",
+   "what": "Hendrix: no high school summer programs planned",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://www.asmsa.org/admissions/application/",
+   "what": "ASMSA 2027-28 admission is for the Classes of 2029 and 2030 only",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://www.asmsa.org/outreach/",
+   "what": "ASMSA outreach (no current details)",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://www.aecc.com/community/youth-tour/",
+   "what": "Arkansas co-op Youth Tour: juniors chosen by local co-op",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://carrollecc.com/pdfs/youth-tour",
+   "what": "Carroll Electric (AR) page: no Youth Tour details",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://cecpower.coop/youth-tour",
+   "what": "This is Carroll Electric Cooperative in Ohio, not Arkansas (not relevant)",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://www.economicsarkansas.org/for_teachers/yes-competition.html",
+   "what": "Y.E.S. competition is for grades 5-8",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://razorhack.org/",
+   "what": "RazorHack 2026 (Nov 6-8, 2026), $75 per student",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://uark-acm.github.io/hoghacks/",
+   "what": "HogHacks (Apr 2026; high school eligibility unclear)",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://arkansasstemcoalition.com/resources/competitions/",
+   "what": "Arkansas STEM Coalition competition list (mostly 2023-24 dates)",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://storage.googleapis.com/highschoolhack/hack.html",
+   "what": "ASMSA HighSchoolHack (2024 only)",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://www.arkansasspacegrant.org/studentopportunities",
+   "what": "ASGC awards: college only, U.S. citizens",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://ualr.edu/slufy/",
+   "what": "SLUFY is for grades K-6",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://engineering.uark.edu/summer-camps/discover-engineering.php",
+   "what": "U of A Discover Engineering is a middle school camp",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://partnerships.uams.edu/",
+   "what": "UAMS Academic Pathways outreach list (no high school deadlines)",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://partnerships.uams.edu/outreach-programs/pathways-academy/",
+   "what": "UAMS Pathways Academy (K-12, no details)",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://adecm.ade.arkansas.gov/ViewApprovedMemo.aspx?Id=5875",
+   "what": "My Natural State Story contest; deadline Oct 12, 2026",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://adecm.ade.arkansas.gov/ViewApprovedMemo.aspx?Id=5832",
+   "what": "Governor's Young Artist / Musical Excellence (art and music; not a fit)",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://arcourts.gov/announcements/lawday",
+   "what": "Arkansas Supreme Court Law Day contest (2019 page only)",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://arcourts.gov/administration/public-education",
+   "what": "Arkansas courts public education contacts; no current contest",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://www.arkansashouse.org/programs/",
+   "what": "Arkansas House programs (no high school page program)",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://www.amazeum.org/blog/amazing-interns",
+   "what": "Amazeum internships are for college students only",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://nasc.principals.org/leadership-development/national-student-council/",
+   "what": "NASC National Student Council 2026 timeline and eligibility (U.S. residence, rising jr/sr)",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://nasc.principals.org/leadership-development/nassp-student-service-grants/",
+   "what": "NASSP Student Service Grants: up to $1,000/$3,000, due Dec 8, 2026",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://nasc.principals.org/leadership-development/nassp-student-service-grants/nassp-student-service-grants-faqs/",
+   "what": "Student Service Grant eligibility: U.S. students 13-18, NHS/NJHS/NASC members",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://www.unicefusa.org/sites/default/files/2026-02/FY27%20National%20Youth%20Council%20Job%20Description.pdf",
+   "what": "UNICEF USA National Youth Council role, ages 14-24 living in U.S., $1,000 stipend",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://www.congressionalaward.org/prospective-participants/",
+   "what": "Congressional Award $35 registration, minimum age 13.5",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://congressionalaward.org/the-program/",
+   "what": "Congressional Award open to all youth in the U.S. ages 14-24",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://www.congressionalaward.org/wp-content/uploads/Program-Book_2023.pdf",
+   "what": "Congressional Award hour and month requirements, no citizenship rule",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://hoby.org/programs/world-leadership-congress/",
+   "what": "HOBY WLC 2027 dates, rising jr/sr, international attendees",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://hoby.org/faq/",
+   "what": "HOBY state seminars are for sophomores; seminar fees",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://hobydelaware.org/world-leadership-congress/",
+   "what": "HOBY affiliate page: WLC tuition expected, fundraising encouraged (outdated)",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://www.arfb.com/pages/education/ag-youth-leadership-summit/",
+   "what": "Arkansas Farm Bureau Ag Youth Leadership Summit 2026 details and contact",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://www.pointsoflight.org/daily-point-of-light-award/",
+   "what": "Daily Point of Light eligibility: legal U.S. residents, any age",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://www.westpoint.edu/admissions/summer-program",
+   "what": "West Point SLE 2027 deadline Apr 15, U.S. citizenship required, $495",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://www.usafa.edu/admissions/summer-seminar/",
+   "what": "USAFA Summer Seminar 2027 window Dec 1-Jan 15, U.S. citizen, $400",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://www.epa.gov/education/presidents-environmental-youth-award",
+   "what": "PEYA closed; citizens or permanent residents only",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://usagermanyscholarship.org/2027-28-cbyx-high-school-application-now-open/",
+   "what": "CBYX 2027-28 extended deadline Nov 3, 2026",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://www.rogersar.gov/1489/Apply-for-the-Mayors-Youth-Academy",
+   "what": "Rogers Mayor's Youth Academy deadline Sep 11, 2026 passed",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://bentonvillelibrary.org/teens/teen-advisory-board",
+   "what": "Bentonville Library TAB: juniors/seniors, applications closed",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://fayetteville-ar.gov/4314/Fayetteville-Youth-Advisory-Council",
+   "what": "Fayetteville YAC: city residents only",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://orieladmissions.com/presidents-volunteer-service-award/",
+   "what": "PVSA paused by AmeriCorps since May 27, 2025",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://www.rotarydistrict6110.org/ryla.php",
+   "what": "RYLA District 6110 2027 dates; juniors only",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://arfbinaa.org/youth-leadership-program/",
+   "what": "FBINAA YLP: rising sophomores/juniors 14-16",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://dillerteenawards.org/apply/",
+   "what": "Diller Awards: Jewish-identifying U.S. residents 15-19, due Jan 7, 2027",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://www.redcross.org/red-cross-youth/national-youth-council/apply-to-the-national-youth-council.html",
+   "what": "Red Cross NYC timeline and 2-year volunteer requirement",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://bgca-yoy.secure-platform.com/a/page/resources/Eligibility",
+   "what": "Youth of the Year: 1-yr club membership; citizenship not required",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://peacefirst.org/grants/",
+   "what": "Peace First grants: no dates posted (not added)",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://mymun.com/conferences/lsmun-2027",
+   "what": "LSMUN 2027: school delegations only (not added)",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://lead4change.org/fellowship/",
+   "what": "Lead4Change Fellowship is for educators (not added)",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://ysa.org/campaigns/mlkday/",
+   "what": "YSA MLK Day grants are for organizations (not added)",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://www.multiplyinggood.org/students-in-action",
+   "what": "Students in Action: school-team program, no Arkansas info (not added)",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://www.navalsteminterns.us/internships/seap/",
+   "what": "SEAP 2027: Nov 30 deadline, U.S. citizen, $4,000 stipend",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://vision.icivics.org/get-involved/students/",
+   "what": "Carnegie Youth Fellowship: grades 9-12 living in U.S., stipend, reopens spring 2027",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://vision.icivics.org/contact/",
+   "what": "iCivics contact form",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://ignite.bentonvillek12.org/",
+   "what": "Ignite strands list (incl. Law: Public Policy, Technology)",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://ignite.bentonvillek12.org/fs/pages/22284",
+   "what": "Ignite strand details, internships, college credit",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://ignite.bentonvillek12.org/about-us/overview-and-mission",
+   "what": "Ignite pillars (internship experience, concurrent college courses)",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://ignite.bentonvillek12.org/parents/enrollment-general",
+   "what": "Ignite enrollment page (empty)",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://crystalbridges.org/internships",
+   "what": "Crystal Bridges internships incl. NWA high school, paid",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://crystalbridges.org/internships-faq",
+   "what": "Crystal Bridges intern pay $12/hr, terms, Nov-Mar summer window, contact email",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://womack.house.gov/constituentservices/internships.htm",
+   "what": "Womack internships: college only, paid, Dec 4, 2026 spring deadline",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://womack.house.gov/constituentservices/students.htm",
+   "what": "Womack student programs list (no HS internship)",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://www.arkansashouse.org/programs/",
+   "what": "Arkansas House programs (no page/intern program listed)",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://www.boozman.senate.gov/public/index.cfm/educational-opportunities",
+   "what": "Boozman educational opportunities list",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://www.usajobs.gov/job/883242000",
+   "what": "NSA HSWS: closed Sep 30, 2026, citizen, site-limited",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://www.usajobs.gov/job/891154500",
+   "what": "NIST SHIP: citizen, 50 miles of Gaithersburg, unpaid",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://www.lockheedmartin.com/en-us/careers/candidates/students-early-careers/high-school.html",
+   "what": "Lockheed Space HS internships: sites, Nov 2 2026-Jan 3 2027 window",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://www.fda.gov/about-fda/scientific-internships-fellowships-trainees-and-non-us-citizens/summer-student-research-program-nctr",
+   "what": "FDA NCTR summer program: college only, citizen",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://www.stlouisfed.org/careers/yourcareer/opportunities/student-board-of-directors",
+   "what": "St. Louis Fed Student Board: St. Louis area only",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://teenthinktankproject.com/fellowship/",
+   "what": "TTTP fellowship: NJ counties only",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://www.mercatus.org/students/exploring-complex-solutions-complex-world-fellowship",
+   "what": "Mercatus HS fellowship: any nationality, Sep 30, 2026 deadline, $750",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://spice.fsi.stanford.edu/fellowship/stanford-e-entrepreneurship-us",
+   "what": "SEUS: spring 2027 closed, sophomores/juniors",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://spice.fsi.stanford.edu/news/application-spring-2027-stanford-e-entrepreneurship-us-course-now-open",
+   "what": "SEUS spring 2027 announcement",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://www.acc.org/Membership/Sections-and-Councils/Academic-Cardiology-Section/Young-Scholars-Program",
+   "what": "ACC Young Scholars: grades 9-11, closed",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://content.gng.org/village",
+   "what": "Village Virtual Impact Lab: $3,500 fee",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://leaf.courses/",
+   "what": "Leaf: no 2027 cohort posted",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://leaf.courses/dilemmas-and-dangers-in-ai",
+   "what": "Leaf AI course details",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://www.atlasfellowship.org/",
+   "what": "Atlas Fellowship discontinued",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://atlas-research.org/fellowship",
+   "what": "Atlas Research Institute fellowship (eligibility and year unclear; not used)",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://summer.uark.edu/career-development/",
+   "what": "UA summer research is for undergraduates only",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://careers.jbhunt.com/careers/internships",
+   "what": "J.B. Hunt internships (no HS program)",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://www.amazeum.org/programs/teens-and-adults/",
+   "what": "Amazeum teen programs (no internship)",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://www.learnstem.org/blog/internships-for-high-school-students",
+   "what": "Aggregator: HS internships 2027",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://www.extern.com/post/internships-for-high-school-students-2027",
+   "what": "Aggregator: 36 HS internships 2027",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://highschoolopportunity.org/categories/internships",
+   "what": "Aggregator: HS internships list",
+   "date": "2026-11-27"
+  },
+  {
+   "url": "https://highschoolopportunity.org/categories/fellowships",
+   "what": "Aggregator: HS fellowships list",
+   "date": "2026-11-27"
   }
  ],
  "queries": [
@@ -2254,6 +3417,690 @@
   {
    "q": "Yale Summer Program in Astrophysics 2027",
    "date": "2026-11-26"
+  },
+  {
+   "q": "Rise Schmidt Rhodes 2027 application deadline ages 15-17",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Rensselaer Medal high school juniors scholarship eligibility",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Cameron Impact Scholarship 2027 application eligibility citizenship deadline",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "\"Cameron Impact Scholarship\" \"U.S. citizen\" OR \"permanent resident\" juniors class of 2028",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "risefortheworld.org apply 2027 Rise application deadline",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Harvard Prize Book Award juniors OR \"Yale Book Award\" OR \"Brown Book Award\" OR \"Bausch + Lomb Honorary Science Award\" junior nomination",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "University of Rochester Bausch + Lomb Honorary Science Award scholarship juniors nomination eligibility",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "national scholarship high school juniors may apply 2027 deadline \"juniors and seniors\" merit leadership foundation",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "RYLA Rotary Youth Leadership Awards District 6110 2027 high school juniors",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Stephen J. Brady Stop Hunger Scholarship 2027 eligibility deadline",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Congress-Bundestag Youth Exchange 2027-2028 application deadline eligibility citizenship",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "BigFuture Scholarships class of 2028 eligibility rules citizenship College Board",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Paradigm Challenge 2027 official rules deadline eligibility Project Paradigm",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "RIT Computing Medal high school juniors nomination scholarship 2027",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Emergent Ventures grants high school students apply eligibility any country",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Clarkson University Achievement Award high school juniors nomination scholarship",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "\"high school juniors\" scholarship 2027 national foundation application deadline spring leadership community service award $10,000",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "George Eastman Young Leaders OR \"Wells College\" OR \"Union College\" OR \"Drexel\" junior award nomination scholarship high school juniors list of college book awards",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "T-Mobile Changemaker Challenge 2027 eligibility ages deadline",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Peace First grants young people ages 13-25 apply 2027",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Gen and Kelly Tanabe Student Scholarship eligibility grades 9-12 deadline",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Elks \"Most Valuable Student\" OR \"Hagan Scholarship\" OR \"Ron Brown Scholar\" juniors eligible apply junior year",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Jack Kent Cooke Foundation scholarship high school juniors OR \"Equitable Excellence\" scholarship juniors eligible 2027",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Harvard Club of Arkansas Harvard Prize Book juniors",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Rise Global Challenge 2027 cohort applications open risefortheworld 15-17",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Fleet Reserve Association Americanism essay contest 2026-2027 grades 7-12 deadline",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Optimist International essay contest 2027 topic deadline under 19",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Gen and Kelly Tanabe Student Scholarship grades 9-12 deadline eligibility",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Christopher Awards video contest high school 2027 deadline",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Create Real Impact contest 2027 Impact Teen Drivers deadline eligibility",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Project Yellow Light scholarship 2027 video billboard radio deadline high school",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "JASNA essay contest 2027 high school division topic deadline",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Congressional Art Competition 2027 Arkansas 3rd district Womack high school",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Courage to Grow Scholarship monthly juniors seniors eligibility citizenship",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Ayn Rand Institute Anthem essay contest 2027 high school deadline eligibility",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "high school art scholarship contest 2027 national open to grades 9-12 deadline foundation",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Optimist essay contest Arkansas club Bentonville OR Rogers OR Northwest Arkansas",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Science without Borders Challenge 2027 Living Oceans Foundation art contest theme",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Congressional Art Competition rules for students and teachers 2026 eligibility citizenship",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "photography OR film scholarship contest high school juniors 2027 national nonprofit deadline",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "high school short story OR creative writing scholarship contest 2027 grades 9-12 national deadline prize open to all students",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "engineering OR STEM essay scholarship high school students 2027 society deadline grades 9-12 \"essay contest\"",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "EngineerGirl writing contest 2027 prompt deadline National Academy of Engineering",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Optimist International essay contest rules eligibility citizenship United States Canada Caribbean district deadline February 28",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "engineerteen.org writing contest \"How to Train Your Robot\" rules prizes eligibility",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Swackhamer Disarmament Video Contest OR essay 2027 Nuclear Age Peace Foundation high school deadline",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Knights of Columbus Catholic Citizenship essay contest 2026-2027 grades 8-12 deadline",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Niche No Essay scholarship official rules eligibility monthly",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "peacecontests.org Swackhamer Disarmament Video Contest rules eligibility prize",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "\"scholarship\" high school juniors 2027 speech OR oratory contest $ national \"grades 9-12\" deadline March 2027",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "VFW Auxiliary Young American Creative Patriotic Art Contest 2026-2027 eligibility citizenship deadline",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Reagan Foundation education programs contact email oratory competition questions",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Gallery Collection Create-A-Greeting-Card scholarship contest 2027 rules eligibility",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Impact Teen Drivers Create Real Impact contact email rules legal resident",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Fleet Reserve Association Americanism essay 2026-2027 theme contact fra.org",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Arkansas high school juniors summer program 2027 application Arkansas State University OR Hendrix OR UCA OR \"UA Little Rock\"",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Arkansas Attorney General OR Secretary of State OR Lieutenant Governor youth council high school students 2026-2027 apply",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Benton County Arkansas high school students program 2027 apply teen leadership Northwest Arkansas",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Carroll Electric Cooperative Washington Youth Tour 2027 high school juniors Benton County",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "carrollecc.com youth tour Washington Carroll Electric Cooperative Corporation Arkansas scholarship",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Walton Family Foundation OR Amazeum OR \"Northwest Arkansas Council\" high school students internship OR fellowship OR competition 2027",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Arkansas School for Mathematics, Sciences and the Arts summer program high school 2027 OR \"ASMSA\" competition high school students statewide",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "University of Arkansas Fayetteville high school students research program summer 2027 rising seniors apply Honors College OR \"Arkansas Summer Research Institute\"",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Arkansas Farm Bureau youth leadership conference high school juniors 2027 OR Arkansas Rice Council OR Arkansas 4-H O'Neal Congress",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Hendrix College high school summer program 2027 OR \"Hendrix\" competition high school students Arkansas",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Arkansas \"Governor's Youth Advisory Council\" OR \"youth advisory council\" high school students apply 2026 2027 Arkansas state",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Northwest Arkansas high school hackathon OR coding competition OR AI challenge 2027 students Bentonville Rogers Fayetteville",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Arkansas State University Jonesboro high school summer camp 2027 juniors engineering OR medicine OR leadership",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Arkansas Concurrent Challenge Scholarship 2026-2027 deadline eligibility citizen",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Northwest Arkansas Community Foundation OR \"Walton\" scholarship high school juniors 2027 OR \"Bentonville\" foundation student award juniors essay contest",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "ACCESS to Acceleration scholarship Arkansas concurrent credit high school students application deadline spring 2027 YOUniversity eligibility",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Arkansas statewide high school competition 2027 registration deadline \"high school students\" Arkansas state contest science OR engineering OR policy OR health",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Arkansas Space Grant Consortium high school OR Arkansas Center for Space and Planetary Sciences high school summer 2027 OR \"Arkansas Regional Innovation Hub\" teens",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "ASMSA High School Hack cybersecurity challenge 2027 Arkansas students",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "iacompetitions.com history bee national qualifying exam eligibility any country citizenship high school varsity political science exam",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Alice L. Walton School of Medicine high school students pathway program summer 2027 apply",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "University of Central Arkansas high school summer program 2027 OR UCA competition high school students juniors deadline",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "UCA \"Arkansas and the World\" international affairs summer camp high school 2027",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "AEGIS summer camp 2027 Arkansas high school UCA AI robotics ethics camp application",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "\"AEGIS\" Arkansas summer 2026 camp grades 10-12 free residential university engineering OR medicine OR law OR leadership",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "\"Arkansas\" scholarship \"high school juniors\" 2027 application deadline essay",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "UAMS OR \"Arkansas Children's\" OR \"Washington Regional\" high school summer 2027 Northwest Arkansas health careers program juniors application -MASH",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Arkansas House of Representatives OR Arkansas Senate page program high school students 2027 session apply",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Poetry Out Loud Arkansas 2027 state competition Arkansas Arts Council high school",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Arkansas House Senate program high school girls leadership after Girls State 2026 legislature youth program",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Arkansas high school entrepreneurship pitch competition 2027 statewide students Arkansas Innovation Hub OR \"Arkansas Capital\" OR \"Startup Junkie\" OR \"Arkansas Young Entrepreneurs\"",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Arkansas Society of Professional Engineers high school scholarship OR competition 2027 juniors OR \"Arkansas Academy of Family Physicians\" student essay",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "site:uark.edu summer camp high school 2027 application",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Arkansas State University \"high school\" summer academy 2027 OR \"A-State\" camp juniors engineering OR \"health\" OR \"leadership\" apply",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Arkansas high school students essay OR video contest 2027 \"Arkansas\" historical society OR humanities OR \"Secretary of State\" OR \"Supreme Court\" prize",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Northwest Arkansas Council OR \"Heartland Forward\" OR \"Winrock\" high school students program 2027 youth summit policy",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Arkansas governor Sanders essay contest outdoors high school students 2026 deadline Natural State",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Arkansas statewide high school students contest OR competition spring 2027 deadline \"grades 9-12\" Arkansas department OR commission",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "adecm.ade.arkansas.gov Commissioner's Memo 2026-2027 high school students contest OR program OR scholarship applications due 2027",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Bowen School of Law OR University of Arkansas School of Law high school students summer law camp 2027 Arkansas",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Clinton School of Public Service high school students program OR \"University of Arkansas\" \"Clinton\" youth policy 2027",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "\"Student Presidential Leaders Series\" Clinton Presidential Center application 2026 2027 high school (not run: shared web-search budget exhausted)",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "FEMA Youth Preparedness Council 2027 application deadline eligibility",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Rotary RYLA District 6110 2027 high school juniors",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Congressional Award gold medal eligibility age 14 citizenship requirement",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Diller Teen Tikkun Olam Awards 2027 nomination deadline eligibility",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "HOBY Arkansas World Leadership Congress 2027 juniors",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Rogers Arkansas OR Fayetteville OR Springdale youth advisory council high school apply 2026-2027",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "President's Volunteer Service Award 2026 2027 eligibility certifying organization teens citizenship",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Arkansas governor youth advisory council high school students apply 2027",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Northwest Arkansas Community Foundation youth advisory council OR youth philanthropy board high school 2027",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Peace First Challenge grants youth 2026 2027 eligibility age 13-25",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "federal agency national youth advisory council high school students apply 2027 (EPA OR NOAA OR USDA OR Department of Education)",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Lead4Change Student Leadership Challenge 2026-2027 deadline",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "\"Youth of the Year\" Boys & Girls Clubs 2027 Arkansas state eligibility",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Arkansas Department of Health youth advisory board OR Arkansas youth council state agency high school members apply 2026",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Congress-Bundestag Youth Exchange 2027-2028 application deadline high school eligibility",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "American Red Cross National Youth Council 2027 application high school",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "UNICEF USA youth advisory board OR national council high school apply 2027",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Rogers Arkansas mayor youth advisory council high school application",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Arkansas Secretary of State OR Attorney General youth council OR student ambassador program high school 2026-2027",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "West Point Summer Leadership Experience 2027 application eligibility citizenship juniors",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Air Force Academy Summer Seminar 2027 application dates eligibility",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Model United Nations conference 2027 high school individual delegates scholarship Arkansas OR Oklahoma OR Missouri OR Texas",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Multiplying Good Students in Action Jefferson Award 2027 high school",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Congressman Steve Womack youth advisory council OR congressional youth advisory Arkansas 3rd district high school",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Senator Tom Cotton youth advisory OR student leadership program Arkansas high school 2027",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Bentonville Public Library teen advisory board OR Benton County teen council apply",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "President's Volunteer Service Award young adult 16-25 hours gold silver bronze requirements citizens lawful permanent residents",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "NASSP Student Leadership Advisory Committee 2027 application high school students",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Arkansas Association of Student Councils 2027 state convention OR summer workshop OR state officer high school",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "national youth service award high school students 2027 application deadline $ prize volunteer leadership open to all U.S. residents",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Points of Light Daily Point of Light Award nominate youth volunteer eligibility",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Arkansas high school youth leadership conference 2027 juniors free statewide apply (Farm Bureau OR Rotary OR Lions OR Kiwanis)",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "national teen advisory council 2027 apply high school students policy (Common Sense OR Mental Health America OR AAP OR NAMI OR CDC) ages 14-18",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "HOBY World Leadership Congress 2027 tuition cost registration Catholic University",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Arkansas legislature high school page program 2027 session application",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Congressman Womack internship high school students Arkansas third district",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "virtual fellowship high school students 2027 civics policy free apply Civics Unplugged",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "civicsunplugged.org Civic Innovators Fellowship 2027 application deadline eligibility ages 14-18",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Arkansas Senate page program high school students 2027 regular session",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "high school summer internship 2027 engineering technology company application open students 16+ unpaid OR paid",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "JHIBS Johns Hopkins NIMH virtual experience high school 2027 application",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Naval Science and Engineering Apprenticeship Program SEAP 2027 application deadline",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Smithsonian internships high school students 2027 ages 15-18 summer deadline",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Bentonville OR Northwest Arkansas high school internship program 2027 students apply city OR company",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "high school policy research fellowship 2027 remote unpaid application deadline juniors nonprofit",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Lockheed Martin high school internship 2027 eligibility citizenship",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Bentonville Schools Ignite Professional Studies internship juniors seniors application",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "University of Arkansas high school student research internship lab summer 2027",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "heritage.org \"high school fellowship\" 2027 apply eligibility",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Arkansas Attorney General OR Secretary of State OR Governor high school student internship OR youth advisory council 2027",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "\"high school\" virtual research internship 2027 free open to all U.S. students application deadline university program remote",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "NSA High School Work Study program eligibility citizenship juniors apply",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "State Department Pathways internship high school students 16 eligibility",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Walmart OR \"J.B. Hunt\" OR Tyson OR Arvest high school internship program Northwest Arkansas students summer 2027",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "\"high school\" fellowship think tank 2027 summer policy program application Brookings OR Cato OR AEI OR Hudson OR \"Bipartisan Policy\" high school students",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Congressman Womack Congressional Youth Advisory Council OR student internship high school Arkansas 2027",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Federal Reserve Bank high school summer internship 2027 apply students St. Louis OR Dallas OR Kansas City",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Scott Family Amazeum teen internship OR teen volunteer program Bentonville",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "NIST Summer High School Intern Program SHIP 2027 application deadline eligibility",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Leaf Dilemmas fellowship 2027 online free ages 16-19 apply",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Atlas Fellowship 2027 high school application",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Encode youth AI policy fellowship high school 2027 apply",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "senate.arkansas.gov page program students serve as pages session",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "FDA NCTR Jefferson Arkansas high school summer student research program 2027",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "FEE summer seminar high school students 2027 free tuition apply Foundation for Economic Education",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "iCivics Youth Fellowship 2027 application high school students",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Mercatus Center high school fellowship \"Exploring Complex Solutions\" 2027",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Stanford e-Entrepreneurship U.S. SEUS 2027 application high school",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "American College of Cardiology Young Scholars Program high school 2027 application",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "\"Virtual Impact Lab\" fellowship high school Village",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Bill of Rights Institute OR National Constitution Center youth fellowship OR student ambassador program 2027 high school apply national",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "iCivics contact youth fellowship email",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Senator Boozman internship application eligibility high school students (not run: shared search limit reached)",
+   "date": "2026-11-27"
+  },
+  {
+   "q": "Senator Tom Cotton internship high school students eligibility (not run: shared search limit reached)",
+   "date": "2026-11-27"
   }
  ]
 }
