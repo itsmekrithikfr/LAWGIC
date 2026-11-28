@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27",
+ "updated": "2026-11-28",
  "items": [
   {
    "id": "samsung",
@@ -66,7 +66,7 @@
    "act": "Register free by Nov 30, 2026 and get a teacher's email as referee; the essay is due Dec 20.",
    "url": "https://www.lumiere-education.com/lumiere-scholars-essay-award",
    "added": "2026-11-25",
-   "checked": "2026-11-27"
+   "checked": "2026-11-28"
   },
   {
    "id": "usamts-y38",
@@ -88,7 +88,7 @@
    "act": "Register at usamts.org/register and submit Round 2 solutions online by Nov 30, 10 PM ET, or at least join for Round 3 in the new year.",
    "url": "https://www.usamts.org/contest/problems/",
    "added": "2026-11-25",
-   "checked": "2026-11-27"
+   "checked": "2026-11-28"
   },
   {
    "id": "hucp-invest-pitch-2026",
@@ -108,10 +108,10 @@
    "hours": "15-30",
    "cost": "$80-$120 per team (2-4 students)",
    "note": "A pitch competition run by Harvard undergraduates: Round 1 (pitch deck or memo) is due Dec 23, 2026, Round 2 (video) Jan 18, 2027, and virtual finals are in February, with $3,000 in prizes. Open to grades 8-12; the page states no citizenship rule.",
-   "act": "Decide by Nov 30, 2026 whether to register a team (registration closes in 3 days); email contact@harvardcap.org to confirm an H-4 student can compete.",
+   "act": "Decide by Nov 30, 2026 whether to register a team (registration closes in 2 days); email contact@harvardcap.org to confirm an H-4 student can compete.",
    "url": "https://www.harvardcap.org/invest",
    "added": "2026-11-26",
-   "checked": "2026-11-27",
+   "checked": "2026-11-28",
    "contact": "contact@harvardcap.org",
    "question": "I'm a high school junior at a U.S. public school on an H-4 dependent visa (not a citizen or green card holder); am I eligible to compete in the High School Investment Pitch Competition?",
    "contact_checked": "2026-11-27"
@@ -134,7 +134,7 @@
    "act": "Log into BigFuture and save 3 careers and 3 colleges now; entries roll into every later drawing. Do the college-list step before June 30, 2027.",
    "url": "https://bigfuture.collegeboard.org/pay-for-college/bigfuture-scholarships/official-rules-class-2028",
    "added": "2026-11-27",
-   "checked": "2026-11-27"
+   "checked": "2026-11-28"
   },
   {
    "id": "navy-seap-2027",
@@ -160,6 +160,28 @@
    "checked": "2026-11-27"
   },
   {
+   "id": "barkley-forum-27",
+   "name": "Barkley Forum for High Schools (Emory University)",
+   "org": "Emory Barkley Forum",
+   "fields": [
+    "policy"
+   ],
+   "kind": "National circuit tournament",
+   "deadline": "2026-11-30",
+   "dlabel": "Non-member school application Nov 30, 2026; registration closes Jan 15, 2027",
+   "status": "ok",
+   "tier": "B",
+   "prestige": 7,
+   "diff": "High",
+   "hours": "3-day tournament (Jan 22-24, 2027) + travel",
+   "cost": "Entry fees + travel to Atlanta (fees not listed)",
+   "note": "One of the oldest major national-circuit tournaments, held at Emory in Atlanta on Jan 22-24, 2027, with Public Forum and speech events. Non-member schools may apply with up to 3 PF teams and up to 4 entries per speech event. Entry is through the student's school, and there is no citizenship rule.",
+   "act": "Ask the debate coach today whether the school is a member or will apply as a non-member by Nov 30, 2026, then plan for the Jan 15, 2027 registration deadline.",
+   "url": "https://www.tabroom.com/index/tourn/main.mhtml?tourn_id=39754",
+   "added": "2026-11-28",
+   "checked": "2026-11-28"
+  },
+  {
    "id": "schol",
    "name": "Scholastic Art & Writing Awards",
    "org": "Alliance for Young Artists & Writers",
@@ -181,7 +203,7 @@
    "url": "https://www.artandwriting.org/awards/how-to-enter/calendar/",
    "added": "2026-11-23",
    "seed": true,
-   "checked": "2026-11-27"
+   "checked": "2026-11-28"
   },
   {
    "id": "coolidge",
@@ -225,7 +247,7 @@
    "act": "Register on Dec 1 if you want it (first come, 20 per track); email engrcamp@uark.edu if you want to confirm there is no citizenship requirement.",
    "url": "https://engineering.uark.edu/summer-camps/engineering-summer-academy.php",
    "added": "2026-11-25",
-   "checked": "2026-11-27",
+   "checked": "2026-11-28",
    "contact": "engrcamp@uark.edu",
    "question": "I'm a junior at Bentonville public schools on an H-4 dependent visa; is there any citizenship or residency requirement to attend the Engineering Summer Academy?",
    "contact_checked": "2026-11-27"
@@ -250,7 +272,7 @@
    "act": "Email PI Tahir Khan (TM-Khan@wiu.edu) to ask about eligibility for an out-of-state H-4 student, complete the one-sitting application by Dec 1, and have a recommender submit the form by Dec 15.",
    "url": "https://www.wiu.edu/news/newsrelease.php?release_id=21522",
    "added": "2026-11-26",
-   "checked": "2026-11-27",
+   "checked": "2026-11-28",
    "contact": "TM-Khan@wiu.edu",
    "question": "I'm an incoming 12th grader from Arkansas on an H-4 dependent visa; am I eligible for the WIU GenCyber camp as an out-of-state, non-citizen student?",
    "contact_checked": "2026-11-27"
@@ -276,10 +298,36 @@
    "act": "Use the 'find a sponsor' link on the FRA East Coast Region page right away, or skip this year.",
    "url": "https://fra-ecregion.org/americanism-essay-contest",
    "added": "2026-11-27",
-   "checked": "2026-11-27",
+   "checked": "2026-11-28",
    "contact_url": "https://fra-ecregion.org/americanism-essay-contest",
    "question": "Can an 11th grader in Bentonville, Arkansas who is on an H-4 visa (not a citizen or green card holder) still enter by Dec 1, and which branch or Member-at-Large can sponsor him?",
    "contact_checked": "2026-11-27"
+  },
+  {
+   "id": "namc-moot-court",
+   "name": "National Association of Moot Court (NAMC) High School Regionals & National Tournament",
+   "org": "National Association of Moot Court",
+   "fields": [
+    "policy",
+    "writing"
+   ],
+   "kind": "competition",
+   "deadline": "2026-12-01",
+   "dlabel": "Dec 1, 2026 (Wave 2 registration opens; spots first-come; refund deadline Jan 4, 2027)",
+   "status": "ask",
+   "tier": "B",
+   "prestige": 5,
+   "diff": "High",
+   "hours": "30-60",
+   "cost": "$80-$150 per team",
+   "note": "A national high school moot court circuit. Two-person teams argue a constitutional case at university-hosted regionals, many on Zoom (Cornell, UGA, UChicago, Toronto, UCSD, Berkeley), Jan-Apr 2027. Regionals feed a virtual National Tournament on Apr 17-18, 2027. The site doesn't state citizenship rules or whether teams without a school sponsor can register.",
+   "act": "Email NAMC to confirm you can register from an Arkansas public school (or as an independent team), then claim a virtual regional spot right away.",
+   "url": "https://www.namcmootcourt.org/tournaments",
+   "contact": "contact@namcmootcourt.org",
+   "question": "Could you confirm whether a two-person team from an Arkansas public high school with no existing moot court program (or an independent team) may register for a 2027 virtual regional, and whether there are any citizenship or residency requirements for competitors?",
+   "contact_checked": "2026-11-28",
+   "added": "2026-11-28",
+   "checked": "2026-11-28"
   },
   {
    "id": "stjude",
@@ -305,6 +353,28 @@
    "seed": true
   },
   {
+   "id": "intl-mock-trial",
+   "name": "International Mock Trial (IMT) virtual tournaments",
+   "org": "International Mock Trial",
+   "fields": [
+    "policy"
+   ],
+   "kind": "competition",
+   "deadline": "2026-12-05",
+   "dlabel": "Dec 5, 2026 (entries due Saturday before the Dec 11-13 tournament; final contest in May)",
+   "status": "ok",
+   "tier": "C",
+   "prestige": 2,
+   "diff": "Medium",
+   "hours": "20-40",
+   "cost": "Free (team must supply a judge)",
+   "note": "Free virtual mock trial tournaments for grades 8-12. Teams of 4-8 students must provide one judge for all four rounds. The site lists round times for Beijing as well as U.S. zones, so it appears open worldwide, but it doesn't state any eligibility rule directly. It's a low-cost way to practice trial skills, since Arkansas mock trial is school-based.",
+   "act": "Form a 4-8 person team with an adult judge and submit the registration form by Dec 5, 2026, or aim for the spring/May contest.",
+   "url": "https://www.internationalmocktrial.com/compete",
+   "added": "2026-11-28",
+   "checked": "2026-11-28"
+  },
+  {
    "id": "arc-rocketry-27",
    "name": "American Rocketry Challenge 2027",
    "org": "Aerospace Industries Association / National Association of Rocketry",
@@ -319,12 +389,12 @@
    "prestige": 8,
    "diff": "Hard · top 100 teams reach Nationals",
    "hours": "60–100 h",
-   "cost": "$195 team fee",
+   "cost": "$195 team fee; $395 more if the team reaches National Finals",
    "note": "This is the world's largest student rocketry contest. Teams of 3 to 10 must fly two raw eggs to 800 ft and bring them down within 37 to 40 seconds. The top 100 teams go to the National Finals on May 15, 2027 and share $100,000 in prizes. It is open to students in grades 6 to 12 at a U.S. school or homeschool, and no citizenship rule is stated.",
    "act": "Find at least two teammates and a school or club sponsor this week, then register the team and pay the $195 fee at apply.rocketrychallenge.org before Dec 6.",
    "url": "https://www.rocketrychallenge.org/how-to-compete/",
    "added": "2026-11-25",
-   "checked": "2026-11-27"
+   "checked": "2026-11-28"
   },
   {
    "id": "nasa-dwu-hs-27",
@@ -346,7 +416,7 @@
    "act": "Ask a teacher to act as team sponsor and register the team on the NASA challenge page by Dec 8. Have each member create a NASA Gateway account and get a signed parent permission form.",
    "url": "https://www.nasa.gov/aeronautics/aeronautics-stem/2026-2027-dwu-high-school-engineering-challenge/",
    "added": "2026-11-25",
-   "checked": "2026-11-27"
+   "checked": "2026-11-28"
   },
   {
    "id": "nassp-student-service-grant",
@@ -368,7 +438,7 @@
    "act": "Confirm membership in NHS or an NASC-affiliated student council, create an account, get verified by the adviser, and submit the proposal by Dec 8, 2026.",
    "url": "https://nasc.principals.org/leadership-development/nassp-student-service-grants/",
    "added": "2026-11-27",
-   "checked": "2026-11-27"
+   "checked": "2026-11-28"
   },
   {
    "id": "leda",
@@ -393,6 +463,29 @@
    "seed": true
   },
   {
+   "id": "kemper-hr-essay",
+   "name": "Kemper Human Rights Essay Contest 2026",
+   "org": "Kemper Human Rights Education Foundation",
+   "fields": [
+    "policy",
+    "writing"
+   ],
+   "kind": "essay contest",
+   "deadline": "2026-12-10",
+   "dlabel": "Dec 10, 2026",
+   "status": "ok",
+   "tier": "B",
+   "prestige": 5,
+   "diff": "medium-high",
+   "hours": "15-25",
+   "cost": "free",
+   "note": "Research essay of up to 2,500 words on when human rights violations by a country against its own citizens justify armed intervention by other countries. Prizes are $5,000, $2,500 and $1,250, and the U.S. contest is for high school students who are citizens or residents of the U.S., so a resident on an H-4 visa qualifies. A teacher must sign a statement, generative AI is banned, and finalists have a Zoom interview.",
+   "act": "Start now because it is due Dec 10. Get a teacher to sign the cover-page statement, then email the Word file to kemperhumanrights@gmail.com.",
+   "url": "https://khref.org/2026-winning-essays/",
+   "added": "2026-11-28",
+   "checked": "2026-11-28"
+  },
+  {
    "id": "rsi",
    "name": "Research Science Institute (RSI)",
    "org": "Center for Excellence in Education · MIT & Stanford",
@@ -402,14 +495,14 @@
    ],
    "kind": "Summer research",
    "deadline": "2026-12-11",
-   "dlabel": "Dec 11, 2026",
+   "dlabel": "Dec 11, 2026, 11:59 PM ET (no late applications)",
    "status": "ask",
    "tier": "A",
    "prestige": 10,
    "diff": "Extreme · under 2.5% admitted",
    "hours": "25–35 h",
    "cost": "Free ($75 app fee)",
-   "note": "Six weeks of mentored research. RSI has two application pools: U.S. citizens and permanent residents apply directly, and international students go through a sponsoring country. An H-4 student at a U.S. school fits neither pool, so ask CEE directly.",
+   "note": "Six weeks of mentored research, free to attend. RSI takes U.S. citizens and permanent residents, plus international students from participating countries through sponsors. An H-4 student at a U.S. school fits neither pool, so ask CEE directly (CEE's FAQ points international applicants to Maite Ballestero, EVP Programs). Only juniors can apply.",
    "act": "Next step: use the RSI contact form today. You'll need three recommenders, essays and your PSAT/SAT scores (CEE recommends PSAT Math 740+).",
    "url": "https://www.cee.org/programs/apply-rsi",
    "added": "2026-11-23",
@@ -417,7 +510,7 @@
    "contact_url": "https://www.cee.org/form/contact-rsi",
    "question": "RSI's application has one pool for U.S. citizens and permanent residents and another for international students sponsored by their home country. Since I attend a U.S. school but am neither, which application should I use?",
    "contact_checked": "2026-11-26",
-   "checked": "2026-11-27"
+   "checked": "2026-11-28"
   },
   {
    "id": "usaco",
@@ -436,12 +529,34 @@
    "diff": "Gold is hard; Platinum or camp is elite",
    "hours": "Ongoing practice",
    "cost": "Free",
-   "note": "Four online contests move you up from Bronze to Platinum, ending with the US Open in March or April. The 2026–27 schedule isn't posted on usaco.org yet (as of Nov 27); last season's first contest was Jan 9–12. Reaching Platinum is a strong signal for computer science.",
+   "note": "Four online contests move you up from Bronze to Platinum, ending with the US Open in March or April. The 2026–27 schedule isn't posted on usaco.org yet (as of Nov 28; usaco.org still shows the 2025-26 schedule); last season's first contest was Jan 9–12. Reaching Platinum is a strong signal for computer science.",
    "act": "Next step: create an account at usaco.org and check its schedule page for the first 2026–27 contest window.",
    "url": "https://usaco.org/",
    "added": "2026-11-23",
    "seed": true,
-   "checked": "2026-11-27"
+   "checked": "2026-11-28"
+  },
+  {
+   "id": "georgetown-tourn-series-27",
+   "name": "Georgetown Invitational Tournament Series & National Championship",
+   "org": "Georgetown University Debate",
+   "fields": [
+    "policy"
+   ],
+   "kind": "Online debate league / championship",
+   "deadline": "2026-12-11",
+   "dlabel": "Next online qualifier Dec 11-13, 2026 (register on Tabroom before; confirm); championship May 22-24, 2027",
+   "status": "ok",
+   "tier": "C",
+   "prestige": 3,
+   "diff": "Medium",
+   "hours": "Weekend online tournaments",
+   "cost": "Registration fees (amount not listed)",
+   "note": "A series of online qualifying tournaments with Public Forum (Varsity/JV/Novice), LD, Congress and World Schools. Points from the best three of five qualifiers earn a spot at the championship, whose final rounds are held in person on Capitol Hill. The brochure says the series is open to everyone, including international participants.",
+   "act": "Register on Tabroom for the Dec 11-13, 2026 or Jan 29-31, 2027 online qualifier, with a PF partner.",
+   "url": "https://debate.georgetown.edu/georgetown-tournament-series-and-national-championship/",
+   "added": "2026-11-28",
+   "checked": "2026-11-28"
   },
   {
    "id": "grodd",
@@ -558,7 +673,10 @@
    "act": "Ask the coach to check ncfl.org local leagues for one near Arkansas, or to email the NCFL President about independent entry before Dec 10, 2026.",
    "url": "https://www.ncfl.org/nationals.html",
    "added": "2026-11-25",
-   "checked": "2026-11-26"
+   "checked": "2026-11-26",
+   "contact_url": "https://www.ncfl.org/executive-council.html",
+   "question": "Our Bentonville, Arkansas public high school is not near any NCFL local league; can we enter as an independent school or individual member, and are students on H-4 visas eligible to compete?",
+   "contact_checked": "2026-11-28"
   },
   {
    "id": "yip-policy-fellowship",
@@ -570,7 +688,7 @@
    ],
    "kind": "Virtual fellowship",
    "deadline": "2026-12-23",
-   "dlabel": "Dec 23, 2026",
+   "dlabel": "Dec 23, 2026 (11:59 PM PT)",
    "status": "ask",
    "tier": "C",
    "prestige": 2,
@@ -581,7 +699,10 @@
    "act": "Email fellowship@yipinstitute.org about the cost and whether U.S.-based H-4 students qualify, then apply by Dec 23, 2026 if it is free.",
    "url": "https://yipinstitute.org/fellowship",
    "added": "2026-11-25",
-   "checked": "2026-11-25"
+   "checked": "2026-11-25",
+   "contact": "fellowship@yipinstitute.org",
+   "question": "I'm a U.S. high school junior living in Arkansas on an H-4 dependent visa; do I count as a U.S. (not international) applicant for the Winter 2027 fellowship, and is there any fee?",
+   "contact_checked": "2026-11-28"
   },
   {
    "id": "sar-hs-essay",
@@ -593,7 +714,7 @@
    ],
    "kind": "Essay contest",
    "deadline": "2026-12-31",
-   "dlabel": "Dec 31, 2026 (most state societies; Arkansas date — confirm)",
+   "dlabel": "Dec 31, 2026 (Arkansas state deadline per SAR; chapter deadlines may be earlier)",
    "status": "ask",
    "tier": "C",
    "prestige": 4,
@@ -601,10 +722,13 @@
    "hours": "8–12 h",
    "cost": "Free",
    "note": "An 800–1,200 word essay on an event, person or ideal connected to the American Revolution, the Declaration of Independence or the Constitution, for grades 9–12. State winners go to national judging by Mar 15. The rules say 'US Citizen and Legal Resident students', so H-4 eligibility is unclear.",
-   "act": "When contacting the Arkansas SAR education chair about the oration contest, also ask for the essay deadline and whether H-4 students are eligible.",
+   "act": "Email the Arkansas SAR contact listed on sar.org (Rodney Young, Jr.) to ask whether H-4 students are eligible and which chapter to submit to before Dec 31.",
    "url": "https://www.sar.org/sar-high-school-essay-contest/",
    "added": "2026-11-25",
-   "checked": "2026-11-25"
+   "checked": "2026-11-25",
+   "contact": "claysshotgunner@gmail.com",
+   "question": "Your rules say the Knight Essay Contest is open to 'US Citizen and Legal Resident students'; is a Bentonville high school junior on an H-4 dependent visa eligible, and which chapter should he submit to?",
+   "contact_checked": "2026-11-28"
   },
   {
    "id": "acsl-2026-27",
@@ -627,7 +751,10 @@
    "act": "Ask a CS or math teacher to register a Senior-division team at acsl.org before Dec 31, 2026.",
    "url": "https://www.acsl.org/get-started/schedule",
    "added": "2026-11-26",
-   "checked": "2026-11-26"
+   "checked": "2026-11-26",
+   "contact": "info@acsl.org",
+   "question": "Is there any citizenship or residency requirement for students on an ACSL team, for example a junior at a U.S. public school on an H-4 dependent visa?",
+   "contact_checked": "2026-11-28"
   },
   {
    "id": "gen-kelly-tanabe",
@@ -675,6 +802,51 @@
    "url": "https://couragetogrowscholarship.com/",
    "added": "2026-11-27",
    "checked": "2026-11-27"
+  },
+  {
+   "id": "harlan-vsc",
+   "name": "Harlan Institute Virtual Supreme Court Competition (15th annual)",
+   "org": "Harlan Institute & ConSource",
+   "fields": [
+    "policy",
+    "writing"
+   ],
+   "kind": "competition",
+   "deadline": "2026-12-31",
+   "dlabel": "Dec 31, 2026 (registration closes)",
+   "status": "ok",
+   "tier": "A",
+   "prestige": 6,
+   "diff": "High",
+   "hours": "30-50",
+   "cost": "Free",
+   "note": "Teams of two high school students write an appellate brief and argue a live constitutional case (2026-27: whether Ten Commandments classroom displays violate the Establishment Clause). The top two teams argue the championship round in Washington, D.C. on Mar 11-12, 2027, with airfare and hotel paid. Open to high school students in the United States, with no citizenship rule listed.",
+   "act": "Find a teammate (for example a Public Forum partner) and register free through the Institute of Competition Sciences page before Dec 31, 2026.",
+   "url": "https://harlaninstitute.org/virtual-supreme-court/",
+   "added": "2026-11-28",
+   "checked": "2026-11-28"
+  },
+  {
+   "id": "math-kangaroo-2027",
+   "name": "Math Kangaroo USA 2027 (Grades 11-12 level)",
+   "org": "Math Kangaroo in USA",
+   "fields": [
+    "math"
+   ],
+   "kind": "competition",
+   "deadline": "2026-12-31",
+   "dlabel": "Dec 31, 2026 standard ($20); late until Feb 1, 2027 ($35); contest Mar 18, 2027 (confirm)",
+   "status": "ok",
+   "tier": "C",
+   "prestige": 2,
+   "diff": "medium",
+   "hours": "2-5",
+   "cost": "$20 (late $35)",
+   "note": "Large international multiple-choice contest written at an in-person or online center. Open to all U.S. K-12 students, who register at a center in their state of residence.",
+   "act": "Find an Arkansas or online public center on the Math Kangaroo centers map and register by Dec 31, 2026.",
+   "url": "https://mathkangaroo.org/mks/registration/",
+   "added": "2026-11-28",
+   "checked": "2026-11-28"
   },
   {
    "id": "think",
@@ -895,7 +1067,7 @@
    ],
    "kind": "Leadership program + scholarship",
    "deadline": "2027-01-10",
-   "dlabel": "Jan 10, 2027",
+   "dlabel": "Jan 10, 2027, 10 PM ET",
    "status": "ask",
    "tier": "C",
    "prestige": 4,
@@ -906,7 +1078,10 @@
    "act": "Decide whether the Second Amendment essay topic fits you; if so, ask the NRA Foundation whether non-citizens are eligible.",
    "url": "https://www.nra.org/news/nra-youth-education-summit-applications-now-open-for-2027",
    "added": "2026-11-25",
-   "checked": "2026-11-25"
+   "checked": "2026-11-25",
+   "contact": "yes@nrahq.org",
+   "question": "I'm a high school junior at a U.S. public school on an H-4 dependent visa (not a citizen or permanent resident); am I eligible to apply for Y.E.S. and its scholarships?",
+   "contact_checked": "2026-11-28"
   },
   {
    "id": "aaja-jcamp",
@@ -980,6 +1155,28 @@
    "contact_checked": "2026-11-27"
   },
   {
+   "id": "brumo-2027",
+   "name": "Brown University Math Olympiad (BrUMO) 2027",
+   "org": "Brown University math students",
+   "fields": [
+    "math"
+   ],
+   "kind": "competition",
+   "deadline": "2027-01-11",
+   "dlabel": "Jan 11, 2027 (registration opens Nov 30, 2026; contest Mar 12-13, 2027)",
+   "status": "ok",
+   "tier": "C",
+   "prestige": 5,
+   "diff": "hard",
+   "hours": "2 days plus travel",
+   "cost": "Free registration; travel and lodging to Providence, RI are paid by the family",
+   "note": "In-person team math tournament at Brown, with teams of 4-6. Individuals can register and be placed on a team, but each needs a chaperone. Open to students in grade 12 or below from anywhere in the world.",
+   "act": "If travel to Providence is possible, register as an individual or a school team between Nov 30, 2026 and Jan 11, 2027.",
+   "url": "https://www.brumo.org/tournament-info",
+   "added": "2026-11-28",
+   "checked": "2026-11-28"
+  },
+  {
    "id": "bezos",
    "name": "Bezos Scholars Program",
    "org": "Bezos Family Foundation",
@@ -1014,17 +1211,41 @@
    "kind": "Drone team competition",
    "deadline": "2027-01-12",
    "dlabel": "Jan 12, 2027",
-   "status": "ask",
+   "status": "ok",
    "tier": "C",
    "prestige": 3,
    "diff": "Medium · tiered levels",
    "hours": "40–80 h",
-   "cost": "Fee not stated",
-   "note": "A drone mission competition for middle and high school teams. Prize money goes up to $2,500 plus Skydio drones in the Advanced level. The page gives no grade or citizenship rules.",
-   "act": "Email AMAUAS4STEM@modelaircraft.org to confirm eligibility and the fee before registering by Jan 12.",
+   "cost": "$995 Beginner / $1,495 Intermediate or Advanced per team (includes AMA memberships)",
+   "note": "A drone mission competition for teams of students aged 11-19 with an adult team manager; teams can come from schools or community groups, and international teams are accepted. Prize money goes up to $2,500 plus Skydio drones in the Advanced level. Registration costs $995-$1,495 per team, roster due Jan 19 and final payment Mar 10, 2027.",
+   "act": "Only if a school or club team can cover the $995+ fee: find an adult team manager and register by Jan 12, 2027; email education@modelaircraft.org with questions.",
    "url": "https://amablog.modelaircraft.org/uas4stem/2026/09/02/uas4stem-2026-season-registration-now-open/",
    "added": "2026-11-25",
-   "checked": "2026-11-25"
+   "checked": "2026-11-25",
+   "contact": "education@modelaircraft.org",
+   "contact_checked": "2026-11-28"
+  },
+  {
+   "id": "rcml-2027",
+   "name": "Rocket City Math League 2026-27 (Discovery level)",
+   "org": "Grissom High School Math Team / Mu Alpha Theta",
+   "fields": [
+    "math"
+   ],
+   "kind": "competition",
+   "deadline": "2027-01-12",
+   "dlabel": "Teacher registers before Round 1 materials go out Jan 12, 2027 (confirm)",
+   "status": "ok",
+   "tier": "C",
+   "prestige": 2,
+   "diff": "medium",
+   "hours": "3 tests of about 1 hr",
+   "cost": "Free",
+   "note": "Free national correspondence league with three individual rounds (Jan 13-26, Feb 10-23 and Mar 10-23, 2027) proctored at school. Open to middle and high school students; a teacher or coach has to register and proctor.",
+   "act": "Ask a math teacher to register Bentonville HS on the RCML form and proctor the Discovery (precalculus and up) level.",
+   "url": "https://www.grissommath.org/rcml",
+   "added": "2026-11-28",
+   "checked": "2026-11-28"
   },
   {
    "id": "ar-tsa-state-27",
@@ -1074,6 +1295,31 @@
    "url": "https://aspirnaut.org/high-school-internships/",
    "added": "2026-11-26",
    "checked": "2026-11-26"
+  },
+  {
+   "id": "edison-pitch-27",
+   "name": "Thomas Edison Pitch Contest 2027",
+   "org": "Edison Innovation Foundation",
+   "fields": [
+    "eng"
+   ],
+   "kind": "Invention contest",
+   "deadline": "2027-01-13",
+   "dlabel": "Jan 13, 2027 registration closes; idea video due Jan 22, 2027 (FAQ says Jan 20; confirm)",
+   "status": "ask",
+   "tier": "C",
+   "prestige": 3,
+   "diff": "Medium · 9 finalist teams",
+   "hours": "15–25 h",
+   "cost": "Free",
+   "note": "A free national invention pitch contest for students in grades 4 to 12, entering alone or in teams of up to 5 with an adult mentor. Finalists get trophies and gift cards, and the winning schools get makerspace equipment. No citizenship rule is stated.",
+   "act": "Read the 2027 Guidebook on the site to confirm the deadlines, then register after Dec 1 with an adult mentor.",
+   "url": "https://www.thomasedisonpitch.org/",
+   "added": "2026-11-25",
+   "checked": "2026-11-28",
+   "contact": "admin@thomasedisonpitch.org",
+   "question": "I'm a high school junior at a U.S. public school on an H-4 dependent visa; am I eligible to enter the Thomas Edison Pitch Contest?",
+   "contact_checked": "2026-11-28"
   },
   {
    "id": "diamond",
@@ -1139,7 +1385,10 @@
    "note": "Four weeks of lab placement in Houston (June 7 – July 2, 2027) with weekly clinician talks and a final symposium; juniors and seniors who are 16 by June 7 are the target. The page lists no citizenship rule. It costs $4,000 and doesn't provide housing, so it carries less weight than free, selective programs.",
    "act": "Only if you could stay in Houston and the fee is manageable: ask the program whether non-citizens are eligible, then send a transcript, two references and a personal statement by Jan 15, 2027.",
    "url": "https://med.uth.edu/bmb/high-school-summer-research-program/summer-research-program-application/",
-   "added": "2026-11-25"
+   "added": "2026-11-25",
+   "contact": "BMB.HS.SummerResearch@uth.tmc.edu",
+   "question": "I'm a high school junior in Arkansas on an H-4 dependent visa (not a citizen or green card holder); am I eligible for the High School Summer Research Program?",
+   "contact_checked": "2026-11-28"
   },
   {
    "id": "nhseb-ar-ethics-bowl",
@@ -1188,7 +1437,10 @@
    "act": "Check whether the family meets the income and first-gen criteria; if so, apply by Jan 15, 2027 and ask about stipend rules for H-4 students.",
    "url": "https://sare.cellbio.jhmi.edu/",
    "added": "2026-11-26",
-   "checked": "2026-11-26"
+   "checked": "2026-11-26",
+   "contact": "phamm4@jhu.edu",
+   "question": "I'm a rising senior in Arkansas on an H-4 dependent visa; am I eligible for SARE, and could I participate without receiving the $3,000 stipend if my visa does not allow paid work?",
+   "contact_checked": "2026-11-28"
   },
   {
    "id": "usc-bovard",
@@ -1238,6 +1490,31 @@
    "url": "https://www.usafa.edu/admissions/summer-seminar/",
    "added": "2026-11-27",
    "checked": "2026-11-27"
+  },
+  {
+   "id": "esu-shakespeare-ebranch-27",
+   "name": "ESU National Shakespeare Competition (E-Branch remote entry)",
+   "org": "English-Speaking Union of the United States",
+   "fields": [
+    "writing"
+   ],
+   "kind": "Recitation / performance contest",
+   "deadline": "2027-01-15",
+   "dlabel": "School registration Jan 15, 2027; E-Branch school-winner video Feb 12, 2027",
+   "status": "ask",
+   "tier": "B",
+   "prestige": 6,
+   "diff": "Medium",
+   "hours": "10-20 (monologue + sonnet prep, school round)",
+   "cost": "Not stated",
+   "note": "A national Shakespeare monologue and sonnet competition for grades 9-12. Schools without a local branch can enter through the online E-Branch. The 2027 national finals in NYC (Apr 24-26) award a summer program at Oxford, a theatre camp, or $1,000. Citizenship rules are not stated.",
+   "act": "Ask an English or drama teacher to register the school (E-Branch) by Jan 15, 2027 and hold a school round; send the question to ESU.",
+   "url": "https://www.esuus.org/what-we-do/shakespeare-competition/e-branch/",
+   "added": "2026-11-28",
+   "checked": "2026-11-28",
+   "contact": "info@esuus.org",
+   "question": "Is a high school junior attending a public school in Arkansas on an H-4 dependent visa (not a U.S. citizen or permanent resident) eligible to compete in the National Shakespeare Competition through the E-Branch and to receive the national prizes?",
+   "contact_checked": "2026-11-28"
   },
   {
    "id": "stossel-ai-challenge-2027",
@@ -1306,7 +1583,32 @@
    "act": "Email the organizers to confirm high schoolers can enter, then submit a nonfiction essay by Jan 18, 2027.",
    "url": "https://med.stanford.edu/medicineandthemuse/events/paul-kalanithi-essay-contest.html",
    "added": "2026-11-26",
-   "checked": "2026-11-26"
+   "checked": "2026-11-26",
+   "contact_url": "https://med.stanford.edu/about/contacts.html",
+   "question": "Can a high school junior in the U.S. on an H-4 dependent visa enter the Paul Kalanithi Writing Contest and receive the prize if a winner?",
+   "contact_checked": "2026-11-28"
+  },
+  {
+   "id": "wumec-2027",
+   "name": "WashU Mathematical Excellence Competition (WUMEC) 2027",
+   "org": "Washington University in St. Louis Math Club",
+   "fields": [
+    "math"
+   ],
+   "kind": "competition",
+   "deadline": "2027-01-18",
+   "dlabel": "About mid-Jan 2027 (the 2026 deadline was Jan 19; confirm)",
+   "status": "ok",
+   "tier": "C",
+   "prestige": 3,
+   "diff": "medium",
+   "hours": "1 day plus travel",
+   "cost": "$20 per team of 4 or $5 per person (scholarships available)",
+   "note": "In-person team tournament at WashU in St. Louis for grades 9-12, the closest university math tournament to NW Arkansas. Individuals can register and be placed on teams, a chaperone is required, and no school or state limit is listed. The 2027 details are not posted yet.",
+   "act": "Watch the WUMEC info page for 2027 dates and email mathclub@wustl.edu to confirm the registration deadline.",
+   "url": "https://sites.wustl.edu/wumec/info/",
+   "added": "2026-11-28",
+   "checked": "2026-11-28"
   },
   {
    "id": "nd",
@@ -1353,28 +1655,6 @@
    "added": "2026-11-23"
   },
   {
-   "id": "edison-pitch-27",
-   "name": "Thomas Edison Pitch Contest 2027",
-   "org": "Edison Innovation Foundation",
-   "fields": [
-    "eng"
-   ],
-   "kind": "Invention contest",
-   "deadline": "2027-01-20",
-   "dlabel": "Jan 20, 2027 (idea video; confirm)",
-   "status": "ask",
-   "tier": "C",
-   "prestige": 3,
-   "diff": "Medium · 9 finalist teams",
-   "hours": "15–25 h",
-   "cost": "Free",
-   "note": "A free national invention pitch contest for students in grades 4 to 12, entering alone or in teams of up to 5 with an adult mentor. Finalists get trophies and gift cards, and the winning schools get makerspace equipment. No citizenship rule is stated.",
-   "act": "Read the 2027 Guidebook on the site to confirm the deadlines, then register after Dec 1 with an adult mentor.",
-   "url": "https://www.thomasedisonpitch.org/",
-   "added": "2026-11-25",
-   "checked": "2026-11-25"
-  },
-  {
    "id": "ww2-museum-writing",
    "name": "National WWII Museum Student Writing Contest",
    "org": "The National WWII Museum",
@@ -1418,6 +1698,54 @@
    "url": "https://www.utsouthwestern.edu/education/nondegree-programs/stars/programs/summer-research-opportunities.html",
    "added": "2026-11-26",
    "checked": "2026-11-26"
+  },
+  {
+   "id": "recf-online-challenges-c1",
+   "name": "REC Foundation Online Challenges 2026-27 (Cycle 1: CAD, Build Instructions, Game Design, Leadership, DoW Drone)",
+   "org": "Robotics Education & Competition Foundation",
+   "fields": [
+    "eng"
+   ],
+   "kind": "competition",
+   "deadline": "2027-01-22",
+   "dlabel": "Jan 22, 2027 (submission window Jan 11-22)",
+   "status": "ask",
+   "tier": "B",
+   "prestige": 4,
+   "diff": "medium",
+   "hours": "10-30",
+   "cost": "free",
+   "note": "Online challenges run alongside VEX and Aerial Drone competitions. Cycle 1 includes the CAD, Build Instructions, Game Design, Leadership, Community Outreach and DoW Drone Challenges, with winners announced Mar 15, 2027. The page doesn't say who may enter or whether there are citizenship rules. These are usually tied to a registered RobotEvents team.",
+   "act": "Ask your VEX coach to confirm the team's registration, pick one Cycle 1 challenge (CAD fits best), and submit between Jan 11 and Jan 22, 2027.",
+   "url": "https://recf.org/teams/competition/online-challenges/",
+   "contact": "onlinechallenges@recf.org",
+   "question": "Can a high school student on a registered VEX V5RC team enter the Cycle 1 CAD or Leadership Challenge, and are there any citizenship or residency requirements for students attending a U.S. school on an H-4 visa?",
+   "contact_checked": "2026-11-28",
+   "added": "2026-11-28",
+   "checked": "2026-11-28"
+  },
+  {
+   "id": "nasa-moon-base-challenge",
+   "name": "NASA Moon Base Challenge 2027 (High School Division)",
+   "org": "NASA",
+   "fields": [
+    "eng",
+    "research"
+   ],
+   "kind": "competition",
+   "deadline": "2027-01-25",
+   "dlabel": "Jan 25, 2027 (NASA STEM Gateway applications close; Project Phase due Feb 22, Final Phase Apr 19)",
+   "status": "ok",
+   "tier": "A",
+   "prestige": 7,
+   "diff": "high",
+   "hours": "40-80 over Jan-Apr",
+   "cost": "free",
+   "note": "New NASA team challenge with up to $1 million in total awards for designs that help build or run NASA's Moon Base (power, habitats, life support, mobility, communications, astronaut safety). High school division is for teams of 2-5 students aged 13-18 in grades 9-12, with an adult coach from the team's affiliated organization. The draft rules say foreign citizens may take part if they are full-time students at an eligible U.S. high school.",
+   "act": "Form a team of 2-5 (VEX teammates are a natural fit), find a teacher to coach, and have each member apply through NASA STEM Gateway before Jan 25, 2027.",
+   "url": "https://moonbasechallenge.org/rules/",
+   "added": "2026-11-28",
+   "checked": "2026-11-28"
   },
   {
    "id": "wharton-hs-data-sci-2027",
@@ -1836,6 +2164,54 @@
    "contact_checked": "2026-11-27"
   },
   {
+   "id": "concord-review",
+   "name": "The Concord Review (history research paper; Emerson Prize)",
+   "org": "The Concord Review",
+   "fields": [
+    "writing",
+    "research"
+   ],
+   "kind": "publication/essay prize",
+   "deadline": "2027-02-01",
+   "dlabel": "Feb 1, 2027 (Summer issue; later quarterly deadlines May 1, Aug 1, Nov 1)",
+   "status": "ok",
+   "tier": "B",
+   "prestige": 8,
+   "diff": "very high",
+   "hours": "40-80",
+   "cost": "$70 submission fee",
+   "note": "The leading journal for high school history research papers. Public, private and home-school students from the U.S. and other countries may submit. Papers can be on any historical topic, ancient or modern, and published authors can be considered for the Emerson Prize. There is a $70 fee per essay, and each paper is considered for the next three issues.",
+   "act": "Pick a policy-history topic and plan a long research paper. Submit by Feb 1 or May 1, 2027.",
+   "url": "https://tcr.org/Submitting-papers-to-TCR",
+   "added": "2026-11-28",
+   "checked": "2026-11-28"
+  },
+  {
+   "id": "kidwind-simulation-2027",
+   "name": "KidWind National Simulation Challenge 2027",
+   "org": "KidWind",
+   "fields": [
+    "eng"
+   ],
+   "kind": "competition",
+   "deadline": "2027-02-01",
+   "dlabel": "Feb 1, 2027 (registration closes; challenge ends Mar 15, 2027)",
+   "status": "ask",
+   "tier": "C",
+   "prestige": 2,
+   "diff": "low",
+   "hours": "5-15",
+   "cost": "$25 educator/parent account (covers up to 25 students)",
+   "note": "Online wind-turbine design simulation scored for each student individually, with no physical build. High school students (grades 9-12) are the main audience. The account must be created by an adult educator, coach or parent. Prizes are small (KidWind Shop gift cards), and country or citizenship rules aren't stated.",
+   "act": "Have a parent or teacher create the account before Feb 1, 2027. Treat this as a low-effort energy-engineering add-on.",
+   "url": "https://kidwind.org/simulation-challenge/",
+   "contact_url": "https://kidwind.org/simulation-challenge/",
+   "question": "Is the National Simulation Challenge open to any high school student attending a U.S. school, including a student on an H-4 visa, for recognition as a top performer?",
+   "contact_checked": "2026-11-28",
+   "added": "2026-11-28",
+   "checked": "2026-11-28"
+  },
+  {
    "id": "quill-scroll",
    "name": "Quill and Scroll Writing, Visual & Multimedia Contest",
    "org": "Quill and Scroll (Univ. of Iowa)",
@@ -1997,6 +2373,31 @@
    "checked": "2026-11-25"
   },
   {
+   "id": "nfpw-ar-hs-comm",
+   "name": "NFPW / Arkansas Press Women High School Communications Contest 2027",
+   "org": "National Federation of Press Women (Arkansas affiliate)",
+   "fields": [
+    "writing"
+   ],
+   "kind": "journalism contest",
+   "deadline": "2027-02-10",
+   "dlabel": "Feb 10, 2027 (noon)",
+   "status": "ask",
+   "tier": "C",
+   "prestige": 3,
+   "diff": "low-medium",
+   "hours": "2-5",
+   "cost": "$4 per entry",
+   "note": "State journalism contest in 23 categories for work that was published or produced between Feb 10, 2026 and Feb 10, 2027 (school newspaper, broadcast and similar; social media posts don't count). First-place state winners go on to nationals ($100 per first place; Best of the Best $250). The state contest is open to students who live in Arkansas. Citizenship isn't mentioned.",
+   "act": "If Krithik has published school-newspaper or opinion pieces, email the Arkansas contest chair to confirm eligibility, then enter on the NFPW contest site.",
+   "url": "https://nfpwcontest.secure-platform.com/a/organizations/AR/home",
+   "contact": "churchladymm@yahoo.com",
+   "question": "Is a high school student who lives in Arkansas on an H-4 dependent visa (not a U.S. citizen or permanent resident) eligible to enter the 2027 Arkansas high school communications contest and advance to the national level?",
+   "contact_checked": "2026-11-28",
+   "added": "2026-11-28",
+   "checked": "2026-11-28"
+  },
+  {
    "id": "christophers-poster-2027",
    "name": "Christophers Poster Contest for High School Students (37th)",
    "org": "The Christophers",
@@ -2155,6 +2556,30 @@
    "url": "https://www.useso.org/programs/calendar/",
    "added": "2026-11-26",
    "checked": "2026-11-26"
+  },
+  {
+   "id": "nss-oneill-space-settlement",
+   "name": "NSS Gerard K. O'Neill Space Settlement Contest 2027",
+   "org": "National Space Society",
+   "fields": [
+    "eng",
+    "research",
+    "writing"
+   ],
+   "kind": "competition",
+   "deadline": "2027-02-15",
+   "dlabel": "Feb 15, 2027 (2:00 a.m. PST)",
+   "status": "ok",
+   "tier": "B",
+   "prestige": 5,
+   "diff": "medium",
+   "hours": "30-60",
+   "cost": "$15 entry fee (waivable for hardship)",
+   "note": "Students design and write up a space settlement, entering alone or in a group of 2-5 or 6-12. Open to students up to 12th grade anywhere in the world. Cash prizes include the $5,000 Herman Rubin Memorial Scholarship for the top entry that presents at ISDC 2027 (May 27-30, Los Angeles).",
+   "act": "Enter through the NSS awards portal when it opens in December and submit the design paper by Feb 15, 2027.",
+   "url": "https://isdc.nss.org/nss-space-settlement-contest/",
+   "added": "2026-11-28",
+   "checked": "2026-11-28"
   },
   {
    "id": "iowa-sstp",
@@ -2525,6 +2950,53 @@
    "checked": "2026-11-25"
   },
   {
+   "id": "fitz-essay-2027",
+   "name": "Fitzwilliam College Essay Competitions 2027 (Environment, Law & Economics and others)",
+   "org": "Fitzwilliam College, University of Cambridge",
+   "fields": [
+    "policy",
+    "writing",
+    "research"
+   ],
+   "kind": "essay contest",
+   "deadline": "2027-02-26",
+   "dlabel": "Feb 26, 2027 (6pm UK time)",
+   "status": "ok",
+   "tier": "B",
+   "prestige": 6,
+   "diff": "high",
+   "hours": "20-30",
+   "cost": "free",
+   "note": "A Cambridge college runs essay competitions for students in their second-to-last year of school (a U.S. junior). The FAQ explains how international students find their equivalent year. Krithik's best fit is the Environment, Law, and Economics question, which needs his own research. The Gerald O'Connell Economics competition is for UK state-school students only.",
+   "act": "Read the Environment, Law, and Economics question and rules on the 2027 page and sign up for the Jan 13 webinar. Submit using the required template and research log.",
+   "url": "https://www.fitz.cam.ac.uk/fitzwilliam-college-essay-competitions-2027",
+   "added": "2026-11-28",
+   "checked": "2026-11-28"
+  },
+  {
+   "id": "cubes-in-space-2027",
+   "name": "Cubes in Space 2027",
+   "org": "idoodlelearning / NASA partners",
+   "fields": [
+    "eng",
+    "research"
+   ],
+   "kind": "competition",
+   "deadline": "2027-02-26",
+   "dlabel": "About late Feb 2027 enrollment close, based on last year's Feb 27 (confirm); program opens Jan 8, 2027",
+   "status": "ok",
+   "tier": "C",
+   "prestige": 3,
+   "diff": "medium",
+   "hours": "20-40",
+   "cost": "Free to apply; $80-$125 flight fee if selected, plus materials and shipping",
+   "note": "Students aged 11-18 design a small experiment to fly on a NASA sounding rocket (June 2027, Wallops) or a scientific balloon (late summer 2027). An educator must register the students. Only U.S. citizens and permanent residents can fly on the rocket, but non-citizens are eligible for the balloon mission.",
+   "act": "Ask a science or engineering teacher to register as educator, then plan a balloon-mission experiment before enrollment closes.",
+   "url": "https://www.cubesinspace.com/faq.html",
+   "added": "2026-11-28",
+   "checked": "2026-11-28"
+  },
+  {
    "id": "usaebo-2027",
    "name": "USA Economics and Business Olympiad (USAEBO) 2027",
    "org": "USA Economics and Business Olympiad",
@@ -2590,6 +3062,31 @@
    "url": "https://developer.apple.com/swift-student-challenge/",
    "added": "2026-11-26",
    "checked": "2026-11-26"
+  },
+  {
+   "id": "rutgers-ysp",
+   "name": "Rutgers Young Scholars Program in Discrete Mathematics 2027",
+   "org": "Rutgers University Department of Mathematics / DIMACS",
+   "fields": [
+    "math"
+   ],
+   "kind": "summer program",
+   "deadline": "2027-02-28",
+   "dlabel": "End of Feb 2027 suggested (2027 details due Dec 2026; confirm)",
+   "status": "ask",
+   "tier": "C",
+   "prestige": 5,
+   "diff": "selective",
+   "hours": "4-week residential (Jul 6-31 in 2026)",
+   "cost": "$4,800 in 2026; partial need-based scholarships",
+   "note": "Four-week residential summer program in discrete math for mathematically talented high school students at Rutgers in New Jersey. The page lists no grade, residency or citizenship rules.",
+   "act": "Check the page in December for the 2027 application and email the question below.",
+   "url": "https://www.math.rutgers.edu/academics/outreach-activities/2259-rutgers-young-scholars-program-in-discrete-mathematics-2",
+   "contact": "rysp@math.rutgers.edu",
+   "question": "Is a high school junior on an H-4 visa who attends a public school in Arkansas eligible for the 2027 Young Scholars Program and for its need-based partial scholarships?",
+   "contact_checked": "2026-11-28",
+   "added": "2026-11-28",
+   "checked": "2026-11-28"
   },
   {
    "id": "horatio",
@@ -2683,6 +3180,53 @@
    "url": "https://www.livingoceansfoundation.org/science-without-borders-challenge/",
    "added": "2026-11-27",
    "checked": "2026-11-27"
+  },
+  {
+   "id": "reagan-debate-series",
+   "name": "Ronald Reagan Debate Series (regionals → National Championship)",
+   "org": "Ronald Reagan Presidential Foundation & Institute",
+   "fields": [
+    "policy"
+   ],
+   "kind": "competition",
+   "deadline": "2027-03-01",
+   "dlabel": "Mar 1, 2027 (Dallas regional registration closes; Arkansas regional date TBD; online regional Jun 5)",
+   "status": "ok",
+   "tier": "A",
+   "prestige": 6,
+   "diff": "Medium-High",
+   "hours": "15-30",
+   "cost": "$15 entry fee",
+   "note": "One-on-one policy debates in a presidential-debate style for grades 9-12. The 2027 resolution is whether states and localities, not the federal government, should hold primary responsibility for disaster preparedness. Each regional winner goes to the July 22-25, 2027 National Championship at the Reagan Library with paid travel, and $50,000 in scholarships is awarded in total. The participant guide sets no citizenship rule and welcomes competitors from other regions of the world.",
+   "act": "Register on Tabroom for the Dallas regional (SMU, Mar 6, 2027) when registration opens Jan 4, and watch for the Arkansas regional date.",
+   "url": "https://www.reaganfoundation.org/education/regional-debate-competitions",
+   "added": "2026-11-28",
+   "checked": "2026-11-28"
+  },
+  {
+   "id": "sharygin-geo-2027",
+   "name": "Sharygin Geometry Olympiad XXIII (Correspondence Round)",
+   "org": "Sharygin Geometry Olympiad (Moscow)",
+   "fields": [
+    "math"
+   ],
+   "kind": "competition",
+   "deadline": "2027-03-01",
+   "dlabel": "Mar 1, 2027 (round opens Dec 1, 2026)",
+   "status": "ask",
+   "tier": "B",
+   "prestige": 6,
+   "diff": "very hard",
+   "hours": "20-40",
+   "cost": "Free (not stated)",
+   "note": "Long-running international olympiad in geometry only. Solutions to the correspondence round are written at home from Dec 1, 2026 to Mar 1, 2027, and top scorers are invited to a final round. The English pages do not state the country or grade eligibility rules.",
+   "act": "Register on the olympiad site, then send the question below through the feedback form before Dec 1.",
+   "url": "https://geomolymp.ru/en/olympiads/23rd-sharygin-geometry-olympiad.html",
+   "contact_url": "https://geomolymp.ru/en/forms/feedback",
+   "question": "Can an 11th-grade student at a public high school in the United States (not a U.S. citizen) take part in the correspondence round, and could he be invited to the final round?",
+   "contact_checked": "2026-11-28",
+   "added": "2026-11-28",
+   "checked": "2026-11-28"
   },
   {
    "id": "mit-mathroots",
@@ -2818,6 +3362,28 @@
    "checked": "2026-11-27"
   },
   {
+   "id": "waterloo-euclid-2027",
+   "name": "Euclid Mathematics Contest 2027",
+   "org": "University of Waterloo, Centre for Education in Mathematics and Computing (CEMC)",
+   "fields": [
+    "math"
+   ],
+   "kind": "competition",
+   "deadline": "2027-03-11",
+   "dlabel": "School order deadline Mar 11, 2027 (contest Apr 6, 2027)",
+   "status": "ok",
+   "tier": "B",
+   "prestige": 6,
+   "diff": "hard",
+   "hours": "10-20 prep",
+   "cost": "$18 per student plus a $5 processing fee and shipping",
+   "note": "Respected 2.5-hour proof-and-answer contest written worldwide. It is aimed at final-year students, but younger motivated students are welcome. A student outside Canada counts as an official participant if born on or after Jan 1, 2008; there is no citizenship rule.",
+   "act": "Ask a math teacher to order Euclid through the CEMC Contest Supervisor Portal before March 11, 2027.",
+   "url": "https://cemc.uwaterloo.ca/contests/euclid",
+   "added": "2026-11-28",
+   "checked": "2026-11-28"
+  },
+  {
    "id": "stossel-video-contest",
    "name": "Stossel in the Classroom Video Contest",
    "org": "Stossel in the Classroom",
@@ -2906,6 +3472,52 @@
    "url": "https://chuckstone.web.unc.edu/application/",
    "added": "2026-11-26",
    "checked": "2026-11-26"
+  },
+  {
+   "id": "berkeley-econ-review-hs",
+   "name": "Berkeley Economic Review High School Essay Contest",
+   "org": "Berkeley Economic Review (UC Berkeley)",
+   "fields": [
+    "policy",
+    "writing"
+   ],
+   "kind": "essay contest",
+   "deadline": "2027-03-14",
+   "dlabel": "Mar 2027 (confirm; 2026 deadline was Mar 14)",
+   "status": "ok",
+   "tier": "C",
+   "prestige": 4,
+   "diff": "medium",
+   "hours": "10-15",
+   "cost": "free",
+   "note": "Economics policy essay for high school students; international students are accepted. The 2026 prompts were the economics of AI and labor, and college costs. Winning essays are published in the magazine Equilibrium. No cash prize is listed.",
+   "act": "Watch the page for the 2027 prompts in early 2027. Questions go to berkeleyeconreview@gmail.com.",
+   "url": "https://econreview.studentorg.berkeley.edu/high-school-essay/",
+   "added": "2026-11-28",
+   "checked": "2026-11-28"
+  },
+  {
+   "id": "islp-poster-2027",
+   "name": "ISLP International Statistical Poster Competition 2026-27",
+   "org": "International Association for Statistical Education (IASE) / ISLP",
+   "fields": [
+    "math",
+    "research"
+   ],
+   "kind": "competition",
+   "deadline": "2027-03-14",
+   "dlabel": "Mar 14, 2027 (final cutoff; US national round may close earlier - confirm)",
+   "status": "ok",
+   "tier": "C",
+   "prestige": 4,
+   "diff": "medium",
+   "hours": "15-30",
+   "cost": "Free",
+   "note": "International statistics poster contest. Teams of 1-5 in the upper secondary group (ages 16-18) compete nationally first, and national winners go to the international round, with prizes of EUR 400/300/200. Open to school students in any country, and a teacher has to register the team.",
+   "act": "Ask a math or stats teacher to register a team with the U.S. ISLP country coordinator and confirm the U.S. national-round deadline.",
+   "url": "https://iase-web.org/islp-poster-competition-2026-2027",
+   "added": "2026-11-28",
+   "checked": "2026-11-28"
   },
   {
    "id": "mit-llrise-27",
@@ -3003,6 +3615,28 @@
    "added": "2026-11-23",
    "seed": true,
    "checked": "2026-11-25"
+  },
+  {
+   "id": "fire-free-speech-forum",
+   "name": "FIRE Free Speech Forum (summer, Washington D.C.)",
+   "org": "Foundation for Individual Rights and Expression (FIRE)",
+   "fields": [
+    "policy"
+   ],
+   "kind": "summer program",
+   "deadline": "2027-03-22",
+   "dlabel": "Mar 22, 2027 (rolling review)",
+   "status": "ok",
+   "tier": "B",
+   "prestige": 5,
+   "diff": "Medium",
+   "hours": "Application ~3; program 1 week (Jun 20-26, 2027)",
+   "cost": "Free (travel self-paid; limited need-based travel scholarships)",
+   "note": "A free week-long First Amendment program for about 200 students at American University, June 20-26, 2027. Open to rising 10th-12th graders aged 15-18 who are enrolled in a U.S. high school. No citizenship rule is listed.",
+   "act": "Apply early, since review is rolling, and ask about a need-based travel scholarship if you need one.",
+   "url": "https://www.fire.org/free-speech-forum",
+   "added": "2026-11-28",
+   "checked": "2026-11-28"
   },
   {
    "id": "cmimc-2027",
@@ -3185,7 +3819,10 @@
    "act": "Submit the online VolunTeen application between Jan 1 and Mar 31, 2027.",
    "url": "https://www.mercy.net/practice/mercy-volunteer-services-northwest-arkansas/",
    "added": "2026-11-26",
-   "checked": "2026-11-26"
+   "checked": "2026-11-26",
+   "contact": "Rick.Ragsdale@Mercy.Net",
+   "question": "I'm a 16-year-old junior in Bentonville on an H-4 dependent visa (not a citizen or green card holder); am I eligible for the VolunTeen program, and does the application or health screening require a Social Security number?",
+   "contact_checked": "2026-11-28"
   },
   {
    "id": "congressional-art-ar3",
@@ -3231,6 +3868,29 @@
    "contact_checked": "2026-11-27"
   },
   {
+   "id": "wha-world-historian",
+   "name": "World Historian Student Essay Competition 2027",
+   "org": "World History Association",
+   "fields": [
+    "writing",
+    "research"
+   ],
+   "kind": "essay contest",
+   "deadline": "2027-03-31",
+   "dlabel": "Mar 31, 2027",
+   "status": "ok",
+   "tier": "B",
+   "prestige": 5,
+   "diff": "medium",
+   "hours": "10-20",
+   "cost": "free",
+   "note": "Essay of 1,000 to 1,500 words for grades 7-12 at any school worldwide. The 2027 theme is how the continued need for human labor has complicated labor-saving technologies; evidence must cover at least two continents and two centuries. The winner gets $250 and a one-year WHA membership.",
+   "act": "Draft a thesis on labor and technology (for example, automation in two eras) and submit the PDF through the WHA online form.",
+   "url": "https://www.thewha.org/prizes-awarded-by-the-wha",
+   "added": "2026-11-28",
+   "checked": "2026-11-28"
+  },
+  {
    "id": "state",
    "name": "Boys State / Girls State",
    "org": "American Legion (Arkansas: UCA, Conway)",
@@ -3255,6 +3915,72 @@
    "contact": "info@arboysstate.org",
    "question": "I'm a rising senior at a Bentonville public high school on an H-4 dependent visa (not a U.S. citizen or permanent resident); am I eligible to be a delegate at Arkansas Boys State?",
    "contact_checked": "2026-11-27"
+  },
+  {
+   "id": "coolidge-ar-open-27",
+   "name": "Coolidge Arkansas Open (Coolidge National Debate Tournament Series)",
+   "org": "Calvin Coolidge Presidential Foundation (hosted at Rogers Heritage HS)",
+   "fields": [
+    "policy"
+   ],
+   "kind": "Debate tournament / national championship qualifier",
+   "deadline": "2027-04-01",
+   "dlabel": "Tournament Apr 3, 2027; registration closes a few days before (confirm)",
+   "status": "ok",
+   "tier": "A",
+   "prestige": 5,
+   "diff": "Medium",
+   "hours": "1 day + prep on Coolidge 1v1 resolution",
+   "cost": "Free (lunch provided in 2026)",
+   "note": "A free 1v1 'Coolidge Singles' debate tournament in Rogers, AR, open to any student in grades 9-12 (homeschool and independent entries allowed; the series also runs an Open in Germany). In 2026 the top four Open/Varsity finishers got invitations and paid travel to the Coolidge Cup in Vermont (July 1-5, 2027), which gave out more than $20,000 in scholarships: $6,000 for first and $500-$3,000 for other places.",
+   "act": "Register (as part of a school team or independently) on Tabroom/Coolidge site in March and prepare the 2026-27 Coolidge resolution; consider the online Spring Open (Apr 10, 2027) as a second bid chance.",
+   "url": "https://coolidgefoundation.org/debate/national-debate-tournament-series/coolidge-arkansas-open/",
+   "added": "2026-11-28",
+   "checked": "2026-11-28"
+  },
+  {
+   "id": "young-family-historians-2027",
+   "name": "Young Family Historians Essay Contest 2027",
+   "org": "American Ancestors (New England Historic Genealogical Society)",
+   "fields": [
+    "writing"
+   ],
+   "kind": "essay contest",
+   "deadline": "2027-04-01",
+   "dlabel": "Apr 1, 2027",
+   "status": "ok",
+   "tier": "C",
+   "prestige": 3,
+   "diff": "low",
+   "hours": "4-8",
+   "cost": "free",
+   "note": "Personal and family-history essay about a meaningful object, for grades 4-12 at public, private or home schools in any U.S. state or territory. The grade 9-12 winner gets $500 and the semifinalist $250.",
+   "act": "Optional low-effort entry: write about a family object, such as something from India, and submit through the online portal by Apr 1.",
+   "url": "https://www.americanancestors.org/Essay-Contest-2027",
+   "added": "2026-11-28",
+   "checked": "2026-11-28"
+  },
+  {
+   "id": "asa-dataviz-poster",
+   "name": "ASA Data Visualization Poster Competition (Grades 10-12)",
+   "org": "American Statistical Association",
+   "fields": [
+    "math"
+   ],
+   "kind": "competition",
+   "deadline": "2027-04-01",
+   "dlabel": "Apr 1, 2027",
+   "status": "ok",
+   "tier": "C",
+   "prestige": 3,
+   "diff": "easy",
+   "hours": "8-15",
+   "cost": "Free",
+   "note": "National poster contest for showing a data story visually; individuals or teams of up to 4. Prizes of $300, $200 and $100. Open to K-12 students who live in the U.S. or Canada.",
+   "act": "Make a one-page statistical poster from a dataset you care about and upload it by April 1, 2027.",
+   "url": "https://www.amstat.org/education/asa-data-visualization-poster-competition-for-grades-k-12-",
+   "added": "2026-11-28",
+   "checked": "2026-11-28"
   },
   {
    "id": "oratorical",
@@ -3299,7 +4025,10 @@
    "act": "Ask the coach to register you on asyncbq.tabroom.com when it opens Feb 1, 2027, and provide a judge.",
    "url": "https://www.speechanddebate.org/asyncbq/",
    "added": "2026-11-25",
-   "checked": "2026-11-25"
+   "checked": "2026-11-25",
+   "contact": "info@speechanddebate.org",
+   "question": "I'm a high school junior at a U.S. public school on an H-4 dependent visa; am I eligible to compete in the Asynchronous Big Questions tournament and to claim a scholarship if I place in the top 10?",
+   "contact_checked": "2026-11-28"
   },
   {
    "id": "purple-comet-2027",
@@ -3343,7 +4072,10 @@
    "act": "Ask the coach which sanctioned tournaments remain this season for qualifying in Original Oratory and Public Forum.",
    "url": "https://www.actaa.net/state",
    "added": "2026-11-25",
-   "checked": "2026-11-25"
+   "checked": "2026-11-25",
+   "contact": "rgreenway@bentonvillek12.org",
+   "question": "I'm a junior at a Bentonville public high school on an H-4 dependent visa; is there any citizenship or residency requirement to compete at the Arkansas Forensics & Debate State Championship beyond attending an AAA member school?",
+   "contact_checked": "2026-11-28"
   },
   {
    "id": "genes-in-space",
@@ -3368,6 +4100,32 @@
    "url": "https://www.genesinspace.org/us-contest/",
    "added": "2026-11-26",
    "checked": "2026-11-26"
+  },
+  {
+   "id": "coolidge-declamation-27",
+   "name": "Coolidge National Declamation Contest",
+   "org": "Calvin Coolidge Presidential Foundation",
+   "fields": [
+    "policy",
+    "writing"
+   ],
+   "kind": "Video declamation contest / scholarship",
+   "deadline": "2027-04-11",
+   "dlabel": "Apr 11, 2027 (entry form not yet posted; confirm)",
+   "status": "ask",
+   "tier": "B",
+   "prestige": 5,
+   "diff": "Medium",
+   "hours": "5-10 (memorize assigned excerpts, record video)",
+   "cost": "Free",
+   "note": "Students record one video delivering assigned excerpts from Coolidge speeches. The top 30 high school entrants each win $100, and the top 12 get travel help to the Coolidge Cup in Vermont (July 2-4, 2027), where scholarships run from $250 to $2,500. The rules require a 'legal resident of the U.S.', which may or may not include H-4 holders.",
+   "act": "Download the 2027 speech packet when it is posted and send the eligibility question through the Foundation's contact page before recording.",
+   "url": "https://coolidgefoundation.org/debate/coolidge-cup-qualifier-for-declamation/",
+   "added": "2026-11-28",
+   "checked": "2026-11-28",
+   "contact_url": "https://coolidgefoundation.org/contact/",
+   "question": "Does the 'legal resident of the U.S.' rule for the National Declamation Contest include a high school student living in Arkansas in lawful H-4 dependent visa status whose family's green card is pending?",
+   "contact_checked": "2026-11-28"
   },
   {
    "id": "mit-llcipher-27",
@@ -3481,7 +4239,10 @@
    "act": "Apply online as a Junior Volunteer for summer 2027 before mid-April, or email volunteerACNW@archildrens.org about year-round shifts.",
    "url": "https://www.archildrens.org/support-us/volunteer-engagement/volunteer-at-arkansas-childrens-northwest",
    "added": "2026-11-26",
-   "checked": "2026-11-26"
+   "checked": "2026-11-26",
+   "contact": "volunteerACNW@archildrens.org",
+   "question": "I'm a high school junior in Bentonville on an H-4 dependent visa (not a citizen or green card holder); am I eligible for the Junior Volunteer Program, and what is the summer 2027 application deadline?",
+   "contact_checked": "2026-11-28"
   },
   {
    "id": "rit-hs-awards",
@@ -3803,6 +4564,29 @@
    "contact_checked": "2026-11-27"
   },
   {
+   "id": "princeton-legal-journal-hs",
+   "name": "Princeton Legal Journal High School Essay Contest",
+   "org": "Princeton Legal Journal (Princeton University)",
+   "fields": [
+    "policy",
+    "writing"
+   ],
+   "kind": "essay contest",
+   "deadline": "2027-05-15",
+   "dlabel": "May 2027 (confirm; 2026 deadline was May 15)",
+   "status": "ok",
+   "tier": "C",
+   "prestige": 5,
+   "diff": "high",
+   "hours": "20-30",
+   "cost": "$15 entry fee",
+   "note": "Constitutional-law essay of 1,500 to 3,000 words; the 2026 theme was religious liberty. It is open to current high school students, and international students are welcome. The top three essays are published in the Princeton Legal Journal; there is no cash prize and a $15 fee.",
+   "act": "Check in spring 2027 for the new prompt and confirm the deadline.",
+   "url": "https://legaljournal.princeton.edu/high-school-essay-contest/",
+   "added": "2026-11-28",
+   "checked": "2026-11-28"
+  },
+  {
    "id": "ohio-u-summer-law-trial",
    "name": "Summer Law & Trial Institute",
    "org": "Ohio University Center for Law, Justice & Culture",
@@ -3845,7 +4629,10 @@
    "act": "Email Constituting America to ask whether an H-4 visa holder counts as a 'legal resident' before writing.",
    "url": "https://constitutingamerica.org/we-the-future-contest-categories-rules-deadlines/",
    "added": "2026-11-25",
-   "checked": "2026-11-25"
+   "checked": "2026-11-25",
+   "contact": "WeTheFuture@ConstitutingAmerica.org",
+   "question": "Your rules say the high school contest is open to 'United States citizens or legal residents'; does a student lawfully living in the U.S. on an H-4 dependent visa count as a legal resident?",
+   "contact_checked": "2026-11-28"
   },
   {
    "id": "icivics-carnegie-youth-fellowship",
@@ -3942,6 +4729,29 @@
    "url": "https://jasna.org/programs/essay-contest/",
    "added": "2026-11-27",
    "checked": "2026-11-27"
+  },
+  {
+   "id": "asa-stat-project",
+   "name": "ASA Statistics Project Competition (Grades 10-12)",
+   "org": "American Statistical Association",
+   "fields": [
+    "math",
+    "research"
+   ],
+   "kind": "competition",
+   "deadline": "2027-06-01",
+   "dlabel": "Jun 1, 2027",
+   "status": "ok",
+   "tier": "B",
+   "prestige": 5,
+   "diff": "medium",
+   "hours": "20-40",
+   "cost": "Free",
+   "note": "National statistics research-project contest (individual or teams of up to 4) judged by the ASA; 1st place $300 plus TI graphing calculators, 2nd $200, 3rd $100. Open to grades 7-12 who live in the U.S. or Canada; no citizenship rule.",
+   "act": "Pick a data question (e.g., a local policy or health dataset), run the analysis, and upload the written report by June 1, 2027.",
+   "url": "https://www.amstat.org/education/asa-statistics-project-competition-for-grades-7-12",
+   "added": "2026-11-28",
+   "checked": "2026-11-28"
   },
   {
    "id": "bowseat",
@@ -4061,6 +4871,29 @@
    "url": "https://www.sidgwickprize.com/",
    "added": "2026-11-25",
    "checked": "2026-11-25"
+  },
+  {
+   "id": "columbia-political-review-hs",
+   "name": "Columbia Political Review High School Essay Contest",
+   "org": "Columbia Political Review (Columbia University)",
+   "fields": [
+    "policy",
+    "writing"
+   ],
+   "kind": "essay contest",
+   "deadline": "2027-07-01",
+   "dlabel": "Jul 1, 2027 (confirm)",
+   "status": "ok",
+   "tier": "B",
+   "prestige": 5,
+   "diff": "medium",
+   "hours": "10-15",
+   "cost": "free",
+   "note": "An annual political essay contest run since 2017 for high school students 'from all across the country and the world'; it drew 1,650 entries in 2026. The winning essay is published by CPR. The 2027 prompt and deadline aren't posted yet, and the July 1 date comes from a third-party calendar.",
+   "act": "Check the contest page in spring 2027 for the new prompt and confirm the deadline.",
+   "url": "http://www.cpreview.org/essay-contest",
+   "added": "2026-11-28",
+   "checked": "2026-11-28"
   },
   {
    "id": "cac",
@@ -4916,17 +5749,115 @@
    "contact": "internships@crystalbridges.org",
    "question": "I am a Bentonville high school junior on an H-4 dependent visa without work authorization. Is there any unpaid or academic-credit way to take part in a high school internship, or are all positions paid roles that require U.S. work authorization?",
    "contact_checked": "2026-11-27"
+  },
+  {
+   "id": "ace-mentor-arkansas",
+   "name": "ACE Mentor Program of Arkansas (Bentonville area)",
+   "org": "ACE Mentor Program of America",
+   "fields": [
+    "eng"
+   ],
+   "kind": "program",
+   "deadline": null,
+   "dlabel": "Rolling (registration dates set by local affiliate; confirm)",
+   "status": "ask",
+   "tier": "B",
+   "prestige": 4,
+   "diff": "low",
+   "hours": "About 15 after-school meetings, 2 hours each",
+   "cost": "free",
+   "note": "Free after-school mentoring where high school teams work with local architects, engineers and builders on a mock design project, tour sites and present at the end of the year. The Arkansas affiliate serves the Bentonville area. ACE students can be nominated for national scholarships and the CIRT National Design + Construction Competition. Citizenship rules aren't stated.",
+   "act": "Email the Arkansas chair to ask whether a junior can join this season and how to register.",
+   "url": "https://www.acementor.org/affiliates/arkansas/",
+   "contact": "arkansas@acementor.org",
+   "question": "Is there still space for a Bentonville high school junior to join this year's team, and can a student on an H-4 visa take part and later be considered for ACE scholarships?",
+   "contact_checked": "2026-11-28",
+   "added": "2026-11-28",
+   "checked": "2026-11-28"
+  },
+  {
+   "id": "ssdc-central-jsc-2027",
+   "name": "Central Space Design Competition 2027 (NASA Johnson Space Center)",
+   "org": "Space Settlement Design Competitions (Aerospace Education Competitions)",
+   "fields": [
+    "eng",
+    "research"
+   ],
+   "kind": "competition",
+   "deadline": null,
+   "dlabel": "Event Mar 5-7, 2027; registration deadline not posted (confirm)",
+   "status": "ask",
+   "tier": "B",
+   "prestige": 5,
+   "diff": "medium",
+   "hours": "Weekend event plus preparation",
+   "cost": "Not stated (travel to Houston)",
+   "note": "A weekend industry simulation at NASA Johnson Space Center in which high school students are placed at random into 'companies' that design a space settlement. Students can register individually or as a team, and Semi-Finals lead to the International SSDC. The site doesn't state fees or citizenship rules.",
+   "act": "Email the organizers to ask about the fee, the registration deadline and eligibility before registering for the Mar 5-7, 2027 Central event.",
+   "url": "https://www.aerospaceeducationcompetitions.org/central-competition",
+   "contact": "info@spaceset.org",
+   "question": "What is the registration deadline and fee for the March 5-7, 2027 Central competition at Johnson Space Center, and can an individual high school junior who attends a U.S. school on an H-4 visa register and attend a NASA-site event?",
+   "contact_checked": "2026-11-28",
+   "added": "2026-11-28",
+   "checked": "2026-11-28"
+  },
+  {
+   "id": "mate-rov-ranger-2027",
+   "name": "MATE ROV Competition 2027 (RANGER class)",
+   "org": "Marine Advanced Technology Education (MATE) Inspiration for Innovation",
+   "fields": [
+    "eng"
+   ],
+   "kind": "competition",
+   "deadline": null,
+   "dlabel": "Regional dates TBD (nearest: Mid-South, Memphis TN); World Championship Jun 24-26, 2027 (confirm)",
+   "status": "ask",
+   "tier": "C",
+   "prestige": 5,
+   "diff": "high",
+   "hours": "100+ (team build season)",
+   "cost": "Team build costs and regional fees (not posted)",
+   "note": "Teams build underwater remotely operated vehicles (ROVs). RANGER is for grades 9-12 and is recommended for students with robotics experience. Regional winners advance to the World Championship (Jun 24-26, 2027, Federal Way, WA). There is no Arkansas regional (nearest are Memphis and Houston), and the site doesn't state citizenship rules.",
+   "act": "Check whether the school or a robotics club would field a team, then contact MATE about the Mid-South (Memphis) regional's dates and eligibility.",
+   "url": "https://materovcompetition.org/ranger",
+   "contact_url": "https://materovcompetition.org/regionals",
+   "question": "Can a high school team from Northwest Arkansas register for the Mid-South (Memphis) regional, and is a team member on an H-4 visa attending a U.S. school eligible to compete and advance to the World Championship?",
+   "contact_checked": "2026-11-28",
+   "added": "2026-11-28",
+   "checked": "2026-11-28"
+  },
+  {
+   "id": "penn-math-contest",
+   "name": "Penn Math Contest (PMC VI)",
+   "org": "University of Pennsylvania math students",
+   "fields": [
+    "math"
+   ],
+   "kind": "competition",
+   "deadline": null,
+   "dlabel": "TBA - date not posted (past contests were in April; confirm)",
+   "status": "ok",
+   "tier": "C",
+   "prestige": 3,
+   "diff": "medium",
+   "hours": "1 day",
+   "cost": "Not listed",
+   "note": "Student-run contest with individual and team rounds that can be taken in person at Penn or online. The site says it is for high schoolers around the world.",
+   "act": "Join the PMC VI interest list on the site, or email staff@pennmathcontest.com for the 2027 date.",
+   "url": "https://www.pennmathcontest.com/",
+   "added": "2026-11-28",
+   "checked": "2026-11-28"
   }
  ],
  "coverage": {
   "National merit and leadership scholarships": "2026-11-27",
   "Scholarships open to juniors (essay, speech, video, art)": "2026-11-27",
   "Arkansas and Northwest Arkansas": "2026-11-27",
-  "Public policy, government, law and civics programs and competitions": "2026-11-25",
-  "Speech, debate and oratory contests and scholarships": "2026-11-25",
-  "Essay and writing contests (policy, history, philosophy, economics, journalism)": "2026-11-25",
-  "Engineering, robotics and technology competitions and programs": "2026-11-25",
-  "Math olympiads and competitions": "2026-11-25",
+  "Public policy, government, law and civics programs and competitions": "2026-11-28",
+  "Speech, debate and oratory contests and scholarships": "2026-11-28",
+  "Essay and writing contests (policy, history, philosophy, economics, journalism)": "2026-11-28",
+  "Engineering, robotics and technology competitions and programs": "2026-11-28",
+  "Math olympiads and competitions": "2026-11-28",
   "Computer science, AI, cybersecurity and app competitions": "2026-11-26",
   "Science research competitions and summer research programs": "2026-11-26",
   "Medicine, health and biology programs and competitions": "2026-11-26",
